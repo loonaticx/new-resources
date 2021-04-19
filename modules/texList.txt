@@ -1,0 +1,822 @@
+bank.egg
+{'../bank_back_wall_half.png', '../bank_roman_crosshead.png', '../bank_roman_gate_column2.png', '../bank_roman_roof_shad.png', '../window_sm_round.png', '../bank_pyraimd_top_half.png', '../wall_stone.png', '../pig.png', '../square_drop_shadow.png', '../wall_trim.png'}
+
+bookcase.egg
+{'../top_shelf_div.png', '../airplane.png', '../drop-shadow.png', '../lower_shelf_div.png', '../toon_int_phone.png', '../ink.png', '../willow.png', '../shelfWood.png', '../square_drop_shadow.png', '../books.png', '../shelfBack.png'}
+
+bookcase_low.egg
+{'../drop-shadow.png', '../ink.png', '../shelfWood.png', '../paper.png', '../square_drop_shadow.png', '../books.png', '../shelfBack.png'}
+
+boss_suit_office.egg
+{'../statue_sleeve.png', '../column_base.png', '../statue_shoe.png', '../int_lingting.png', '../statue_hand.png', '../statue_telemarketer.png', '../pedestal.png', '../column.png', '../boss_windows.png', '../tiles.png', '../ceiling.png', '../stairs_steps.png', '../statue_leg.png', '../statue_bottom_feeder.png', '../statue_blazer.png', '../statue_arm.png', '../plain.png', '../boss_int_wall.png'}
+
+BR_A1.egg
+{'../landmarkshingleroof.png', '../landmark_BRA1side.png', '../window_porthole.png', '../window_sm_round.png', '../landmark_BRA1.png'}
+
+BR_A2.egg
+{'../landmark_BRA2side.png', '../landmarkshingleroof.png', '../window_porthole.png', '../window_sm_round.png', '../landmark_BRA2.png'}
+
+BR_B1.egg
+{'../window_sm_pointed.png', '../window_sm_curved.png', '../landmark_BRB1side.png', '../landmark_BRB1.png', '../walltop_snow.png'}
+
+BR_B2.egg
+{'../window_md_curtain.png', '../landmark_BRB2side.png', '../window_sm_curved.png', '../landmark_BRB2.png', '../window_porthole.png', '../walltop_snow.png'}
+
+BR_B3.egg
+{'../landmark_BR_B3_roofside.png', '../window_sm_curved.png', '../BR_B3_scarf_side.png', '../landmark_BR_B3.png', '../landmark_BR_B3_side.png'}
+
+BR_C1.egg
+{'../window_sm_pointed.png', '../landmark_BRC1porsche.png', '../landmark_BRC1.png', '../window_porthole.png', '../window_sm_round.png', '../landmark_BRC1side.png', '../walltop_snow.png'}
+
+BR_pond.egg
+{'../BRpd_ice_pond.png', '../lake.png', '../snow_wall_front.png', '../snow.png', '../BRpd_background.png'}
+
+BR_windows.egg
+{'../window_sm_roundBR.png', '../window_potholeBR.png', '../window_sm_curvedBR.png'}
+
+chair.egg
+{'../drop-shadow.png', '../chair_cushion.png', '../arch_wood.png'}
+
+clock.egg
+{'../drop-shadow.png', '../clock.png'}
+
+clothshopBR.egg
+{'../wood_gray.png', '../Cst_wall_w_shadowN.png', '../Cst_buttonN.png', '../hanger_shirt.png', '../square_drop_shadow.png', '../Cst_button_sideN.png', '../Cst_window_frame_hN.png', '../Cst_trimN.png', '../Cst_2ndfl_wall_w_shadowN.png', '../store_glass.png', '../Cst_cloth_coat.png', '../hanging_shorts.png', '../Cst_window_frameN.png', '../Cst_chimney_trimN.png', '../stair_wall_neutral.png', '../Cst_beltN.png', '../Cst_awningN.png', '../stair_bannister2.png', '../Cst_belt_sideN.png', '../stair_side_neutral.png', '../stairs_steps_neutral.png', '../Cst_chimneyN.png', '../mannequin.png', '../Cst_roof_tileN.png', '../stair_side2_neutral.png'}
+
+clothshopDD.egg
+{'../wood_gray.png', '../Cst_wall_w_shadowN.png', '../Cst_buttonN.png', '../hanger_shirt.png', '../square_drop_shadow.png', '../Cst_button_sideN.png', '../Cst_window_frame_hN.png', '../Cst_trimN.png', '../Cst_2ndfl_wall_w_shadowN.png', '../store_glass.png', '../Cst_cloth_coat.png', '../hanging_shorts.png', '../Cst_window_frameN.png', '../Cst_chimney_trimN.png', '../stair_wall_neutral.png', '../Cst_beltN.png', '../Cst_awningN.png', '../stair_bannister2.png', '../Cst_belt_sideN.png', '../stair_side_neutral.png', '../stairs_steps_neutral.png', '../Cst_chimneyN.png', '../mannequin.png', '../Cst_roof_tileN.png', '../stair_side2_neutral.png'}
+
+clothshopDG.egg
+{'../wood_gray.png', '../Cst_wall_w_shadowN.png', '../Cst_buttonN.png', '../hanger_shirt.png', '../square_drop_shadow.png', '../Cst_button_sideN.png', '../Cst_window_frame_hN.png', '../Cst_trimN.png', '../Cst_2ndfl_wall_w_shadowN.png', '../store_glass.png', '../Cst_cloth_coat.png', '../hanging_shorts.png', '../Cst_window_frameN.png', '../Cst_chimney_trimN.png', '../stair_wall_neutral.png', '../Cst_beltN.png', '../Cst_awningN.png', '../stair_bannister2.png', '../Cst_belt_sideN.png', '../stair_side_neutral.png', '../stairs_steps_neutral.png', '../Cst_chimneyN.png', '../mannequin.png', '../Cst_roof_tileN.png', '../stair_side2_neutral.png'}
+
+clothshopDL.egg
+{'../wood_gray.png', '../Cst_wall_w_shadowN.png', '../Cst_buttonN.png', '../hanger_shirt.png', '../square_drop_shadow.png', '../Cst_button_sideN.png', '../Cst_window_frame_hN.png', '../Cst_trimN.png', '../Cst_2ndfl_wall_w_shadowN.png', '../store_glass.png', '../Cst_cloth_coat.png', '../hanging_shorts.png', '../Cst_window_frameN.png', '../Cst_chimney_trimN.png', '../stair_wall_neutral.png', '../Cst_beltN.png', '../Cst_awningN.png', '../stair_bannister2.png', '../Cst_belt_sideN.png', '../stair_side_neutral.png', '../stairs_steps_neutral.png', '../Cst_chimneyN.png', '../mannequin.png', '../Cst_roof_tileN.png', '../stair_side2_neutral.png'}
+
+clothshopMM.egg
+{'../wood_gray.png', '../Cst_wall_w_shadowN.png', '../Cst_buttonN.png', '../hanger_shirt.png', '../square_drop_shadow.png', '../Cst_button_sideN.png', '../Cst_window_frame_hN.png', '../Cst_trimN.png', '../Cst_2ndfl_wall_w_shadowN.png', '../store_glass.png', '../Cst_cloth_coat.png', '../hanging_shorts.png', '../Cst_window_frameN.png', '../Cst_chimney_trimN.png', '../stair_wall_neutral.png', '../Cst_beltN.png', '../Cst_awningN.png', '../stair_bannister2.png', '../Cst_belt_sideN.png', '../stair_side_neutral.png', '../stairs_steps_neutral.png', '../Cst_chimneyN.png', '../mannequin.png', '../Cst_roof_tileN.png', '../stair_side2_neutral.png'}
+
+clothshopTT.egg
+{'../wood_gray.png', '../Cst_wall_w_shadowN.png', '../Cst_buttonN.png', '../hanger_shirt.png', '../square_drop_shadow.png', '../Cst_button_sideN.png', '../Cst_window_frame_hN.png', '../Cst_trimN.png', '../Cst_2ndfl_wall_w_shadowN.png', '../store_glass.png', '../Cst_cloth_coat.png', '../hanging_shorts.png', '../Cst_window_frameN.png', '../Cst_chimney_trimN.png', '../stair_wall_neutral.png', '../Cst_beltN.png', '../Cst_awningN.png', '../stair_bannister2.png', '../Cst_belt_sideN.png', '../stair_side_neutral.png', '../stairs_steps_neutral.png', '../Cst_chimneyN.png', '../mannequin.png', '../Cst_roof_tileN.png', '../stair_side2_neutral.png'}
+
+coatrack.egg
+{'../drop-shadow.png', '../coatrackleg_face.png', '../coatrackleg.png', '../coatrack.png'}
+
+cornices.egg
+{'../cornice_dental.png', '../cornice_ice2.png', '../cornice_stone.png', '../cornice_shingles.png', '../cornice_marble.png', '../cornice_brick.png', '../cornice_horizontal.png', '../cornice_curved.png'}
+
+cornices_DG.egg
+{'../cornice_brickDG.png', '../cornice_shinglesDG.png'}
+
+couch_1person.egg
+{'../desk_leg.png', '../square_drop_shadow.png', '../couch3.png'}
+
+couch_2person.egg
+{'../desk_leg.png', '../couch.png', '../square_drop_shadow.png'}
+
+counter.egg
+{'../wood1.png', '../square_drop_shadow.png'}
+
+counterShort.egg
+{'../wood1.png', '../square_drop_shadow.png'}
+
+coutch_1person.egg
+{'../desk_leg.png', '../couch.png'}
+
+coutch_2person.egg
+{'../desk_leg.png', '../couch.png'}
+
+cubesroom.egg
+set()
+
+cubicle_room.egg
+{'../tiles.png', '../cubicles.png', '../plain.png'}
+
+DD_A1.egg
+{'../landmark_DDA1side.png', '../landmarkshingleroof.png', '../landmark_DDA1.png', '../window_porthole.png', '../window_sm_shuttered.png'}
+
+DD_A2.egg
+{'../window_md_curtain.png', '../landmarkshingleroof.png', '../landmark_DDA2side.png', '../window_porthole.png', '../landmark_DDA2.png'}
+
+DD_B1.egg
+{'../landmark22sideC.png', '../landmarkshingleroof.png', '../window_porthole.png', '../window_sm_shuttered.png', '../window_sm_round.png', '../landmark22C.png'}
+
+DD_B2.egg
+{'../landmarkshingleroof.png', '../window_sm_shuttered.png', '../window_sm_round.png', '../landmark_DDB2.png', '../landmark_DDB2side.png'}
+
+DD_C1.egg
+{'../landmark31sideC.png', '../landmarkshingleroof.png', '../landmark_DDC1.png', '../window_porthole.png', '../window_sm_shuttered.png', '../landmark31sidesmC.png'}
+
+DD_D1.egg
+{'../landmarkshingleroof.png', '../landmark_DD_D1_topside.png', '../landmark_DD_D1_mast.png', '../window_porthole.png', '../landmark_DD_D1_front.png', '../landmark_DD_D1jrb.png', '../landmark_DD_D1_horn.png'}
+
+DD_doors.egg
+{'../door_double_wood.png'}
+
+DD_doors_practical.egg
+{'../door_double_wood.png'}
+
+DD_pond.egg
+{'../pond_land_edge.png', '../boardwalk_floor_dark.png', '../wall_fence_wood.png', '../grassDD.png', '../water3.png', '../treetops.png'}
+
+desk.egg
+{'../desk_leg.png', '../duster.png', '../desk_leg2.png', '../toon_int_phone.png', '../ink.png', '../paper.png', '../tie_rack.png', '../tie.png', '../draw.png'}
+
+desk_only.egg
+{'../desk_leg.png', '../desk_leg2.png', '../toon_int_phone.png', '../ink.png', '../paper.png', '../draw.png'}
+
+desk_only_wo_phone.egg
+{'../desk_leg.png', '../desk_leg2.png', '../ink.png', '../paper.png', '../draw.png'}
+
+DG_A1.egg
+{'../vine_end.png', '../DG_A1_roofside.png', '../DG_A1_roof.png', '../landmark_DGA1_simple.png', '../dga1_top_win_side_r.png', '../vines3.png', '../DGA!_basement.png', '../window_md_curved.png'}
+
+DG_A2.egg
+{'../DG_A2_roofside.png', '../landmark_DGA2.png', '../dga2_top_win_side_r.png', '../foundation_wall_rock.png', '../window_flowerPorthole.png', '../window_md_curved.png', '../DG_A2_roof.png'}
+
+DG_A2_old.egg
+{'../DG_A2_roofside.png', '../landmark_DGA2.png', '../DG_A2_stairside.png', '../dga2_top_win_side_r.png', '../window_sm_curved.png', '../DG_A2_side.png', '../window_flowerPorthole.png', '../window_md_curved.png', '../DG_A2_roof.png'}
+
+DG_B1.egg
+{'../window_sm_pointed.png', '../landmark_DGB1_roof.png', '../landmark_DGB1_roofrim.png', '../landmark_DGB1_side.png', '../DGB1_horn.png', '../window_flowerPorthole.png', '../landmark_DGB1_towerbottom.png', '../landmark_DGB1.png'}
+
+DG_B1_old.egg
+{'../window_sm_pointed.png', '../DG_A2_stairside.png', '../landmark_DGB1_roof.png', '../landmark_DGB1_roofrim.png', '../landmark_DGB1_side.png', '../DGB1_horn.png', '../window_flowerPorthole.png', '../landmark_DGB1_towerbottom.png', '../landmark_DGB1.png'}
+
+DG_C1.egg
+{'../window_sm_curved.png', '../landmark_DGC1_roofside.png', '../foundation_wall_rock.png', '../landmark_DGC1_side.png', '../landmark_DGC1.png', '../landmark_DGC1_roofflower.png', '../window_md_curved.png', '../DG_A2_roof.png'}
+
+DG_D1.egg
+{'../window_sm_pointed.png', '../DG_D1.png', '../DG_D1_side.png', '../DG_D1_roof_flower.png', '../DG_A2_roof.png'}
+
+DG_pond.egg
+{'../flower_bed2a.png', '../grassDG.png', '../DGpd_pond.png', '../daisys_ground_pond_only.png', '../daisys_trees.png'}
+
+DG_windows.egg
+{'../window_flowerPorthole.png', '../window_sm_pointedDG.png', '../window_md_curvedDG.png'}
+
+DL_A1.egg
+{'../landmark_DLA1_side_top.png', '../window_md_curvedDL.png', '../landmark_DLA1_molding_top.png', '../landmark_DLA1_front3.png', '../landmark_DLA1_chimney.png', '../landmark_DLA1_side_lower.png'}
+
+DL_B1.egg
+{'../DL_B1_side_molding_top.png', '../landmark_DLB1_front2.png', '../DL_B1_side_lower.png', '../DL_B1_side_molding_lower.png', '../DL_B1_side_top.png', '../window_sm_curvedDL.png'}
+
+DL_C1.egg
+{'../DG_A1_roof.png', '../cookoo.png', '../DL_C1_side_molding_bottom.png', '../DL_C1_side_molding_top.png', '../DL_C1_side_top.png', '../DL_C1_side_middle.png', '../DL_C1_side_roof_edge.png', '../DL_C1_side_bottom.png', '../DL_C1_gold_clock_part.png', '../window_sm_curved2DL.png', '../landmark_DLC1_front2.png', '../cookoo_ledge.png'}
+
+DL_D1.egg
+{'../landmark_DLD1new.png', '../landmark_DLD1_side.png'}
+
+DL_doors.egg
+{'../door_double_roundDL.png'}
+
+DL_doors_practical.egg
+{'../door_double_roundDL.png'}
+
+DL_E1.egg
+{'../landmark_DLE1_side.png', '../landmark_DLE1_top.png', '../landmark_DLE1.png'}
+
+DL_pond.egg
+{'../flat_weathervane_cat.png', '../wall_fence_wood.png', '../brick_floor_Ncont_purple.png', '../cloudsDL.png', '../DL_pond_moon.png', '../water3_old.png'}
+
+DL_windows.egg
+{'../window_sm_roundDL.png', '../window_sm_shutteredDL.png', '../window_sm_curved2DL.png', '../window_md_curved2DL.png', '../window_sm_squareDL.png', '../window_sm_round2DL.png', '../window_sm_curvedDL.png', '../window_md_curvedDL.png'}
+
+donalds_boat.egg
+{'../duckboatprofile_blank.png', '../gold.png', '../duckboatrooftop.png', '../boat_window_sm.png', '../d_boat_deck.png', '../duckboatcockpit_front_wall.png', '../duck_boat_door.png', '../duckboathull.png', '../duckboatcockpit_left_wall.png', '../duckboat_wheel1.png', '../duckboatcockpit_back_wall.png', '../duckboatsmokestack.png', '../duckboat_whistle.png', '../prowlady.png', '../duckboatcockpit_right_wall.png', '../window_decal-orange.png', '../prowladywings.png', '../boatfrontwallwframe.png'}
+
+doors.egg
+{'../door_single_square.png', '../door_garage.png', '../door_single_round.png', '../door_single_shuttered.png'}
+
+doors_practical.egg
+{'../door_double_round.png', '../door_double-pillars.png', '../door_double_square.png', '../door_single_frenchGlass.png', '../door_double_curved.png'}
+
+elevator.egg
+{'../elevatorchip.png', '../elevatorcorner1.png', '../elevator_chip.png', '../elevator_rivetstrip.png', '../backwall_small.png', '../elevator_button_panel.png', '../Elevator_wall_quarter.png', '../elevator_door.png', '../elevator_button.png'}
+
+ending_table.egg
+{'../drop-shadow.png', '../shot_lamp_base.png'}
+
+facade_a.egg
+{'../panel_gray.png', '../store_roof_gray.png', '../store_glass.png', '../arch_gray.png', '../wood_gray.png', '../panel_gray_2.png', '../panel_stucco.png', '../square_drop_shadow.png'}
+
+facade_aN.egg
+{'../panel_gray.png', '../store_roof_gray.png', '../store_glass.png', '../arch_gray.png', '../arch_wood.png', '../panel_gray_2.png', '../wood_gray.png', '../panel_stucco.png', '../square_drop_shadow.png', '../arch_wood_3brozen.png'}
+
+facade_b.egg
+{'../panel_wood1.png', '../store_glass.png', '../drapery.png', '../panel_wood.png', '../wood_gray.png', '../square_drop_shadow.png', '../facade_arch_wood.png'}
+
+facade_bN.egg
+{'../panel_wood1.png', '../store_glass.png', '../drapery.png', '../panel_wood.png', '../wood_gray.png', '../square_drop_shadow.png', '../facade_arch_wood.png'}
+
+facade_c.egg
+{'../store_roof_gray.png', '../store_glass.png', '../panel_wood.png', '../wood_gray.png', '../square_drop_shadow.png'}
+
+facade_cN.egg
+{'../store_roof_gray.png', '../store_glass.png', '../panel_wood.png', '../wood_gray.png', '../square_drop_shadow.png'}
+
+facade_d.egg
+{'../store_glass.png', '../drapery.png', '../wood_gray.png', '../panel_stucco.png', '../square_drop_shadow.png'}
+
+facade_dM.egg
+{'../store_glass.png', '../drapery.png', '../wood_gray.png', '../panel_stucco.png', '../square_drop_shadow.png'}
+
+facade_dN.egg
+{'../store_glass.png', '../drapery.png', '../wood_gray.png', '../panel_stucco.png', '../square_drop_shadow.png'}
+
+facade_e.egg
+{'../panel_gray.png', '../store_glass.png', '../drapery.png', '../arch_gray.png', '../wood_gray.png', '../awning_facadeE.png', '../square_drop_shadow.png'}
+
+facade_eN.egg
+{'../panel_gray.png', '../store_glass.png', '../drapery.png', '../arch_gray.png', '../wood_gray.png', '../awning_facadeE.png', '../square_drop_shadow.png'}
+
+gagShop_BR_castillian.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_signBIG_BRCastillian.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_BR_english.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../GS_signBIG_BR.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_BR_french.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_signBIGBR_french.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_BR_german.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_signBIGBR_german.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_BR_japanese.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_signBIG_BR_japanese.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_roofNeutral.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_BR_portuguese.egg
+{'../GS_signBIGPortugueseBR.png', '../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DD_castillian.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../GS_signBIGCastillian.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DD_english.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sign.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DD_french.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_signBIG_french.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DD_german.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_signBIG_german.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DD_japanese.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../GS_signBIG_japanese.png', '../safebox_bot.png', '../flat_chimneyBottom.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DD_portuguese.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_signBIGPortuguese.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DG_castillian.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../GS_signBIGCastillian.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DG_english.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sign.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DG_french.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_signBIG_french.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DG_german.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_signBIG_german.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DG_japanese.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../GS_signBIG_japanese.png', '../safebox_bot.png', '../flat_chimneyBottom.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DG_portuguese.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_signBIGPortuguese.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DL_castillian.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../GS_signBIGCastillian.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DL_english.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sign.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DL_french.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_signBIG_french.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DL_german.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_signBIG_german.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DL_japanese.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../GS_signBIG_japanese.png', '../safebox_bot.png', '../flat_chimneyBottom.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_DL_portuguese.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_signBIGPortuguese.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_interior_castillian.egg
+{'../wall_paper_b3.png', '../GS_boxside.png', '../GS_barrel.png', '../drop-shadow.png', '../house_painting.png', '../GS_fireworks.png', '../GS_signBIGCastillian.png', '../interior_door.png', '../GS_barrel_top.png', '../GS_box_bot.png', '../GS_box_frt.png', '../window_sm_round.png', '../wall_paper_a1.png', '../GS_box_top.png', '../square_drop_shadow.png', '../floor_create_toon.png', '../GS_wood.png'}
+
+gagShop_interior_english.egg
+{'../wall_paper_b3.png', '../GS_boxside.png', '../GS_barrel.png', '../GS_sign.png', '../drop-shadow.png', '../house_painting.png', '../GS_fireworks.png', '../interior_door.png', '../GS_barrel_top.png', '../GS_box_bot.png', '../GS_box_frt.png', '../window_sm_round.png', '../GS_box_top.png', '../square_drop_shadow.png', '../floor_create_toon.png', '../GS_wood.png'}
+
+gagShop_interior_french.egg
+{'../wall_paper_b3.png', '../GS_boxside.png', '../GS_barrel.png', '../drop-shadow.png', '../house_painting.png', '../GS_fireworks.png', '../wall_paper_a1.png', '../interior_door.png', '../GS_barrel_top.png', '../GS_box_bot.png', '../GS_box_frt.png', '../window_sm_round.png', '../GS_box_top.png', '../square_drop_shadow.png', '../floor_create_toon.png', '../GS_wood.png', '../GS_signBIG_french.png'}
+
+gagShop_interior_german.egg
+{'../wall_paper_b3.png', '../GS_boxside.png', '../GS_barrel.png', '../drop-shadow.png', '../house_painting.png', '../GS_signBIGGerman.png', '../GS_fireworks.png', '../interior_door.png', '../GS_barrel_top.png', '../GS_box_bot.png', '../GS_box_frt.png', '../window_sm_round.png', '../GS_box_top.png', '../square_drop_shadow.png', '../floor_create_toon.png', '../GS_wood.png'}
+
+gagShop_interior_japanese.egg
+{'../wall_paper_b3.png', '../GS_boxside.png', '../GS_barrel.png', '../drop-shadow.png', '../house_painting.png', '../GS_fireworks.png', '../interior_door.png', '../GS_barrel_top.png', '../GS_box_bot.png', '../GS_box_frt.png', '../window_sm_round.png', '../GS_box_top.png', '../GS_signBIG_japanese.png', '../square_drop_shadow.png', '../floor_create_toon.png', '../GS_wood.png'}
+
+gagShop_interior_portuguese.egg
+{'../wall_paper_b3.png', '../GS_signBIGPortuguese.png', '../GS_boxside.png', '../GS_barrel.png', '../drop-shadow.png', '../house_painting.png', '../GS_fireworks.png', '../interior_door.png', '../GS_barrel_top.png', '../GS_box_bot.png', '../GS_box_frt.png', '../window_sm_round.png', '../GS_box_top.png', '../square_drop_shadow.png', '../floor_create_toon.png', '../GS_wood.png'}
+
+gagShop_MM_castillian.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../GS_signBIGCastillian.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_MM_english.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sign.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_MM_french.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_signBIG_french.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_MM_german.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_signBIG_german.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_MM_japanese.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../GS_signBIG_japanese.png', '../safebox_bot.png', '../flat_chimneyBottom.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_MM_portuguese.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_signBIGPortuguese.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_TT_castillian.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../GS_signBIGCastillian.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_TT_english.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sign.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_TT_french.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_signBIG_french.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_TT_german.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_signBIG_german.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_TT_japanese.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../GS_signBIG_japanese.png', '../safebox_bot.png', '../flat_chimneyBottom.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gagShop_TT_portuguese.egg
+{'../GS_windowBG.png', '../GS_windowNeutral.png', '../square_drop_shadow.png', '../weight1ton2.png', '../GS_wood.png', '../new_safe_front.png', '../GS_signBIGPortuguese.png', '../GS_boxside.png', '../cornicesNeutral.png', '../GS_sideNeutral.png', '../GS_roofNeutral.png', '../GS_fireworks.png', '../GS_hook.png', '../GS_rope.png', '../anvil.png', '../flat_chimneyTop.png', '../safe_fall_hole.png', '../GS_hatNeutral.png', '../GS_frontNeutral.png', '../GS_barrel_top.png', '../GS_awningNeutral.png', '../GS_windowR.png', '../weight_1ton.png', '../flat_chimneyBottom.png', '../safebox_bot.png', '../GS_box_bot.png', '../GS_hang_rope.png', '../GS_barrel.png', '../drop-shadow.png', '../GS_windowT1Neutral.png', '../flat_chimney.png', '../GS_box_frt.png', '../safe_side.png', '../windowL1Neutral.png', '../GS_box_top.png', '../GS_roofsideNeutral.png', '../awning_edge.png', '../GS_windowL.png', '../new_safe_knob1.png'}
+
+gazebo.egg
+{'../rails.png', '../gazebo_lg_side.png', '../gazebo_archs.png', '../fence2.png', '../steps_ends.png', '../gazebo_inner_ceiling.png', '../gazebo_top_roof2.png', '../gazebo_stairs.png', '../railsTop.png', '../gazebo_top_window.png', '../gazebo_tri_side.png', '../gazebo_roof1.png', '../columns.png'}
+
+hqBR_castillian.egg
+{'../hqBR_ent.png', '../hq_gray.png', '../hqBR_iglooCastillian.png', '../hq_sidewood.png', '../hq_speaker_end.png', '../drop-shadow.png', '../hqBR_hatsideL.png', '../hqBR_hatsideR.png', '../hqBR_door.png', '../hqBR_ent_side.png', '../hqBR_light.png', '../hqBR_tower_top.png', '../hqTT_tower_base.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqBR_english.egg
+{'../hqBR_ent.png', '../hq_gray.png', '../hqBR_igloo.png', '../hqTT_eye.png', '../hq_sidewood.png', '../hq_speaker_end.png', '../drop-shadow.png', '../hqBR_hatsideL.png', '../hqBR_hatsideR.png', '../hqBR_door.png', '../hqBR_ent_side.png', '../hqBR_periscope.png', '../hqBR_light.png', '../hqBR_tower_top.png', '../hqTT_tower_base.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqBR_french.egg
+{'../hqBR_ent.png', '../hq_gray.png', '../hqBR_igloo_french.png', '../hq_sidewood.png', '../hq_speaker_end.png', '../drop-shadow.png', '../hqBR_hatsideL.png', '../hqBR_hatsideR.png', '../hqBR_door.png', '../hqBR_ent_side.png', '../hqBR_light.png', '../hqBR_tower_top.png', '../hqTT_tower_base.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqBR_german.egg
+{'../hqBR_ent.png', '../hq_gray.png', '../hq_sidewood.png', '../hq_speaker_end.png', '../hqBR_igloo_german.png', '../drop-shadow.png', '../hqBR_hatsideL.png', '../hqBR_hatsideR.png', '../hqBR_door.png', '../hqBR_ent_side.png', '../hqBR_light.png', '../hqBR_tower_top.png', '../hqTT_tower_base.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqBR_japanese.egg
+{'../hqBR_ent.png', '../hq_gray.png', '../hq_sidewood.png', '../hq_speaker_end.png', '../drop-shadow.png', '../hqBR_hatsideL.png', '../hqBR_hatsideR.png', '../hqBR_door.png', '../hqBR_ent_side.png', '../hqBR_igloo_japanese.png', '../hqBR_light.png', '../hqBR_tower_top.png', '../hqTT_tower_base.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqBR_portuguese.egg
+{'../hqBR_ent.png', '../hq_gray.png', '../hq_sidewood.png', '../hq_speaker_end.png', '../drop-shadow.png', '../hqBR_hatsideL.png', '../hqBR_hatsideR.png', '../hqBR_door.png', '../hqBR_ent_side.png', '../hqBR_light.png', '../hqBR_igloo_portuguese.png', '../hqBR_tower_top.png', '../hqTT_tower_base.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqDD_castillian.egg
+{'../hqDD_wood.png', '../boardwalk_floor_dark.png', '../pierpilon_underwater.png', '../hqTT_tower_base.png', '../pierpilon_top.png', '../hq_sidewood.png', '../water3.png', '../hqDD_ship_front.png', '../hqDD_boat.png', '../hq_light.png', '../ropes.png', '../hq_gray.png', '../hq_speaker_end.png', '../pierpilon_upper.png', '../tower_top.png', '../hqDD_door.png', '../hq_frtwood.png', '../hqDD_hat_rimCastillian.png', '../hq_speaker_in.png'}
+
+hqDD_french.egg
+{'../hqDD_wood.png', '../boardwalk_floor_dark.png', '../pierpilon_underwater.png', '../hqTT_tower_base.png', '../pierpilon_top.png', '../hq_sidewood.png', '../water3.png', '../hqDD_ship_front.png', '../hqDD_hat_rim_french.png', '../hqDD_boat.png', '../hq_light.png', '../ropes.png', '../hq_gray.png', '../hq_speaker_end.png', '../pierpilon_upper.png', '../tower_top.png', '../hqDD_door.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqDD_german.egg
+{'../hqDD_wood.png', '../boardwalk_floor_dark.png', '../pierpilon_underwater.png', '../hqTT_tower_base.png', '../pierpilon_top.png', '../hq_sidewood.png', '../water3.png', '../hqDD_ship_front.png', '../hqDD_boat.png', '../hq_light.png', '../ropes.png', '../hq_gray.png', '../hq_speaker_end.png', '../pierpilon_upper.png', '../hqDD_hat_rim_german.png', '../tower_top.png', '../hqDD_door.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqDD_japanese.egg
+{'../hqDD_wood.png', '../boardwalk_floor_dark.png', '../pierpilon_underwater.png', '../hqTT_tower_base.png', '../pierpilon_top.png', '../hq_sidewood.png', '../water3.png', '../hqDD_ship_front.png', '../hqDD_boat.png', '../hq_light.png', '../ropes.png', '../hq_gray.png', '../hq_speaker_end.png', '../pierpilon_upper.png', '../tower_top.png', '../hqDD_hat_rim_japanese.png', '../hqDD_door.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqDD_portuguese.egg
+{'../hqDD_wood.png', '../boardwalk_floor_dark.png', '../hqDD_hat_rim_portuguese.png', '../pierpilon_underwater.png', '../hqTT_tower_base.png', '../pierpilon_top.png', '../hq_sidewood.png', '../water3.png', '../hqDD_ship_front.png', '../hqDD_boat.png', '../hq_light.png', '../ropes.png', '../hq_gray.png', '../hq_speaker_end.png', '../pierpilon_upper.png', '../tower_top.png', '../hqDD_door.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqDD_SZ_castillian.egg
+{'../hq_gray.png', '../hqDD_wood.png', '../pierpilon_upper.png', '../hq_sidewood.png', '../hq_speaker_end.png', '../boardwalk_floor.png', '../hqDD_ship_front.png', '../tower_top.png', '../hqDD_boat.png', '../hq_light.png', '../pierpilon_underwater.png', '../hqTT_tower_base.png', '../hqDD_door.png', '../hq_frtwood.png', '../hqDD_hat_rimCastillian.png', '../hq_speaker_in.png', '../pierpilon_top.png'}
+
+hqDD_SZ_french.egg
+{'../hq_gray.png', '../hqDD_wood.png', '../pierpilon_upper.png', '../hq_sidewood.png', '../hq_speaker_end.png', '../boardwalk_floor.png', '../hqDD_ship_front.png', '../hqDD_hat_rim_french.png', '../tower_top.png', '../hqDD_boat.png', '../hq_light.png', '../pierpilon_underwater.png', '../hqTT_tower_base.png', '../hqDD_door.png', '../hq_frtwood.png', '../hq_speaker_in.png', '../pierpilon_top.png'}
+
+hqDD_SZ_german.egg
+{'../hq_gray.png', '../hqDD_wood.png', '../pierpilon_upper.png', '../hqDD_hat_rim_german.png', '../hq_sidewood.png', '../hq_speaker_end.png', '../boardwalk_floor.png', '../hqDD_ship_front.png', '../tower_top.png', '../hqDD_boat.png', '../hq_light.png', '../pierpilon_underwater.png', '../hqTT_tower_base.png', '../hqDD_door.png', '../hq_frtwood.png', '../hq_speaker_in.png', '../pierpilon_top.png'}
+
+hqDD_SZ_japanese.egg
+{'../hq_gray.png', '../hqDD_wood.png', '../pierpilon_upper.png', '../hq_sidewood.png', '../hq_speaker_end.png', '../boardwalk_floor.png', '../hqDD_ship_front.png', '../tower_top.png', '../hqDD_boat.png', '../hqDD_hat_rim_japanese.png', '../hq_light.png', '../pierpilon_underwater.png', '../hqTT_tower_base.png', '../hqDD_door.png', '../hq_frtwood.png', '../hq_speaker_in.png', '../pierpilon_top.png'}
+
+hqDD_SZ_portuguese.egg
+{'../hq_gray.png', '../hqDD_wood.png', '../pierpilon_upper.png', '../hq_sidewood.png', '../hq_speaker_end.png', '../boardwalk_floor.png', '../hqDD_ship_front.png', '../tower_top.png', '../hqDD_boat.png', '../hqDD_hat_rim_portuguese.png', '../hq_light.png', '../pierpilon_underwater.png', '../hqTT_tower_base.png', '../hqDD_door.png', '../hq_frtwood.png', '../hq_speaker_in.png', '../pierpilon_top.png'}
+
+hqDG_castillian.egg
+{'../hq_speaker_in.png', '../hqDG_bldg.png', '../square_drop_shadow.png', '../hqTT_tower_base.png', '../hqDG_flower.png', '../hq_sidewood.png', '../hqDL_rope.png', '../hqDG_frame.png', '../hqDG_base.png', '../hq_light.png', '../hqDG_sprayN.png', '../hq_gray.png', '../hq_speaker_end.png', '../hqDG_spray.png', '../drop-shadow.png', '../hqDG_door.png', '../tower_top.png', '../hqTT_signCastillian.png', '../hq_frtwood.png', '../hqDG_hat.png'}
+
+hqDG_english.egg
+{'../hq_speaker_in.png', '../hqDG_bldg.png', '../square_drop_shadow.png', '../hqTT_tower_base.png', '../hqDG_flower.png', '../hqTT_eye.png', '../hq_sidewood.png', '../hqDL_rope.png', '../hqDG_frame.png', '../hqDG_base.png', '../hq_light.png', '../hqDG_sprayN.png', '../hq_gray.png', '../hq_speaker_end.png', '../hqDG_spray.png', '../drop-shadow.png', '../hqTT_sign.png', '../hqDG_door.png', '../tower_top.png', '../hq_frtwood.png', '../hqDG_hat.png'}
+
+hqDG_french.egg
+{'../hq_speaker_in.png', '../hqDG_bldg.png', '../square_drop_shadow.png', '../hqTT_tower_base.png', '../hqDG_flower.png', '../hqTT_sign_french.png', '../hq_sidewood.png', '../hqDL_rope.png', '../hqDG_frame.png', '../hqDG_base.png', '../hq_light.png', '../hqDG_sprayN.png', '../hq_gray.png', '../hq_speaker_end.png', '../hqDG_spray.png', '../drop-shadow.png', '../hqDG_door.png', '../tower_top.png', '../hq_frtwood.png', '../hqDG_hat.png'}
+
+hqDG_german.egg
+{'../hq_speaker_in.png', '../hqDG_bldg.png', '../square_drop_shadow.png', '../hqTT_tower_base.png', '../hqDG_flower.png', '../hqDL_sign_german.png', '../hq_sidewood.png', '../hqDL_rope.png', '../hqDG_frame.png', '../hqDG_base.png', '../hq_light.png', '../hqDG_sprayN.png', '../hq_gray.png', '../hq_speaker_end.png', '../hqDG_spray.png', '../drop-shadow.png', '../hqDG_door.png', '../tower_top.png', '../hq_frtwood.png', '../hqDG_hat.png'}
+
+hqDG_japanese.egg
+{'../hqMM_sign_japanese.png', '../hq_speaker_in.png', '../hqDG_bldg.png', '../square_drop_shadow.png', '../hqTT_tower_base.png', '../hqDG_flower.png', '../hq_sidewood.png', '../hqDL_rope.png', '../hqDG_frame.png', '../hqDG_base.png', '../hq_light.png', '../hqDG_sprayN.png', '../hq_gray.png', '../hq_speaker_end.png', '../hqDG_spray.png', '../drop-shadow.png', '../hqDG_door.png', '../tower_top.png', '../hq_frtwood.png', '../hqDG_hat.png'}
+
+hqDG_portuguese.egg
+{'../hq_speaker_in.png', '../hqDG_bldg.png', '../square_drop_shadow.png', '../hqTT_tower_base.png', '../hqDG_flower.png', '../hq_sidewood.png', '../hqDL_rope.png', '../hqDL_sign_portuguese.png', '../hqDG_frame.png', '../hqDG_base.png', '../hq_light.png', '../hqDG_sprayN.png', '../hq_gray.png', '../hq_speaker_end.png', '../hqDG_spray.png', '../drop-shadow.png', '../hqDG_door.png', '../tower_top.png', '../hq_frtwood.png', '../hqDG_hat.png'}
+
+hqDL_castillian.egg
+{'../hqDL_door.png', '../hqDL_head.png', '../hqDL_nightcap.png', '../square_drop_shadow.png', '../hqDL_ball.png', '../hqTT_tower_base.png', '../hqDL_balcony.png', '../hq_sidewood.png', '../hqDL_rope.png', '../hqDL_drframe.png', '../hq_light.png', '../hq_gray.png', '../hqDL_signCastillian.png', '../hq_speaker_end.png', '../hqDL_side.png', '../hqDL_head_back.png', '../hqDL_1stfloor.png', '../drop-shadow.png', '../hqDL_sideL.png', '../tower_top.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqDL_english.egg
+{'../hqDL_door.png', '../hqDL_head.png', '../hqDL_nightcap.png', '../square_drop_shadow.png', '../hqDL_ball.png', '../hqTT_tower_base.png', '../hqTT_eye.png', '../hqDL_balcony.png', '../hq_sidewood.png', '../hqDL_rope.png', '../hqDL_sign.png', '../hqDL_drframe.png', '../hq_light.png', '../hq_gray.png', '../hq_speaker_end.png', '../hqDL_side.png', '../hqDL_head_back.png', '../hqDL_1stfloor.png', '../drop-shadow.png', '../hqDL_sideL.png', '../tower_top.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqDL_french.egg
+{'../hqDL_door.png', '../hqDL_head.png', '../hqDL_nightcap.png', '../square_drop_shadow.png', '../hqDL_ball.png', '../hqTT_tower_base.png', '../hqDL_balcony.png', '../hq_sidewood.png', '../hqDL_rope.png', '../hqDL_drframe.png', '../hq_light.png', '../hq_gray.png', '../hqDL_sign_french.png', '../hq_speaker_end.png', '../hqDL_side.png', '../hqDL_head_back.png', '../hqDL_1stfloor.png', '../drop-shadow.png', '../hqDL_sideL.png', '../tower_top.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqDL_german.egg
+{'../hqDL_door.png', '../hqDL_head.png', '../hqDL_nightcap.png', '../square_drop_shadow.png', '../hqDL_ball.png', '../hqTT_tower_base.png', '../hqDL_sign_german.png', '../hqDL_balcony.png', '../hq_sidewood.png', '../hqDL_rope.png', '../hqDL_drframe.png', '../hq_light.png', '../hq_gray.png', '../hq_speaker_end.png', '../hqDL_side.png', '../hqDL_head_back.png', '../hqDL_1stfloor.png', '../drop-shadow.png', '../hqDL_sideL.png', '../tower_top.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqDL_japanese.egg
+{'../hqDL_door.png', '../hqDL_head.png', '../hqDL_nightcap.png', '../square_drop_shadow.png', '../hqDL_sign_japanese.png', '../hqDL_ball.png', '../hqTT_tower_base.png', '../hqDL_balcony.png', '../hq_sidewood.png', '../hqDL_rope.png', '../hqDL_drframe.png', '../hq_light.png', '../hq_gray.png', '../hq_speaker_end.png', '../hqDL_side.png', '../hqDL_head_back.png', '../hqDL_1stfloor.png', '../drop-shadow.png', '../hqDL_sideL.png', '../tower_top.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqDL_portuguese.egg
+{'../hqDL_door.png', '../hqDL_head.png', '../hqDL_nightcap.png', '../square_drop_shadow.png', '../hqDL_ball.png', '../hqTT_tower_base.png', '../hqDL_balcony.png', '../hq_sidewood.png', '../hqDL_rope.png', '../hqDL_sign_portuguese.png', '../hqDL_drframe.png', '../hq_light.png', '../hq_gray.png', '../hq_speaker_end.png', '../hqDL_side.png', '../hqDL_head_back.png', '../hqDL_1stfloor.png', '../drop-shadow.png', '../hqDL_sideL.png', '../tower_top.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqMM_castillian.egg
+{'../hqMM_bldgside.png', '../hqMM_button_sq.png', '../square_drop_shadow.png', '../hqMM_signCastillian.png', '../hqTT_tower_base.png', '../hq_sidewood.png', '../hq_light.png', '../hqMM_bldg.png', '../hq_gray.png', '../hqMM_earpad.png', '../hqMM_btbase.png', '../hqMM_connector.png', '../hq_speaker_end.png', '../hqMM_frame.png', '../hqMM_earpiece.png', '../hqMM_button_ro.png', '../tower_top.png', '../hqMM_center.png', '../hqMM_door.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqMM_english.egg
+{'../hqMM_bldgside.png', '../hqMM_button_sq.png', '../square_drop_shadow.png', '../hqTT_tower_base.png', '../hqTT_eye.png', '../hq_sidewood.png', '../hq_light.png', '../hqMM_bldg.png', '../hq_gray.png', '../hqMM_earpad.png', '../hqMM_btbase.png', '../hqMM_connector.png', '../hq_speaker_end.png', '../hqMM_frame.png', '../hqMM_earpiece.png', '../hqMM_button_ro.png', '../tower_top.png', '../hqMM_center.png', '../hqMM_sign.png', '../hqMM_door.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqMM_french.egg
+{'../hqMM_bldgside.png', '../hqMM_button_sq.png', '../square_drop_shadow.png', '../hqTT_tower_base.png', '../hq_sidewood.png', '../hqMM_sign_french.png', '../hq_light.png', '../hqMM_bldg.png', '../hq_gray.png', '../hqMM_earpad.png', '../hqMM_btbase.png', '../hqMM_connector.png', '../hq_speaker_end.png', '../hqMM_frame.png', '../hqMM_earpiece.png', '../hqMM_button_ro.png', '../tower_top.png', '../hqMM_center.png', '../hqMM_door.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqMM_german.egg
+{'../hqMM_bldgside.png', '../hqMM_button_sq.png', '../square_drop_shadow.png', '../hqTT_tower_base.png', '../hq_sidewood.png', '../hqMM_sign_german.png', '../hq_light.png', '../hqMM_bldg.png', '../hq_gray.png', '../hqMM_earpad.png', '../hqMM_btbase.png', '../hqMM_connector.png', '../hq_speaker_end.png', '../hqMM_frame.png', '../hqMM_earpiece.png', '../hqMM_button_ro.png', '../tower_top.png', '../hqMM_center.png', '../hqMM_door.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqMM_japanese.egg
+{'../hqMM_bldgside.png', '../hqMM_sign_japanese.png', '../hqMM_button_sq.png', '../square_drop_shadow.png', '../hqTT_tower_base.png', '../hq_sidewood.png', '../hq_light.png', '../hqMM_bldg.png', '../hq_gray.png', '../hqMM_earpad.png', '../hqMM_btbase.png', '../hqMM_connector.png', '../hq_speaker_end.png', '../hqMM_frame.png', '../hqMM_earpiece.png', '../hqMM_button_ro.png', '../tower_top.png', '../hqMM_center.png', '../hqMM_door.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqMM_portuguese.egg
+{'../hqMM_bldgside.png', '../hqMM_button_sq.png', '../hq_speaker_in.png', '../square_drop_shadow.png', '../hqTT_tower_base.png', '../hq_sidewood.png', '../hq_light.png', '../hqMM_bldg.png', '../hq_gray.png', '../hqMM_earpad.png', '../hqMM_btbase.png', '../hqMM_connector.png', '../hq_speaker_end.png', '../hqMM_frame.png', '../hqMM_earpiece.png', '../hqMM_button_ro.png', '../tower_top.png', '../hqMM_center.png', '../hqMM_door.png', '../hq_frtwood.png', '../hqMM_sign_portuguese.png'}
+
+hqTT_castillian.egg
+{'../hqTT_hat_rim.png', '../hq_gray.png', '../hq_sidewood.png', '../hq_speaker_end.png', '../hqTT_hat_frtCastillian.png', '../hq_fs_window.png', '../hq_fs_ent.png', '../hq_fs_door.png', '../hq_fs_frt.png', '../tower_top.png', '../hqTT_signCastillian.png', '../square_drop_shadow.png', '../hqTT_hat_back.png', '../hq_light.png', '../hqTT_side_R.png', '../hqTT_tower_base.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqTT_english.egg
+{'../square_drop_shadow.png', '../hqTT_tower_base.png', '../hqTT_eye.png', '../hq_frtwood.png', '../hq_sidewood.png', '../hq_fs_ent.png', '../hq_fs_door.png', '../hq_light.png', '../hqTT_hat_rim.png', '../hq_gray.png', '../hq_speaker_end.png', '../hqTT_hat_frt.png', '../hqTT_hat_back.png', '../hqTT_sign.png', '../tower_top.png', '../hq_fs_frt.png', '../hqTT_side_R.png', '../hq_fs_window.png', '../hq_speaker_in.png'}
+
+hqTT_french.egg
+{'../hqTT_hat_rim.png', '../hq_gray.png', '../hq_sidewood.png', '../hq_speaker_end.png', '../hq_fs_window.png', '../hqTT_hat_frt_french.png', '../hq_fs_ent.png', '../hq_fs_door.png', '../hq_fs_frt.png', '../tower_top.png', '../square_drop_shadow.png', '../hqTT_hat_back.png', '../hq_light.png', '../hqTT_side_R.png', '../hqTT_tower_base.png', '../hq_frtwood.png', '../hq_speaker_in.png', '../hqTT_sign_french.png'}
+
+hqTT_german.egg
+{'../hqTT_hat_rim.png', '../hq_gray.png', '../hq_sidewood.png', '../hq_speaker_end.png', '../hqDL_sign_german.png', '../hq_fs_window.png', '../hq_fs_ent.png', '../hqTT_hat_frt_german.png', '../hq_fs_door.png', '../hq_fs_frt.png', '../tower_top.png', '../square_drop_shadow.png', '../hqTT_hat_back.png', '../hq_light.png', '../hqTT_side_R.png', '../hqTT_tower_base.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqTT_japanese.egg
+{'../hqTT_hat_rim.png', '../hq_gray.png', '../hq_sidewood.png', '../hqTT_hat_frt_japanese.png', '../hq_speaker_end.png', '../hq_fs_window.png', '../hq_fs_ent.png', '../hq_fs_door.png', '../hq_fs_frt.png', '../tower_top.png', '../hqTT_sign_japanese.png', '../square_drop_shadow.png', '../hqTT_hat_back.png', '../hq_light.png', '../hqTT_side_R.png', '../hqTT_tower_base.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+hqTT_portuguese.egg
+{'../hqTT_hat_rim.png', '../hq_gray.png', '../hq_sidewood.png', '../hq_speaker_end.png', '../hqDL_sign_portuguese.png', '../hq_light.png', '../hq_fs_window.png', '../hq_fs_ent.png', '../hq_fs_door.png', '../hq_fs_frt.png', '../tower_top.png', '../square_drop_shadow.png', '../hqTT_hat_back.png', '../hqTT_hat_frt_portuguese.png', '../hqTT_side_R.png', '../hqTT_tower_base.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+HQ_interior_castillian.egg
+{'../lab_floor.png', '../shelves.png', '../piano_top.png', '../stool_side.png', '../stool_wheel.png', '../under_sink2.png', '../hand_railing_column.png', '../flowerDiagramCastillian.png', '../int_speaker_end.png', '../piano_side.png', '../look.png', '../square_drop_shadow.png', '../blue_brown.png', '../red_rusty.png', '../cream.png', '../cabinet_glass.png', '../drawer.png', '../bolt_rusty.png', '../periscope_flat.png', '../between_rusty.png', '../blackboardEmpty.png', '../periscope.png', '../sink_in.png', '../center_shadow.png', '../handle.png', '../int_gray.png', '../stool_leg.png', '../cabinet_door.png', '../int_speaker_in.png', '../floor2.png', '../two_drawer.png', '../base_rusty.png', '../stool_top.png', '../safe_fall_hole.png', '../stairs_boards2.png', '../machine_body_back_blue.png', '../under_sink.png', '../elephantDiagramCastillian.png', '../hand_railing.png', '../keyboard_segment.png', '../whaleDiagramCastillian.png', '../sink.png', '../gorillaDiagramCastillian.png', '../lab_wood.png', '../wood.png', '../toon_furniture_wood.png', '../machine_body_blue.png', '../periscope_m.png', '../drop-shadow.png', '../glass.png', '../measure_blue.png', '../cord.png', '../int_wall.png', '../look_base.png', '../hand_railing_column_top.png', '../purple_rusty.png', '../gorilla_hole.png'}
+
+HQ_interior_english.egg
+{'../lab_floor.png', '../shelves.png', '../piano_top.png', '../stool_side.png', '../stool_wheel.png', '../under_sink2.png', '../hand_railing_column.png', '../int_speaker_end.png', '../piano_side.png', '../look.png', '../square_drop_shadow.png', '../blue_brown.png', '../red_rusty.png', '../cream.png', '../cabinet_glass.png', '../drawer.png', '../bolt_rusty.png', '../periscope_flat.png', '../between_rusty.png', '../blackboardEmpty.png', '../periscope.png', '../sink_in.png', '../center_shadow.png', '../handle.png', '../int_gray.png', '../stool_leg.png', '../cabinet_door.png', '../int_speaker_in.png', '../floor2.png', '../flowerDiagram.png', '../two_drawer.png', '../base_rusty.png', '../stool_top.png', '../safe_fall_hole.png', '../whaleDiagram.png', '../stairs_boards2.png', '../machine_body_back_blue.png', '../under_sink.png', '../gorillaDiagram.png', '../hand_railing.png', '../keyboard_segment.png', '../lab_wood.png', '../sink.png', '../wood.png', '../toon_furniture_wood.png', '../machine_body_blue.png', '../periscope_m.png', '../drop-shadow.png', '../elephantDiagram.png', '../glass.png', '../measure_blue.png', '../cord.png', '../int_wall.png', '../look_base.png', '../hand_railing_column_top.png', '../purple_rusty.png', '../gorilla_hole.png'}
+
+HQ_interior_french.egg
+{'../lab_floor.png', '../shelves.png', '../gorillaDiagram_french.png', '../piano_top.png', '../stool_side.png', '../stool_wheel.png', '../under_sink2.png', '../hand_railing_column.png', '../int_speaker_end.png', '../piano_side.png', '../look.png', '../square_drop_shadow.png', '../blue_brown.png', '../red_rusty.png', '../cream.png', '../flowerDiagram_french.png', '../cabinet_glass.png', '../drawer.png', '../bolt_rusty.png', '../periscope_flat.png', '../between_rusty.png', '../blackboardEmpty.png', '../periscope.png', '../elephantDiagram_french.png', '../sink_in.png', '../center_shadow.png', '../handle.png', '../int_gray.png', '../stool_leg.png', '../cabinet_door.png', '../int_speaker_in.png', '../floor2.png', '../two_drawer.png', '../base_rusty.png', '../stool_top.png', '../safe_fall_hole.png', '../stairs_boards2.png', '../machine_body_back_blue.png', '../under_sink.png', '../hand_railing.png', '../keyboard_segment.png', '../lab_wood.png', '../sink.png', '../wood.png', '../toon_furniture_wood.png', '../machine_body_blue.png', '../periscope_m.png', '../drop-shadow.png', '../glass.png', '../measure_blue.png', '../cord.png', '../int_wall.png', '../look_base.png', '../hand_railing_column_top.png', '../purple_rusty.png', '../whaleDiagram_french.png', '../gorilla_hole.png'}
+
+HQ_interior_german.egg
+{'../lab_floor.png', '../shelves.png', '../stool_side.png', '../stool_wheel.png', '../under_sink2.png', '../hand_railing_column.png', '../elephantDiagram_german.png', '../int_speaker_end.png', '../look.png', '../blue_brown.png', '../red_rusty.png', '../cream.png', '../cabinet_glass.png', '../drawer.png', '../bolt_rusty.png', '../periscope_flat.png', '../between_rusty.png', '../blackboardEmpty.png', '../periscope.png', '../sink_in.png', '../center_shadow.png', '../handle.png', '../int_gray.png', '../stool_leg.png', '../cabinet_door.png', '../int_speaker_in.png', '../floor2.png', '../two_drawer.png', '../base_rusty.png', '../stool_top.png', '../gorillaDiagram_german.png', '../stairs_boards2.png', '../machine_body_back_blue.png', '../under_sink.png', '../hand_railing.png', '../lab_wood.png', '../sink.png', '../wood.png', '../whaleDiagram_german.png', '../toon_furniture_wood.png', '../machine_body_blue.png', '../periscope_m.png', '../glass.png', '../measure_blue.png', '../cord.png', '../flowerDiagram_german.png', '../int_wall.png', '../look_base.png', '../hand_railing_column_top.png', '../purple_rusty.png', '../gorilla_hole.png'}
+
+HQ_interior_japanese.egg
+{'../lab_floor.png', '../shelves.png', '../piano_top.png', '../stool_side.png', '../stool_wheel.png', '../under_sink2.png', '../hand_railing_column.png', '../int_speaker_end.png', '../piano_side.png', '../look.png', '../square_drop_shadow.png', '../blue_brown.png', '../red_rusty.png', '../cream.png', '../whaleDiagram_japanese.png', '../cabinet_glass.png', '../drawer.png', '../bolt_rusty.png', '../periscope_flat.png', '../between_rusty.png', '../blackboardEmpty.png', '../periscope.png', '../sink_in.png', '../center_shadow.png', '../handle.png', '../int_gray.png', '../stool_leg.png', '../cabinet_door.png', '../int_speaker_in.png', '../floor2.png', '../flowerDiagram_japanese.png', '../two_drawer.png', '../base_rusty.png', '../stool_top.png', '../safe_fall_hole.png', '../stairs_boards2.png', '../machine_body_back_blue.png', '../under_sink.png', '../hand_railing.png', '../keyboard_segment.png', '../lab_wood.png', '../sink.png', '../wood.png', '../toon_furniture_wood.png', '../machine_body_blue.png', '../periscope_m.png', '../drop-shadow.png', '../glass.png', '../measure_blue.png', '../elephantDiagram_japanese.png', '../cord.png', '../gorillaDiagram_japanese.png', '../int_wall.png', '../look_base.png', '../hand_railing_column_top.png', '../purple_rusty.png', '../gorilla_hole.png'}
+
+HQ_interior_portuguese.egg
+{'../lab_floor.png', '../shelves.png', '../stool_side.png', '../flowerDiagram_portuguese.png', '../stool_wheel.png', '../under_sink2.png', '../hand_railing_column.png', '../int_speaker_end.png', '../look.png', '../blue_brown.png', '../red_rusty.png', '../cream.png', '../cabinet_glass.png', '../drawer.png', '../bolt_rusty.png', '../periscope_flat.png', '../between_rusty.png', '../blackboardEmpty.png', '../periscope.png', '../sink_in.png', '../center_shadow.png', '../handle.png', '../int_gray.png', '../stool_leg.png', '../cabinet_door.png', '../int_speaker_in.png', '../whaleDiagram_portuguese.png', '../floor2.png', '../two_drawer.png', '../base_rusty.png', '../stool_top.png', '../stairs_boards2.png', '../machine_body_back_blue.png', '../under_sink.png', '../hand_railing.png', '../lab_wood.png', '../sink.png', '../wood.png', '../toon_furniture_wood.png', '../machine_body_blue.png', '../periscope_m.png', '../gorillaDiagram_portuguese.png', '../glass.png', '../measure_blue.png', '../cord.png', '../elephantDiagram_portuguese.png', '../int_wall.png', '../look_base.png', '../hand_railing_column_top.png', '../purple_rusty.png', '../gorilla_hole.png'}
+
+int_door.egg
+{'../interior_door.png'}
+
+lamp_short.egg
+{'../drop-shadow.png', '../lampshade2.png', '../lamp_short.png', '../shot_lamp_base.png'}
+
+lamp_tall.egg
+{'../drop-shadow.png', '../tall_lamp_base.png', '../lampshade.png', '../lamp_tall.png'}
+
+library.egg
+{'../flag.png', '../library_trim_steps.png', '../trim.png', '../lilbrary_gate_top_half.png', '../library_column.png', '../half_banner.png', '../square_drop_shadow.png', '../library_roof_shad.png', '../library_back_half_3windows.png', '../library_back_half.png'}
+
+mercantile.egg
+{'../new_marquee.png', '../new_marquee_side.png', '../a_pink-blue.png', '../window_sm_round.png', '../square_drop_shadow.png', '../new_marquee_face.png'}
+
+MM_A1.egg
+{'../landmarkshingleroof.png', '../landmark_MMA1.png', '../window_sm_curved.png', '../window_porthole.png', '../a_purple.png', '../square_drop_shadow.png', '../window_md_curved.png', '../landmark_MMA1side.png'}
+
+MM_A2.egg
+{'../landmarkshingleroof.png', '../a_yellow-purple.png', '../window_porthole.png', '../landmark_MMA2.png', '../window_sm_round.png', '../square_drop_shadow.png', '../landmark_MMA2side.png'}
+
+MM_B1.egg
+{'../a_blue.png', '../landmarkshingleroof.png', '../drop-shadow.png', '../window_sm_curved.png', '../landmark_MMB1.png', '../window_porthole.png', '../square_drop_shadow.png', '../landmark_MMB1side.png'}
+
+MM_B2.egg
+{'../landmark_MMB2side.png', '../landmarkshingleroof.png', '../a_pink-blue.png', '../drop-shadow.png', '../window_sm_curved.png', '../landmark_MMB2.png', '../window_porthole.png'}
+
+MM_C1.egg
+{'../landmark_MMC1.png', '../landmarkshingleroof.png', '../window_sm_curved.png', '../window_porthole.png', '../window_sm_round.png', '../landmark_MMC1porsche.png', '../landmark_MMC1side.png'}
+
+MM_D1.egg
+{'../landmark_MM_D1_side.png', '../landmark_MM_D1.png', '../landmark_MM_D1_framepiece.png', '../landmark_DD_D1_horn.png'}
+
+MM_E1.egg
+{'../landmark_MME1_keyboardrail.png', '../window_sm_round.png', '../landmark_MME1b.png', '../landmark_MME1_keyboardbottom.png', '../landmark_MME1_side.png', '../landmark_DD_D1_horn.png', '../landmark_MME1_keyboardside.png'}
+
+MM_pond.egg
+{'../brick_floor_Ncont_red.png', '../drop-shadow.png', '../minnie_ground.png', '../lake.png', '../minnie_drum_mag.png', '../minnie_drum_top.png', '../minnie_drum_yel.png', '../music_wall_wave4.png', '../small_wall_brick.png'}
+
+MM_windows.egg
+{'../MM_window_note.png', '../MM_window_harps.png'}
+
+neighborhood_tunnel.egg
+{'../tunnel_neighborhood-roofside.png', '../tunnel_neighborhood-side.png', '../tunnel_n_ceiling.png', '../sidewalk.png', '../neighborhood_tunnel_wall.png', '../roof_inside.png', '../tunnel_neighborhood.png'}
+
+neighborhood_tunnel_BR.egg
+{'../tunnel_neighborhood-roofside.png', '../tunnel_neighborhood-side.png', '../tunnel_n_ceiling.png', '../cobblestone_blue.png', '../neighborhood_tunnel_half.png', '../neighborhood_tunnel_wall.png', '../roof_inside.png'}
+
+neighborhood_tunnel_DD.egg
+{'../tunnel_neighborhood-roofside.png', '../boardwalk_floor.png', '../tunnel_neighborhood-side.png', '../tunnel_n_ceiling.png', '../neighborhood_tunnel_half.png', '../neighborhood_tunnel_wall.png', '../roof_inside.png'}
+
+neighborhood_tunnel_DG.egg
+{'../tunnel_neighborhood-roofside.png', '../tunnel_neighborhood-side.png', '../tunnel_n_ceiling.png', '../neighborhood_tunnel_half.png', '../neighborhood_tunnel_wall.png', '../roof_inside.png', '../dustroad.png'}
+
+neighborhood_tunnel_DL.egg
+{'../tunnel_neighborhood-roofside.png', '../tunnel_neighborhood-side.png', '../tunnel_n_ceiling.png', '../neighborhood_tunnel_half.png', '../neighborhood_tunnel_wall.png', '../roof_inside.png', '../cobblestone_purple.png'}
+
+neighborhood_tunnel_MM.egg
+{'../tunnel_neighborhood-roofside.png', '../tunnel_neighborhood-side.png', '../tunnel_n_ceiling.png', '../neighborhood_tunnel_half.png', '../cobblestone_pink.png', '../neighborhood_tunnel_wall.png', '../roof_inside.png'}
+
+neighborhood_tunnel_TT.egg
+{'../tunnel_neighborhood-roofside.png', '../tunnel_neighborhood-side.png', '../tunnel_n_ceiling.png', '../neighborhood_tunnel_half.png', '../neighborhood_tunnel_wall.png', '../roof_inside.png', '../cobblestone_brown.png'}
+
+paper_trashcan.egg
+{'../drop-shadow.png', '../umbrellastand.png'}
+
+partyGate_BR.egg
+{'../tt_t_ara_pty_partyGate_signBR.png', '../drop-shadow.png', '../PartyGate_Brrgh_DIFFUSE1.png', '../GateClock_Diffuse.png', '../PartyGate_Brrgh_DIFFUSE2.png', '../neighborhood_sign_hand.png', '../PartyGate_Brrgh_DIFFUSE3.png'}
+
+partyGate_DD.egg
+{'../PartyGate_DonaldsDock_DIFFUSE3.png', '../drop-shadow.png', '../GateClock_Diffuse.png', '../tt_t_ara_pty_partyGate_signDD.png', '../PartyGate_DonaldsDock_DIFFUSE1.png', '../PartyGate_DonaldsDock_DIFFUSE2.png', '../neighborhood_sign_hand.png'}
+
+partyGate_DG.egg
+{'../PartyGate_Gardens_DIFFUSE3.png', '../PartyGate_Gardens_DIFFUSE2.png', '../drop-shadow.png', '../GateClock_Diffuse.png', '../PartyGate_Gardens_DIFFUSE1.png', '../neighborhood_sign_hand.png', '../tt_t_ara_pty_partyGate_signDG.png'}
+
+partyGate_DL.egg
+{'../drop-shadow.png', '../GateClock_Diffuse.png', '../PartyGate_Dreamland_DIFFUSE2.png', '../PartyGate_Dreamland_DIFFUSE1.png', '../neighborhood_sign_hand.png', '../tt_t_ara_pty_partyGate_signDL.png', '../PartyGate_Dreamland_DIFFUSE3.png'}
+
+partyGate_MM.egg
+{'../tt_t_ara_pty_partyGate_signMM.png', '../PartyGate_MelodyLand_DIFFUSE2.png', '../drop-shadow.png', '../GateClock_Diffuse.png', '../PartyGate_MelodyLand_DIFFUSE3.png', '../PartyGate_MelodyLand_DIFFUSE1.png', '../neighborhood_sign_hand.png'}
+
+partyGate_TT.egg
+{'../drop-shadow.png', '../GateClock_Diffuse.png', '../PartyGate_TTC_DIFFUSE3.png', '../neighborhood_sign_hand.png', '../PartyGate_TTC_DIFFUSE1.png', '../tt_t_ara_pty_partyGate_signTT.png', '../PartyGate_TTC_DIFFUSE2.png'}
+
+PetShopExterior_BR.egg
+{'../PetShopHydrantSignBrg.png', '../PetShopHydrantBoxes.png', '../PetShopHydrantGlass.png', '../PetShopRooms.png', '../UnderwaterKelp.png', '../PetShopSign7.png', '../PetShopHydrantTopNubB.png', '../PetShopHydrantNozzleL2B.png', '../PetShopHydrantWindowPanes.png', '../PetShopHydrantWater.png', '../PetShopSign3.png', '../PetShopSign5.png', '../PetShopHydrantNozzleTop2B.png', '../PetShopSign1.png', '../drop-shadow.png', '../PetShopHydrantWaterSurface.png', '../PetShopSign6.png', '../PetShopHydrantBase4B.png', '../PetShopSign4.png', '../PetShopHydrantRwindowB.png'}
+
+PetShopExterior_DD.egg
+{'../PetShopHydrantSignBrownDD.png', '../PetShopHydrantBoxes.png', '../PetShopHydrantGlass.png', '../PetShopRooms.png', '../UnderwaterKelp.png', '../PetShopSign7.png', '../PetShopHydrantTopNubB.png', '../PetShopHydrantNozzleL2B.png', '../PetShopHydrantWindowPanes.png', '../PetShopHydrantWater.png', '../PetShopSign3.png', '../PetShopSign5.png', '../PetShopHydrantNozzleTop2B.png', '../PetShopSign1.png', '../drop-shadow.png', '../PetShopHydrantWaterSurface.png', '../PetShopSign6.png', '../PetShopHydrantBase4B.png', '../PetShopSign4.png', '../PetShopHydrantRwindowB.png'}
+
+PetShopExterior_DG.egg
+{'../PetShopHydrantBoxes.png', '../PetShopHydrantGlass.png', '../PetShopRooms.png', '../UnderwaterKelp.png', '../PetShopHydrantSign3.png', '../PetShopSign7.png', '../PetShopHydrantTopNubB.png', '../PetShopHydrantNozzleL2B.png', '../PetShopHydrantWindowPanes.png', '../PetShopHydrantWater.png', '../PetShopSign3.png', '../PetShopSign5.png', '../PetShopHydrantNozzleTop2B.png', '../PetShopSign1.png', '../drop-shadow.png', '../PetShopHydrantWaterSurface.png', '../PetShopSign6.png', '../PetShopHydrantBase4B.png', '../PetShopSign4.png', '../PetShopHydrantRwindowB.png'}
+
+PetShopExterior_DL.egg
+{'../PetShopHydrantSignPurpleDL.png', '../PetShopHydrantBoxes.png', '../PetShopHydrantGlass.png', '../PetShopRooms.png', '../UnderwaterKelp.png', '../PetShopSign7.png', '../PetShopHydrantTopNubB.png', '../PetShopHydrantNozzleL2B.png', '../PetShopHydrantWindowPanes.png', '../PetShopHydrantWater.png', '../PetShopSign3.png', '../PetShopSign5.png', '../PetShopHydrantNozzleTop2B.png', '../PetShopSign1.png', '../drop-shadow.png', '../PetShopHydrantWaterSurface.png', '../PetShopSign6.png', '../PetShopHydrantBase4B.png', '../PetShopSign4.png', '../PetShopHydrantRwindowB.png'}
+
+PetShopExterior_MM.egg
+{'../PetShopHydrantBoxes.png', '../PetShopHydrantGlass.png', '../PetShopRooms.png', '../UnderwaterKelp.png', '../PetShopSign7.png', '../PetShopHydrantTopNubB.png', '../PetShopHydrantNozzleL2B.png', '../PetShopHydrantWindowPanes.png', '../PetShopHydrantWater.png', '../PetShopSign3.png', '../PetShopHydrantSignVioletMM.png', '../PetShopSign5.png', '../PetShopHydrantNozzleTop2B.png', '../PetShopSign1.png', '../drop-shadow.png', '../PetShopHydrantWaterSurface.png', '../PetShopSign6.png', '../PetShopHydrantBase4B.png', '../PetShopSign4.png', '../PetShopHydrantRwindowB.png'}
+
+PetShopExterior_TT.egg
+{'../PetShopHydrantSign2.png', '../PetShopHydrantBoxes.png', '../PetShopHydrantGlass.png', '../PetShopRooms.png', '../UnderwaterKelp.png', '../PetShopSign7.png', '../PetShopHydrantTopNubB.png', '../PetShopHydrantNozzleL2B.png', '../PetShopHydrantWindowPanes.png', '../PetShopHydrantWater.png', '../PetShopSign3.png', '../PetShopSign5.png', '../PetShopHydrantNozzleTop2B.png', '../PetShopSign1.png', '../drop-shadow.png', '../PetShopHydrantWaterSurface.png', '../PetShopSign6.png', '../PetShopHydrantBase4B.png', '../PetShopSign4.png', '../PetShopHydrantRwindowB.png'}
+
+PetShopInterior.egg
+{'../flooring_tile_neutral.png', '../PetShopInteriorDogBowl1.png', '../PetShopInteriorDesk1.png', '../square_drop_shadow.png', '../PetShopHydrantGlass.png', '../UnderwaterKelp.png', '../draw.png', '../PetShopSign7.png', '../PetShopInteriorSideCounter.png', '../desk_leg2.png', '../coatrackleg.png', '../PetShopInteriorAquariumKelp2.png', '../PetShopInteriorAquariumWall.png', '../PetShopInteriorWallpaper2.png', '../PetShopInteriorAquarium1.png', '../ink.png', '../PetShopInteriorRoof.png', '../PetShopSign3.png', '../PetShopInteriorAquariumSand.png', '../PetShopInteriorAquariumCoralB.png', '../desk_leg.png', '../PetShopInteriorFishBowl2.png', '../PetShopInteriorShelf2.png', '../PetShopSign5.png', '../PetShopSign1.png', '../drop-shadow.png', '../coatrackleg_face.png', '../toon_int_phone.png', '../rugA6.png', '../PetShopInteriorAquariumCoralA.png', '../paper.png', '../PetShopSign6.png', '../coatrackPetshop.png', '../PetShopSign4.png', '../PetShopInteriorAquariumKelp1.png'}
+
+pier_pylon.egg
+{'../pierpilon.png', '../pierpilon_top.png'}
+
+rug.egg
+{'../rug_mid.png', '../rug_side.png', '../rug_string.png', '../rug_corner.png'}
+
+safe_zone_entrance_tunnel.egg
+{'../tunnel_safe_zone.png', '../tunnel_interior.png', '../sidewalk.png', '../stairs.png', '../tunnel_ceiling.png'}
+
+safe_zone_entrance_tunnel_BR.egg
+{'../tunnel_interior.png', '../cobblestone_blue.png', '../tunnel_safe_zone_half.png', '../tunnel_ceiling.png'}
+
+safe_zone_entrance_tunnel_DD.egg
+{'../tunnel_interior.png', '../tunnel_safe_zone_half.png', '../boardwalk_floor.png', '../tunnel_ceiling.png'}
+
+safe_zone_entrance_tunnel_DG.egg
+{'../tunnel_interior.png', '../dustroad.png', '../tunnel_safe_zone_half.png', '../tunnel_ceiling.png'}
+
+safe_zone_entrance_tunnel_DL.egg
+{'../tunnel_interior.png', '../cobblestone_purple.png', '../tunnel_safe_zone_half.png', '../tunnel_ceiling.png'}
+
+safe_zone_entrance_tunnel_MM.egg
+{'../tunnel_interior.png', '../cobblestone_pink.png', '../tunnel_safe_zone_half.png', '../tunnel_ceiling.png'}
+
+safe_zone_entrance_tunnel_TT.egg
+{'../cobblestone_brown.png', '../tunnel_interior.png', '../tunnel_safe_zone_half.png', '../tunnel_ceiling.png'}
+
+safe_zone_tunnel.egg
+{'../tunnel_interior.png', '../tunnel_side.png', '../sidewalk.png', '../stairs.png', '../tunnel_ceiling.png', '../tunnel_safe_zone1.png'}
+
+safe_zone_tunnel_BR.egg
+{'../tunnel_safe_zone.png', '../tunnel_interior.png', '../cobblestone_blue.png', '../tunnel_side.png', '../tunnel_ceiling.png', '../tunnel_safe_zone_half.png'}
+
+safe_zone_tunnel_DD.egg
+{'../boardwalk_floor.png', '../tunnel_safe_zone.png', '../tunnel_interior.png', '../tunnel_side.png', '../tunnel_ceiling.png', '../tunnel_safe_zone_half.png'}
+
+safe_zone_tunnel_DG.egg
+{'../tunnel_safe_zone.png', '../tunnel_interior.png', '../tunnel_side.png', '../tunnel_ceiling.png', '../tunnel_safe_zone_half.png', '../dustroad.png'}
+
+safe_zone_tunnel_DL.egg
+{'../tunnel_safe_zone.png', '../tunnel_interior.png', '../tunnel_side.png', '../tunnel_ceiling.png', '../cobblestone_purple.png', '../tunnel_safe_zone_half.png'}
+
+safe_zone_tunnel_MM.egg
+{'../tunnel_safe_zone.png', '../tunnel_interior.png', '../tunnel_side.png', '../tunnel_ceiling.png', '../cobblestone_pink.png', '../tunnel_safe_zone_half.png'}
+
+safe_zone_tunnel_TT.egg
+{'../tunnel_safe_zone.png', '../tunnel_interior.png', '../tunnel_side.png', '../tunnel_ceiling.png', '../cobblestone_brown.png', '../tunnel_safe_zone_half.png'}
+
+school_house.egg
+{'../school_roof_side.png', '../school_lantern.png', '../lantern_wall.png', '../school_flag.png', '../school_roof_Bside.png', '../school_wall_mid.png', '../school_roof_mid.png', '../school_lantern_roof.png', '../school_step.png', '../school_window_sm_curved.png'}
+
+Speedway_Tunnel.egg
+{'../swt-tire_tread.png', '../swt-tire.png', '../drop-shadow.png', '../Checker.png', '../wall.png', '../pit.png', '../square_drop_shadow.png', '../cobblestone_brown.png', '../goofy.png'}
+
+street_low_fence.egg
+{'../tt_central_fence_low_wall_yellow.png', '../tt_low_wall_brick.png', '../tt_low_wall_brick_trim.png', '../fence_wood.png', '../tt_low_wall_stucco.png', '../fence_ironbar.png', '../brick_stucco_column.png', '../fence_wood_flower.png', '../square_drop_shadow.png', '../brick_column.png', '../tt_sandstone_low_wall_yellow.png', '../brick_sandston_column.png', '../tt_central_fence_trim_yellow.png'}
+
+street_modules.egg
+{'../sidewalk_4cont_blue.png', '../boardwalk_floor_dark.png', '../curb_brown_even.png', '../sidewalk_4cont_brown.png', '../cobblestone_brown.png', '../curb_blue_even.png', '../cobblestone_purple.png', '../grassDG.png', '../sidewalk_2cont_brown.png', '../curb_boardwalk.png', '../sidewalk_4cont_red.png', '../curb_red_even.png', '../sidewalk_1cont_brown.png', '../dustroad.png', '../sidewalk_4cont_purple.png', '../boardwalk_floor.png', '../cobblestone_blue.png', '../snow.png', '../cobblestone_pink.png', '../keyboard_segment.png', '../curb_purple_even.png'}
+
+street_modules_enhanced.egg
+{'../curb_brown_even.png', '../sidewalk_4cont_brown.png', '../grass_with_shadow_2sides_corner.png', '../grass_with_shadow.png', '../grass_with_shadow_2sides.png', '../grassTT.png', '../sidewalkbrown.png'}
+
+street_modules_enhanced_DG.egg
+{'../grassDG.png', '../dustroad.png'}
+
+suit_basement.egg
+{'../suit_wall2.png', '../suit_window1.png', '../suit_ceiling.png', '../suit_column_frt.png', '../suit_interior_floor.png', '../tiles.png', '../suit_column_side.png', '../plain.png'}
+
+suit_door.egg
+{'../elevator_rivetstrip.png'}
+
+suit_interior.egg
+{'../suit_wall2.png', '../screwsBar.png', '../suit_ceiling.png', '../drop-shadow.png', '../gradient.png', '../suit_column_frt.png', '../tiles.png', '../basementWall.png', '../cog_bldg_clock.png', '../suit_column_side.png', '../plain.png', '../mach_vent.png'}
+
+suit_interior_machinery.egg
+{'../drop-shadow.png', '../mach_base.png', '../mach_mid.png', '../mach_top.png'}
+
+suit_landmark_big_legal.egg
+{'../legal_neoclassic.png', '../gray_side.png'}
+
+suit_landmark_corp.egg
+{'../suit_build4_half.png', '../corp_half.png', '../moneytopside.png'}
+
+suit_landmark_legal.egg
+{'../legal_side_top.png', '../legal_side_bottom.png', '../legal_half.png'}
+
+suit_landmark_money.egg
+{'../suit_build4_half.png', '../moneyF_new.png', '../moneytopside.png'}
+
+suit_landmark_money2.egg
+{'../money2F.png', '../money2FSide.png'}
+
+suit_landmark_rec_tie.egg
+{'../suit_landmark8.png', '../glassBuildingSide.png'}
+
+suit_landmark_sales.egg
+{'../sales_trimmed.png', '../suit_build4.png', '../moneytopside.png', '../legal_side_bottom.png'}
+
+suit_landmark_tie.egg
+{'../suit_landmark6b.png', '../glassBuildingSide.png'}
+
+suit_walls.egg
+{'../suit_build4_half.png', '../suit_build5.png', '../suit_build3.png', '../suit_build1_half.png', '../suit_build2_quarter.png'}
+
+tie_rack.egg
+{'../tie.png', '../duster.png', '../tie_rack.png'}
+
+toonhall.egg
+{'../cityhall_main_sideN.png', '../toonhall_window.png', '../cityhall_colRN.png', '../cityhall_towerN.png', '../cityhall_roof_sideN.png', '../topWindows.png', '../toonhall_half.png', '../cityhall_roofN2_flat.png', '../square_drop_shadow.png', '../cityhall_floorN.png'}
+
+toon_interior.egg
+{'../wall_paper_b3.png', '../house_painting.png', '../interior_door.png', '../window_sm_round.png', '../floor_create_toon.png'}
+
+toon_interior_2.egg
+{'../wall_paper_b3.png', '../house_painting.png', '../interior_door.png', '../window_sm_round.png', '../floor_create_toon.png'}
+
+toon_interior_L.egg
+{'../shot_lamp_base.png', '../wall_paper_b4.png', '../carpet.png', '../house_painting.png', '../arch_wood.png', '../interior_door.png', '../floor_create_toon.png', '../toon_int_frame2.png'}
+
+toon_interior_L_2.egg
+{'../wall_paper_b4.png'}
+
+toon_interior_T.egg
+{'../shot_lamp_base.png', '../carpet.png', '../house_painting.png', '../arch_wood.png', '../interior_door.png', '../wall_paper_woodveneer.png', '../floor_create_toon.png'}
+
+toon_interior_tutorial.egg
+{'../wall_paper_b4.png', '../house_painting.png', '../ink.png', '../floor_wood.png', '../wood1.png', '../paper.png', '../estate/stripeB5.png', '../flower_bed_purple_tutorial.png', '../books.png', '../french_window.png'}
+
+trolley_station.egg
+{'../awning.png', '../sign_outA.png', '../fence.png', '../rail1.png', '../trolley_tunnel2.png', '../signage.png', '../ts_ground.png', '../fence_wood_504.png', '../awning_edge.png', '../sign_inA.png'}
+
+trolley_station_BR.egg
+{'../awning.png', '../fence.png', '../rail1.png', '../tunnel_entrance_wall_half.png', '../signage.png', '../ts_ground.png', '../fence_wood_504.png', '../awning_edge.png', '../tunnel_entrance_half.png'}
+
+trolley_station_DD.egg
+{'../awning.png', '../fence.png', '../rail1.png', '../tunnel_entrance_wall_half.png', '../signage.png', '../ts_ground.png', '../fence_wood_504.png', '../awning_edge.png', '../tunnel_entrance_half.png'}
+
+trolley_station_DG.egg
+{'../awning.png', '../fence.png', '../rail1.png', '../tunnel_entrance_wall_half.png', '../signage.png', '../ts_ground.png', '../fence_wood_504.png', '../awning_edge.png', '../tunnel_entrance_half.png'}
+
+trolley_station_DL.egg
+{'../awning.png', '../fence.png', '../rail1.png', '../tunnel_entrance_wall_half.png', '../signage.png', '../ts_ground.png', '../fence_wood_504.png', '../awning_edge.png', '../tunnel_entrance_half.png'}
+
+trolley_station_MM.egg
+{'../awning.png', '../fence.png', '../rail1.png', '../tunnel_entrance_wall_half.png', '../signage.png', '../ts_ground.png', '../fence_wood_504.png', '../awning_edge.png', '../tunnel_entrance_half.png'}
+
+trolley_station_TT.egg
+{'../awning.png', '../fence.png', '../rail1.png', '../tunnel_entrance_wall_half.png', '../signage.png', '../ts_ground.png', '../fence_wood_504.png', '../awning_edge.png', '../tunnel_entrance_half.png'}
+
+trophy_frame.egg
+{'../toon_int_frame2.png'}
+
+TT_A1.egg
+{'../landmark_TTA1.png', '../landmarkshingleroof.png', '../a_orange.png', '../window_sm_curved.png', '../landmark_TTA1side.png', '../window_porthole.png', '../square_drop_shadow.png', '../window_md_curved.png'}
+
+TT_A1_raised.egg
+{'../landmark_TTA1.png', '../landmarkshingleroof.png', '../a_orange.png', '../window_sm_curved.png', '../landmark_TTA1side.png', '../window_porthole.png', '../foundation_wall_rock.png', '../square_drop_shadow.png', '../window_md_curved.png'}
+
+TT_A2.egg
+{'../landmarkshingleroof.png', '../window_porthole.png', '../landmark_TTA2.png', '../window_sm_round.png', '../landmark_TTA2side.png'}
+
+TT_A2_raised.egg
+{'../landmarkshingleroof.png', '../window_porthole.png', '../landmark_TTA2.png', '../foundation_wall_rock.png', '../window_sm_round.png', '../landmark_TTA2side.png'}
+
+TT_A3.egg
+{'../landmarkshingleroof.png', '../window_sm_curved.png', '../landmark_TTA3.png', '../landmark_TTA3side.png', '../window_md_curved.png'}
+
+TT_B1.egg
+{'../window_md_curtain.png', '../landmark_TTB1side.png', '../landmark_TTB1.png', '../landmarkshingleroof.png', '../a_orange.png', '../window_sm_curved.png', '../window_porthole.png', '../square_drop_shadow.png'}
+
+TT_B1_raised.egg
+{'../window_md_curtain.png', '../landmark_TTB1side.png', '../landmark_TTB1.png', '../landmarkshingleroof.png', '../a_orange.png', '../foundation_wall_brick.png', '../window_sm_curved.png', '../window_porthole.png', '../square_drop_shadow.png'}
+
+TT_B2.egg
+{'../window_sm_pointed.png', '../landmarkshingleroof.png', '../window_sm_curved.png', '../landmark_TTB2side.png', '../landmark_TTB2.png'}
+
+TT_B2_raised.egg
+{'../window_sm_pointed.png', '../landmarkshingleroof.png', '../foundation_wall_brick.png', '../window_sm_curved.png', '../landmark_TTB2side.png', '../landmark_TTB2.png'}
+
+TT_C1.egg
+{'../landmark_TTC1.png', '../window_sm_pointed.png', '../landmarkshingleroof.png', '../window_porthole.png', '../window_sm_round.png', '../landmark30sideC.png', '../landmark30sidesmC.png'}
+
+TT_C1_raised.egg
+{'../landmark_TTC1.png', '../window_sm_pointed.png', '../landmarkshingleroof.png', '../window_porthole.png', '../foundation_wall_rock.png', '../window_sm_round.png', '../landmark30sideC.png', '../landmark30sidesmC.png'}
+
+tt_m_ara_DD_hq_english.egg
+{'../hqDD_wood.png', '../boardwalk_floor_dark.png', '../pierpilon_underwater.png', '../hqTT_tower_base.png', '../pierpilon_top.png', '../hq_sidewood.png', '../water3.png', '../hqDD_boat.png', '../hq_light.png', '../ropes.png', '../hq_gray.png', '../hq_speaker_end.png', '../tt_m_ara_DD_hqShipProw.png', '../hqDD_hat_rim.png', '../pierpilon_upper.png', '../tower_top.png', '../hqDD_door.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+tt_m_ara_DD_hq_portuguese.egg
+{'../hqDD_wood.png', '../boardwalk_floor_dark.png', '../hqDD_hat_rim_portuguese.png', '../pierpilon_underwater.png', '../hqTT_tower_base.png', '../pierpilon_top.png', '../hq_sidewood.png', '../water3.png', '../hqDD_boat.png', '../hq_light.png', '../ropes.png', '../hq_gray.png', '../hq_speaker_end.png', '../tt_m_ara_DD_hqShipProw.png', '../pierpilon_upper.png', '../tower_top.png', '../hqDD_door.png', '../hq_frtwood.png', '../hq_speaker_in.png'}
+
+tt_m_ara_DD_SZ_hq_english.egg
+{'../hq_gray.png', '../hqDD_wood.png', '../pierpilon_upper.png', '../hqDD_hat_rim.png', '../boardwalk_floor.png', '../hq_speaker_end.png', '../hq_sidewood.png', '../tower_top.png', '../hqDD_door.png', '../hqDD_boat.png', '../hq_light.png', '../pierpilon_underwater.png', '../hqTT_tower_base.png', '../tt_m_ara_DD_hqShipProw.png', '../hq_frtwood.png', '../hq_speaker_in.png', '../pierpilon_top.png'}
+
+tt_m_ara_DD_SZ_hq_portuguese.egg
+{'../hq_gray.png', '../hqDD_wood.png', '../pierpilon_upper.png', '../boardwalk_floor.png', '../hq_speaker_end.png', '../hq_sidewood.png', '../tower_top.png', '../hqDD_door.png', '../hqDD_boat.png', '../hqDD_hat_rim_portuguese.png', '../hq_light.png', '../pierpilon_underwater.png', '../hqTT_tower_base.png', '../tt_m_ara_DD_hqShipProw.png', '../hq_frtwood.png', '../hq_speaker_in.png', '../pierpilon_top.png'}
+
+tt_m_ara_int_toonhall.egg
+{'../tt_t_ara_int_toonhall.png', '../tt_t_ara_int_art11.png', '../tt_t_ara_int_art4.png', '../tt_t_ara_int_art6.png', '../tt_t_ara_int_art3.png', '../tt_t_ara_int_diagramFlippy.png', '../tt_t_ara_int_art9.png', '../tt_t_ara_int_art7.png', '../tt_t_ara_int_art1.png', '../tt_t_ara_int_art2.png', '../tt_t_ara_int_diagramSillyOMeter3.png', '../tt_t_ara_int_art5.png', '../tt_t_ara_int_art10.png', '../tt_t_ara_int_art8.png'}
+
+TT_pond.egg
+{'../hedge3.png', '../texpath3_old.png', '../lake.png', '../fence_stoneWall.png', '../brick_floor_Ncont.png', '../grassTT.png'}
+
+umbrella_stand.egg
+{'../drop-shadow.png', '../umbrellastand.png', '../umbrella_stand.png'}
+
+walls.egg
+{'../wall_sm_cement_blue.png', '../fenceW_flower.png', '../wall_sm_wood.png', '../wall_sm_brick_blue.png', '../wall_md_dental.png', '../wall_md_bricks.png', '../wall_fence_wood.png', '../wall_bricks.png', '../wall_sm_brick.png', '../wall_lrg_brick.png', '../fence_stoneWall.png', '../wall_sm_brick_pink.png', '../wall_sm_cement.png', '../wall_md_board.png', '../wall_md_pillars.png', '../wall_md_blank.png', '../wall_lrg_rock.png'}
+
+walls_basement.egg
+{'../foundation_wall_rock.png', '../foundation_wall_brick.png'}
+
+windows.egg
+{'../window_md_curtain.png', '../window_sm_pointed.png', '../window_sm_curved.png', '../window_sm_shuttered.png', '../window_porthole.png', '../window_sm_round.png', '../window_sm_square.png', '../window_md_curved.png'}
+
+wood_fence.egg
+{'../wall_fence_wood.png'}
+

@@ -1,0 +1,663 @@
+BanannaSplitShower.egg
+{'../bananaSplitBanana1.png', '../bananaSplitIcecreamCho.png', '../icecreamBedPoll2.png', '../bananaSplitWhip2.png', '../drop-shadow.png', '../bananaSplitHEad1.png', '../bananaSplitIcecreamStra.png', '../bananaSplitBowl2.png'}
+
+bathtub_bed.egg
+{'../square_drop_shadow.png', '../pillowC.png', '../faucetHandle.png', '../bathtubCilinder.png', '../bedCoverBatthtub.png', '../bathtubLeg.png', '../faucetCenter.png', '../bathtubBed.png'}
+
+bugRoomBed.egg
+{'../LittlePillow.png', '../Bed.png', '../BugBedStem.png', '../drop-shadow.png', '../PillowTassle.png'}
+
+BugRoomChair.egg
+{'../ChairArm.png', '../ChairBeam.png', '../ChairHandle.png', '../ChairBack.png', '../ChairBase.png', '../square_drop_shadow.png', '../Crossbeam.png'}
+
+bugRoomDaisyLamp1.egg
+{'../LampBulb.png', '../DaisyLampBase.png', '../drop-shadow.png', '../LampPetal.png', '../LampStem.png'}
+
+bugRoomDaisyLamp2.egg
+{'../BugLampPetal.png', '../LampBulb.png', '../Plug.png', '../Stemv2.png', '../drop-shadow.png', '../Stump.png', '../LampMat.png', '../LampLeaf.png', '../Pully.png', '../Pot2.png'}
+
+BugRoomDesk.egg
+{'../PineCone.png', '../DeskLeg.png', '../square_drop_shadow.png', '../Desk.png', '../DeskConnector.png'}
+
+bugRoomFireplace.egg
+{'../TreeBase.png', '../FlowerPicture.png', '../FireplaceSide.png', '../FireplaceFloor2.png', '../FirePlaceTop.png', '../drop-shadow.png', '../TreeRoot.png', '../BigFirewood.png', '../Frame.png', '../SingleLeaf.png', '../FireplaceFloor.png', '../Branch.png'}
+
+bugRoomLadyBug.egg
+{'../drop-shadow.png', '../Beetle_Bean_Color.png'}
+
+bugRoomLeafMat.egg
+{'../LeafMatBig.png'}
+
+BugRoomRedMushroomPot.egg
+{'../RedCap.png', '../StemL.png', '../drop-shadow.png', '../MushroomPot.png'}
+
+bugRoomTV.egg
+{'../square_drop_shadow.png', '../toonTownBugTV_accessories.png', '../toonTownBugTV_screen2.png', '../toonTownBugTV_box.png'}
+
+BugRoomYellowMushroomPot.egg
+{'../drop-shadow.png', '../StemL.png', '../YellowCap.png', '../MushroomPot.png'}
+
+bumper_cloud.egg
+{'../cloud1.png'}
+
+cabinetRwood.egg
+{'../cabinetLow_front.png', '../cabinet_prop3.png', '../cabinetLow_side.png', '../cabinet_prop2.png', '../cabinetMid_side.png', '../cabinetMid_front.png', '../terrain_fence2.png', '../cabinetMid_top.png', '../cabinet_prop4.png', '../square_drop_shadow.png', '../cabinetMirror.png', '../cabinet_prop1.png'}
+
+cabinetYwood.egg
+{'../cabinet_prop3.png', '../cabinetLow_front2.png', '../cabinetMirror.png', '../cabinet_prop2.png', '../cabinetMid_side2.png', '../cabinetMid_top2.png', '../cabinetLow_side2.png', '../terrain_fence2.png', '../cabinet_prop4.png', '../square_drop_shadow.png', '../cabinetMid_front2.png', '../cabinet_prop1.png'}
+
+cakeSlide.egg
+{'../square_drop_shadow.png', '../cakeSlide2.png', '../icecreamBedPoll2.png'}
+
+candySwingSet.egg
+{'../swingSetTopBar1.png', '../swingSetSwingCookies1.png', '../swingSetDonutSwing2.png', '../swingSetSideBarsR1.png', '../candyNecklaceStrand1.png', '../swingSetSwingMid2.png', '../square_drop_shadow.png', '../swingSetSideBarsY1.png'}
+
+CarmelAppleFireplace.egg
+{'../appleStickTop2.png', '../carmelAppleFireplace2.png', '../CarmelAppleFire2.png', '../drop-shadow.png', '../CarmelAppleStick2.png'}
+
+carnation.egg
+{'../carnation_flower.png', '../daisy1.png', '../tulip_leaf.png', '../stem3.png'}
+
+cezanne_toon.egg
+{'../cezanne_horse.png'}
+
+chairA.egg
+{'../chair_leg.png', '../chair_topCushion.png', '../chair_woodpiece.png', '../chair_back.png', '../chair_back_wood.png', '../square_drop_shadow.png', '../chair_woodpiece2.png', '../chair_arm.png'}
+
+chairAdesat.egg
+{'../chair_topCushionD.png', '../chair_armD.png', '../chair_leg.png', '../chair_woodpiece.png', '../chair_backD.png', '../chair_back_wood.png', '../square_drop_shadow.png', '../chair_woodpiece2.png'}
+
+cityView.egg
+{'../window1.png', '../FlatBldPole2.png', '../FlatBld8c.png', '../mainBldgRoof.png', '../FlatBldRoof.png', '../CitySky.png', '../clothsline1.png', '../FlatBld4.png', '../FlatBld5.png', '../FlatBld7Light.png', '../FlatBld5Shade.png', '../FlatBld3.png', '../FlatBld9Dark.png'}
+
+closetBoy.egg
+{'../closetBoyKnob.png', '../closetBoyWoodpanel.png', '../closetBoyDoor2.png', '../closetBoyTop.png', '../closetBoyDoor.png', '../closetBoyDraw.png', '../closetBoyFoot.png', '../closetBoyHandle.png', '../square_drop_shadow.png'}
+
+closetGirl.egg
+{'../closetGirlDoor2.png', '../closetBoyKnob.png', '../closetGirlWoodpanel.png', '../closetGirlTopear.png', '../closetGirlFoot.png', '../closetGirlDoor.png', '../closetGirlTopsmallear.png', '../closetGirlTop.png', '../square_drop_shadow.png', '../closetGirlDraw.png'}
+
+coffeetableSq.egg
+{'../square_drop_shadow.png', '../cofftableLeg_brown.png', '../cofftableTop_brown.png'}
+
+coffeetableSq_BW.egg
+{'../square_drop_shadow.png', '../cofftableTop_BW.png', '../cofftableLeg_BW.png'}
+
+cookieTableA.egg
+{'../drop-shadow.png', '../cookieTable1.png', '../lifesaverStack.png'}
+
+couch_1personDesat.egg
+{'../couch3desat.png', '../square_drop_shadow.png', '../desk_leg.png'}
+
+couch_2personDesat.egg
+{'../couchDesat.png', '../square_drop_shadow.png', '../desk_leg.png'}
+
+cupcakeChair.egg
+{'../cupcakeChairBottom3.png', '../cupcakeChairBack2.png', '../drop-shadow.png', '../cupcakeChairTop1.png'}
+
+daisy.egg
+{'../daisy1.png', '../daisy_leaf.png', '../stem3.png'}
+
+degasHorseStar.egg
+{'../degasHorseStar.png'}
+
+deskChair.egg
+{'../sbChair_back.png', '../sbChair_leg.png', '../sbChair_midsupport.png', '../square_drop_shadow.png', '../sbChair_seating.png'}
+
+dirt_mound.egg
+{'../planter_dirt.png'}
+
+FarmView.egg
+{'../window1.png', '../FarmGrass.png', '../farmground.png', '../Farmhills2.png', '../Farmcow3.png', '../Farmbarn1.png', '../Farmfence.png', '../Farmskytop.png', '../Farmsky.png'}
+
+FireplaceGirlee.egg
+{'../GirleeFireplaceCandle.png', '../GirleeFireplaceBaseTop.png', '../douley.png', '../GirleeFireplaceFlower3.png', '../FireplaceWood_2.png', '../GirleeFireplaceBasket.png', '../GirleeFireplaceMantle.png', '../GirleeFireplaceFlower1.png', '../GirleeFireplaceMirror.png', '../GirleeFireplacePilars2.png', '../GirleeFireplacePilarsPink.png', '../GirleeFireplaceFlower2.png', '../GirleeFireplaceMantleTop.png', '../FireplaceWoodGrate_1.png', '../GirleeFireplaceWallpaper.png', '../GirleeFireplaceHearth.png', '../drop-shadow.png', '../GirleeFireplaceBasketTop.png', '../GirleeFireplaceFirebox.png'}
+
+FireplaceRound.egg
+{'../FireplaceRoundKey.png', '../FireplaceWoodGrate_1.png', '../FireplaceRoundMiddle.png', '../drop-shadow.png', '../FireplaceRoundFlu.png', '../FireplaceRoundGradiant.png', '../FireplaceWood_2.png'}
+
+FireplaceSq.egg
+{'../FireplaceSqWood3.png', '../FireplaceSqfirebox.png', '../FireplaceWoodGrate_1.png', '../FireplaceSqTile.png', '../FireplaceStonebase.png', '../FireplaceSqWood4.png', '../square_drop_shadow.png', '../FireplaceWood_2.png'}
+
+fireplace_coral.egg
+{'../fireplace_seasnake.png', '../fireplace_tallcoral1.png', '../FireplaceWoodGrate_1.png', '../fireplace_tallcoral2.png', '../drop-shadow.png', '../fireplace_fish.png', '../FireplaceWood_2.png', '../fireplace_kelps.png', '../fireplace_wall.png'}
+
+flowers.egg
+{'../flowerPainting.png'}
+
+gag_fan.egg
+{'../gag_firehydrantNozzle.png', '../splash003.png', '../barrel.png', '../gag_firehydrantBase.png', '../splash001.png', '../gag_fan_hoseTip.png', '../splash004.png', '../neutral_gradient.png', '../drop-shadow.png', '../gag_fan_flower.png', '../bamboo.png', '../gun_body.png', '../feather2.png', '../splash002.png', '../gag_fan_stem.png', '../gag_fan_hose.png', '../hose_bandaid.png'}
+
+gag_tree_stages.egg
+{'../drop-shadow.png', '../gag_tree_leaves.png', '../gag_tree_trunk_small.png', '../gag_tree_trunk.png'}
+
+Garden1.egg
+{'../window1.png', '../GardenGround2.png', '../Flower3.png', '../GardenHills.png', '../GardenFlowersRocks2.png', '../GardenFlowersRocksBack.png', '../GardenTFlowers.png', '../GardenGround2shade.png', '../Flowers2.png', '../GardenTree1.png', '../GardenWood1.png', '../GardenGrass2.png', '../GardenPot.png', '../GardenSky.png'}
+
+GardenA.egg
+{'../window1.png', '../Flowers1c.png', '../orange.png', '../GardenGround.png', '../gardenA_BG.png'}
+
+GardenB.egg
+{'../window1.png', '../GardenGround2.png', '../GardenFlowersRocks3.png', '../Flowers3.png', '../Flowers1c.png', '../GardenHills.png', '../GardenFlowersRocksBack.png', '../GardenTFlowers.png', '../GardenTree1.png', '../GardenWood1.png', '../GardenGrass2.png', '../GardenPot.png', '../GardenSky.png'}
+
+GardenB2.egg
+{'../window1.png', '../GardenGround2.png', '../GardenFlowersRocks3.png', '../Flowers3.png', '../Flowers1c.png', '../GardenHills.png', '../GardenFlowersRocksBack.png', '../GardenTFlowers.png', '../GardenTree1.png', '../GardenWood1.png', '../GardenGrass2.png', '../GardenPot.png', '../GardenSky.png'}
+
+garden_donald.egg
+{'../fountain_donaldB.png', '../stone_pediment.png', '../square_drop_shadow.png'}
+
+garden_mickey_flute.egg
+{'../drop-shadow.png', '../statue_base2.png', '../mickey_flute.png'}
+
+garden_mickey_shovel.egg
+{'../fountainA_base.png', '../mickey_top_fountain.png', '../fountainsA.png', '../drop-shadow.png', '../fountain_water.png'}
+
+garden_minnie.egg
+{'../statue_base2.png', '../fountainA_base.png', '../fountainsA.png', '../drop-shadow.png', '../fountain_minnie.png', '../fountain_water.png'}
+
+garden_pedestal.egg
+{'../columntop.png', '../LB_Base_Statue_02.png', '../LB_WhiteWall_2.png'}
+
+garden_sign.egg
+{'../garden_sign.png', '../square_drop_shadow.png'}
+
+garden_slab.egg
+{'../square_drop_shadow.png', '../stone_pediment.png'}
+
+girly_bed.egg
+{'../mattressTop2.png', '../pillowB.png', '../bedSideBottomB.png', '../bedHead.png', '../pillowEnd.png', '../mattressSideB2.png', '../square_drop_shadow.png'}
+
+house.egg
+{'../estateHousefacial_board.png', '../estateHousepfacialboare1.png', '../estateHouseWindow.png', '../estateHousep3wall.png', '../estateHouseChimney.png', '../treehouse_plat_step.png', '../estateHousewindow_board_south.png', '../roof_tile.png', '../estateHousep1wall.png', '../estateHousep2wall.png'}
+
+houseA.egg
+{'../estateHouseChimney_BW.png', '../doorMat.png', '../estateHousefacial_board.png', '../estateHousep2wall_BW.png', '../estateHouseWindow.png', '../estateHousep3wall_BW.png', '../treehouse_plat_step.png', '../estateHousewindow_board_south.png', '../roof_tile.png', '../square_drop_shadow.png', '../estateHousepfacialboare1.png', '../estateHousep1wall_BW.png'}
+
+houseB.egg
+{'../doorMat.png', '../estateHousepwoodEdge.png', '../estateHouseStone1b.png', '../estateHouseroof2b_tile.png', '../houseb_backWall.png', '../estateHousep1-2wall.png', '../estateHousepwoodFace2.png', '../estateHouseStone1.png', '../square_drop_shadow.png', '../estateHousepfacialboard2B.png', '../estateHousepwoodFace.png', '../estateHousewindow2.png'}
+
+icecreamBed.egg
+{'../icecreamPillow2.png', '../icecreamBedMiddle2.png', '../icecreamBedTop3.png', '../icecreamBedPoll2.png', '../cupcakeChairBack2.png', '../square_drop_shadow.png'}
+
+icecreamChest.egg
+{'../drop-shadow.png', '../IcecreamChestChest7.png', '../icecreamChestIce4.png', '../icecreamChestWhip1.png'}
+
+IndianView.egg
+{'../IndianCookingFire2.png', '../IndianHorse.png', '../IndianRocks.png', '../IndianCookingFire1.png', '../window1.png', '../IndianReeds1.png', '../IndianKettle.png', '../IndianGrass.png', '../IndianTepee3.png', '../IndianHills1.png', '../IndianSky.png', '../IndianRocksOrange2.png', '../IndianSkyTop.png', '../IndianTepee1.png', '../IndianGround.png'}
+
+jellybeanJar.egg
+{'../beanBankGlass.png', '../jellybeansjar2.png'}
+
+lampA.egg
+{'../lampA_arm.png', '../lampA_base.png', '../lampA_legs.png', '../drop-shadow.png', '../lampA_lightBulb.png', '../lampA_body.png', '../lampA_top.png'}
+
+lampADesat.egg
+{'../lampA_arm.png', '../lampA_base.png', '../lampA_topDesat.png', '../lampA_legs.png', '../drop-shadow.png', '../lampA_lightBulb.png', '../lampA_body.png'}
+
+lampTall.egg
+{'../tall_lamp_base.png', '../drop-shadow.png', '../lamp_tall.png', '../lampshade.png'}
+
+landscape.egg
+{'../landscapePainting.png'}
+
+lily.egg
+{'../lily1.png', '../tulip_leaf.png', '../lily_pistol.png', '../bottom_stem.png', '../stem3.png'}
+
+MagPie.egg
+{'../MagPie.png'}
+
+mailboxHouse.egg
+{'../mailbox_knob.png', '../mailbox_flag.png', '../mailbox_body.png', '../mailbox_backdoor.png', '../mailbox_post.png', '../mailbox_post_top.png', '../drop-shadow.png', '../mailbox_door.png', '../mailbox_trim.png'}
+
+modernistMickey.egg
+{'../modernistMickey.png'}
+
+narcissi.egg
+{'../bottom_stem.png', '../tulip_leaf.png', '../narcissi2.png', '../stem3.png'}
+
+Organ.egg
+{'../Organ_pipes2.png', '../OrganStopsFront.png', '../OrganWood1.png', '../Organ_pipes3.png', '../Organ_pipes1.png', '../OrganMusic.png', '../OrganBlackKeyTop.png', '../OrganWhiteKeySides.png', '../OrganWhiteKeyTop.png', '../square_drop_shadow.png', '../OrganStopsBack.png', '../OrganWood1BDark.png', '../OrganWood1B.png'}
+
+pansy.egg
+{'../pansy_bloom2.png', '../pansy_leaf.png', '../bottom_stem.png', '../stem3.png'}
+
+petunia.egg
+{'../bottom_stem.png', '../tulip_leaf.png', '../petunia_flower1.png', '../stem3.png'}
+
+phoneMount-mod.egg
+{'../wall_phoneknob.png', '../wall_phonedraw.png', '../wall_phonemountingboard.png'}
+
+Piano.egg
+{'../PianoPedals.png', '../PianoWood2.png', '../PianoWood3.png', '../OrganBlackKeyTop.png', '../OrganWhiteKeySides.png', '../OrganWhiteKeyTop.png', '../PianoWood1.png', '../square_drop_shadow.png', '../PianoRoll.png'}
+
+planterA.egg
+{'../square_drop_shadow.png', '../planter_woodbox.png', '../planter_dirt.png'}
+
+planterB.egg
+{'../square_drop_shadow.png', '../planter_stone_wall.png', '../planter_dirt.png', '../planter_stone_trim.png'}
+
+planterC.egg
+{'../square_drop_shadow.png', '../planter_woodbox.png', '../planter_dirt.png'}
+
+planterD.egg
+{'../drop-shadow.png', '../planter_woodbox.png', '../planter_dirt.png'}
+
+PoolView.egg
+{'../window1.png', '../PoolsidePlants7.png', '../PoolsideSky.png', '../PoolsideHead.png', '../PoolsideGrass1.png', '../PoolsidePlants6.png', '../PoolsidePlants3.png', '../PoolsidePlants4.png', '../PoolsidePlants1.png', '../PoolsideChair.png', '../PoolsidePlants2.png', '../PoolsideSkyTop.png', '../PoolsidePool.png', '../PoolsideChairSeat.png', '../PoolsidePlants5.png', '../PoolsideUmbrella.png'}
+
+popcornCart.egg
+{'../popcornCart_wheel.png', '../popcornCart_cart.png', '../popcornCart_handle.png', '../popcornCart_hand.png', '../popcornCart_windows.png', '../popcornCart_top.png', '../popcornCart_frames.png', '../popcornCart_popcorns.png', '../popcornCart_legs.png', '../square_drop_shadow.png', '../popcornCart_arm.png'}
+
+prop-jellybeanJar.egg
+{'../beanBankGlass.png', '../jellybeansjar2.png'}
+
+prop_phone-LL_phoneBack.egg
+set()
+
+prop_phone-LL_phoneNeutral.egg
+set()
+
+prop_phone-LL_phoneOut.egg
+set()
+
+prop_phone-LL_takePhone.egg
+set()
+
+prop_phone-LM_phoneBack.egg
+set()
+
+prop_phone-LM_phoneNeutral.egg
+set()
+
+prop_phone-LM_phoneOut.egg
+set()
+
+prop_phone-LM_takePhone.egg
+set()
+
+prop_phone-LS_phoneBack.egg
+set()
+
+prop_phone-LS_phoneNeutral.egg
+set()
+
+prop_phone-LS_phoneOut.egg
+set()
+
+prop_phone-LS_takePhone.egg
+set()
+
+prop_phone-ML_phoneBack.egg
+set()
+
+prop_phone-ML_phoneNeutral.egg
+set()
+
+prop_phone-ML_phoneOut.egg
+set()
+
+prop_phone-ML_takePhone.egg
+set()
+
+prop_phone-MM_phoneBack.egg
+set()
+
+prop_phone-MM_phoneNeutral.egg
+set()
+
+prop_phone-MM_phoneOut.egg
+set()
+
+prop_phone-MM_takePhone.egg
+set()
+
+prop_phone-mod.egg
+{'../wall_phonehandle_fin.png', '../wall_phonemouth_piece3_fin.png', '../wall_phonemouth_piece6_fin.png', '../wall_phonecrank_knob2fin.png', '../wall_phonebell_fin.png', '../wall_phonebox2.png', '../wall_phonemouth_box_fin.png', '../wall_phoneholder.png', '../zigzag_fin.png', '../wall_phoneear_pieceB_fin.png', '../wall_phonecrank_fin.png', '../wall_phonebox.png', '../wall_phonemouth.png'}
+
+prop_phone-MS_phoneBack.egg
+set()
+
+prop_phone-MS_phoneNeutral.egg
+set()
+
+prop_phone-MS_phoneOut.egg
+set()
+
+prop_phone-MS_takePhone.egg
+set()
+
+prop_phone-SL_phoneBack.egg
+set()
+
+prop_phone-SL_phoneNeutral.egg
+set()
+
+prop_phone-SL_phoneOut.egg
+set()
+
+prop_phone-SL_takePhone.egg
+set()
+
+prop_phone-SM_phoneBack.egg
+set()
+
+prop_phone-SM_phoneNeutral.egg
+set()
+
+prop_phone-SM_phoneOut.egg
+set()
+
+prop_phone-SM_takePhone.egg
+set()
+
+prop_phone-SS_phoneBack.egg
+set()
+
+prop_phone-SS_phoneNeutral.egg
+set()
+
+prop_phone-SS_phoneOut.egg
+set()
+
+prop_phone-SS_takePhone.egg
+set()
+
+pumpkin_short.egg
+{'../drop-shadow.png', '../stem1.png', '../pumpkin_short.png'}
+
+pumpkin_tall.egg
+{'../drop-shadow.png', '../stem1.png', '../pumpkin_tall.png'}
+
+RADIO_A.egg
+{'../UV_radio_A_main6.sgi', '../square_drop_shadow.png', '../TEX_radio_A_ant_knob_06.sgi'}
+
+RADIO_B.egg
+{'../knob_fin.png', '../sides_fin.png', '../edges_fin.png', '../front2_fin.png', '../square_drop_shadow.png', '../knob_shadowsT_fin2.png', '../back_fin.png'}
+
+radio_c.egg
+{'../back_c2_fin2.png', '../front_b2_fin.png', '../knob_shadowsT_fin2.png', '../sides_c_fin2.png', '../back_c2_fin.png', '../square_drop_shadow.png', '../knob_new_fin.png'}
+
+regular_bed.egg
+{'../bedpostA.png', '../blanketA.png', '../topSphereA.png', '../pillowA.png', '../square_drop_shadow.png', '../mattressBaseA.png', '../mattressA.png'}
+
+regular_bed_desat.egg
+{'../blanketAdesat.png', '../bedpostAdesat.png', '../pillowA.png', '../topSphereAdest.png', '../square_drop_shadow.png', '../mattressBaseAdesat.png', '../mattressA.png'}
+
+rembrandt_toon.egg
+{'../rembrandt_duck.png'}
+
+rose.egg
+{'../rose_bloom.png', '../rose_leaf.png', '../rose_thorn.png', '../bottom_stem.png', '../stem3.png'}
+
+rover-lisa.egg
+{'../rover-lisa.png'}
+
+rugA.egg
+{'../rugA5b_fin_new.png'}
+
+rugADesat.egg
+{'../rugADesat.png'}
+
+rugB.egg
+{'../rugB4_new_fin.png'}
+
+sack.egg
+{'../drop-shadow.png', '../sack1.png'}
+
+SaddleStool2_final.egg
+{'../Saddle2.png', '../SaddleSiding.png', '../Crossbar.png', '../square_drop_shadow.png', '../SaddleLeg.png', '../Log.png'}
+
+sand_mound.egg
+{'../planter_sand.png'}
+
+seedling.egg
+{'../seedling.png', '../tulip_leaf.png', '../stem3.png'}
+
+shovels.egg
+{'../shovelB2.png', '../shovelC2.png', '../shovelD2.png', '../shovelA2.png'}
+
+SnowView.egg
+{'../window1.png', '../SnowMountainsSky.png', '../Snowice2.png', '../SnowValley2.png', '../SnowwoodRoof1.png', '../SnowHillsFar.png', '../Snowtree6.png', '../SnowTreeLine.png', '../snowedge.png', '../SnowSkyTop.png', '../SnowValley.png'}
+
+spaceView.egg
+{'../window1.png', '../Saturn2.png', '../SpaceMoon2.png', '../Comet.png', '../SaturnRings.png', '../windowView_Stars2.png', '../Planet.png'}
+
+switchboard.egg
+{'../switchboard_handelplate.png', '../switchboard_lines.png', '../switchboard_leg.png', '../switchboard_top.png', '../switchboard_bell.png', '../sbChair_leg.png', '../switchboard_desk.png', '../switchboard_plug.png', '../switchboard_handel.png', '../square_drop_shadow.png', '../switchboard_main.png'}
+
+TABLE_Bedroom_Desat.egg
+{'../sideADesat.png', '../topDesat.png', '../leg2Desat.png', '../square_drop_shadow.png', '../sideBDesat.png', '../bottomDesat.png'}
+
+table_radio.egg
+{'../rad_table_foot_top.png', '../puzzle_edges.png', '../puzzle_big.png', '../rad_table_bar2_fin.png', '../puzzle.png', '../front2.png', '../edgeA.png', '../edgeB.png', '../bottom.png', '../square_drop_shadow.png', '../top1.png', '../front.png', '../rad_table_foot_side.png'}
+
+table_radioDesat.egg
+{'../puzzle_edgesDesat.png', '../puzzle_bigDesat.png', '../rad_table_foot_topDesat.png', '../rad_table_bar2_finDesat.png', '../top1Desat.png', '../edgeADesat.png', '../rad_table_foot_sideDesat.png', '../frontDesat.png', '../edgeBDesat.png', '../square_drop_shadow.png', '../puzzledesat.png', '../bottomDesat.png', '../front2Desat.png'}
+
+target.egg
+{'../target1.png'}
+
+terrain.egg
+{'../terrain_background_trees2.png', '../terrainEndtunnel.png', '../BG5_3.png', '../terrain_terrainTbirdge.png', '../terrain_background_trees1.png', '../treehouse_grass.png', '../terrain_background_trees4.png', '../terrain_water.png', '../fence_wood_flower.png', '../treehouse_tree_trunk2.png', '../terrain_background_trees3.png', '../treehouse_stone_small.png', '../Tbirdge_top.png', '../terrain_terrian2.png', '../BG5_2.png', '../terrain_tunnel.png', '../drop-shadow.png', '../BG5_1.png', '../terrain_road_dirt2.png'}
+
+terrainHouse.egg
+{'../wall_pichside.png', '../wall_fence_wood.png', '../facial_board.png', '../siteplan_color.png', '../window_board_south.png', '../window.png', '../roof_tile.png', '../chimney.png', '../door.png'}
+
+terrain_fence.egg
+{'../terrain_fence2.png'}
+
+test_houseA.egg
+{'../estateHouseChimney_BW.png', '../doorMat.png', '../estateHousefacial_board.png', '../estateHousep2wall_BW.png', '../estateHouseWindow.png', '../estateHousep3wall_BW.png', '../treehouse_plat_step.png', '../estateHousewindow_board_south.png', '../roof_tile.png', '../square_drop_shadow.png', '../estateHousepfacialboare1.png', '../estateHousep1wall_BW.png'}
+
+trolley_bed.egg
+{'../trolleytop2.png', '../glow_lamp.png', '../pillowA.png', '../bumperear.png', '../surryB.png', '../grillA.png', '../wheel.png', '../windows03.png', '../bodyreturn.png', '../chasiside.png', '../keyface.png', '../headlight.png', '../blanketB.png', '../window02.png', '../Vwood.png', '../lightside.png', '../wheelreturn.png', '../mattressA.png', '../yellow1.png', '../knobs.png', '../yellow2.png', '../square_drop_shadow.png'}
+
+trophyA.egg
+{'../gardenTropheyA.png'}
+
+trophyB.egg
+{'../gardenTropheyB.png'}
+
+trophyC.egg
+{'../gardenTropheyC.png'}
+
+trophyD.egg
+{'../gardenTropheyD.png'}
+
+tropicView.egg
+{'../window1.png', '../SkyTop2.png', '../Palm1.png', '../island.png', '../Water5.png', '../Palm2.png', '../Sailboat.png', '../Sun6.png'}
+
+tt_m_ara_est_house_castle.egg
+{'../tt_t_ara_est_house_castle_spire.png', '../tt_t_ara_est_house_castle_door.png', '../tt_t_ara_est_house_castle_walltrim.png', '../drop-shadow.png', '../tt_t_ara_est_house_castle_window.png', '../BlackDoor.png', '../tt_t_ara_est_house_castle_window_rnd.png', '../tt_t_ara_est_house_castle_spire2.png', '../tt_t_ara_est_house_castle_roof_tiles2.png', '../tt_t_ara_est_house_castle_stone.png', '../tt_t_ara_est_house_castle_banner.png'}
+
+tt_m_ara_est_house_cupcake.egg
+{'../tt_t_ara_est_house_cupcake_doormat.png', '../tt_t_ara_est_house_cupcake_windowRound.png', '../tt_t_ara_est_house_cupcake_Wall.png', '../drop-shadow.png', '../BlackDoor.png', '../tt_t_ara_est_house_cupcake_cherry.png', '../tt_t_ara_est_house_cupcake_topping.png', '../square_drop_shadow.png', '../tt_t_ara_est_house_cupcake_doorRound.png'}
+
+tt_m_ara_est_house_tepee.egg
+{'../tt_t_ara_est_house_tepee_dots.png', '../tt_t_ara_est_house_tepee_star.png', '../tt_t_ara_est_house_tepee_pole_2.png', '../drop-shadow.png', '../tt_t_ara_est_house_tepee_rope.png', '../tt_t_ara_est_house_tepee2.png', '../tt_t_ara_est_house_tepee_pole.png'}
+
+tt_m_ara_est_house_tiki.egg
+{'../tt_m_ara_est_house_tiki_thatch3.png', '../drop-shadow.png', '../BlackDoor.png', '../tt_m_ara_est_house_tiki_thatch3_edge.png', '../tt_m_ara_est_house_tiki_thatch_top2.png', '../tt_m_ara_est_house_tiki_bamboo.png', '../tt_m_ara_est_house_tiki_window.png', '../square_drop_shadow.png', '../tt_m_ara_est_house_tiki_torch.png', '../tt_m_ara_est_house_tiki_bamboo_single.png'}
+
+tt_m_ara_int_candlestick.egg
+{'../tt_t_ara_int_candlestick.png'}
+
+tt_m_ara_int_candlestickLit.egg
+{'../tt_t_ara_int_candlestickLit.png'}
+
+tt_m_ara_int_estateHouseA.egg
+{'../shot_lamp_base.png', '../flooring_tileB2.png', '../wall_paper_b4.png', 'UWwallPaperWaveBorder.rgb', 'UWwallPaperBubbles.rgb', '../arch_wood.png'}
+
+tt_m_ara_int_presents.egg
+{'../tt_t_ara_int_presents.png'}
+
+tt_m_ara_int_sled.egg
+{'../tt_t_ara_int_sled.png'}
+
+tt_m_prp_ext_snowman.egg
+{'../statue_base2.png', '../tt_t_prp_ext_snowman_statue_melty.png', '../tt_t_prp_ext_snowman_statue_puddle.png', '../tt_t_prp_ext_snowPile.png', '../tt_t_prp_ext_snowman_statue_fresh.png'}
+
+tt_m_prp_ext_snowman_icon.egg
+{'../tt_t_prp_ext_snowman_statue_icon.png'}
+
+tt_m_prp_int_fireplace_bugRoom.egg
+{'../TreeBase.png', '../FlowerPicture.png', '../tt_t_prp_int_fire1.png', '../FireplaceFloor2.png', '../FirePlaceTop.png', '../tt_t_prp_int_fire4.png', '../FireplaceSide.png', '../drop-shadow.png', '../TreeRoot.png', '../tt_t_prp_int_fire2.png', '../BigFirewood.png', '../Frame.png', '../SingleLeaf.png', '../FireplaceFloor.png', '../tt_t_prp_int_fire3.png', '../Branch.png', '../tt_t_prp_int_fire5.png'}
+
+tt_m_prp_int_fireplace_caramelApple.egg
+{'../appleStickTop2.png', '../carmelAppleFireplace2.png', '../tt_t_prp_int_firewood_caramel.png', '../tt_t_prp_int_fire4.png', '../tt_t_prp_int_fire1.png', '../tt_t_prp_int_fire5.png', '../drop-shadow.png', '../tt_t_prp_int_fire2.png', '../tt_t_prp_int_fire3.png', '../CarmelAppleStick2.png'}
+
+tt_m_prp_int_fireplace_coral.egg
+{'../fireplace_seasnake.png', '../fireplace_tallcoral1.png', '../tt_t_prp_int_fire1.png', '../tt_t_prp_int_fire4.png', '../tt_t_prp_int_fire5.png', '../fireplace_tallcoral2.png', '../drop-shadow.png', '../FireplaceWoodGrate_1.png', '../tt_t_prp_int_fire2.png', '../fireplace_fish.png', '../tt_t_prp_int_fire3.png', '../FireplaceWood_2.png', '../fireplace_kelps.png', '../fireplace_wall.png'}
+
+tt_m_prp_int_fireplace_girlee.egg
+{'../GirleeFireplaceCandle.png', '../GirleeFireplaceBaseTop.png', '../douley.png', '../GirleeFireplaceFlower3.png', '../FireplaceWood_2.png', '../tt_t_prp_int_fire5.png', '../GirleeFireplaceBasket.png', '../GirleeFireplaceMantle.png', '../GirleeFireplaceFlower1.png', '../tt_t_prp_int_fire3.png', '../GirleeFireplaceMirror.png', '../GirleeFireplacePilars2.png', '../GirleeFireplacePilarsPink.png', '../GirleeFireplaceFlower2.png', '../tt_t_prp_int_fire1.png', '../tt_t_prp_int_fire4.png', '../GirleeFireplaceMantleTop.png', '../FireplaceWoodGrate_1.png', '../tt_t_prp_int_fire2.png', '../GirleeFireplaceWallpaper.png', '../GirleeFireplaceHearth.png', '../drop-shadow.png', '../GirleeFireplaceBasketTop.png', '../GirleeFireplaceFirebox.png'}
+
+tt_m_prp_int_fireplace_round.egg
+{'../FireplaceRoundKey.png', '../tt_t_prp_int_fire1.png', '../tt_t_prp_int_fire4.png', '../FireplaceWoodGrate_1.png', '../FireplaceRoundMiddle.png', '../drop-shadow.png', '../tt_t_prp_int_fire2.png', '../FireplaceRoundFlu.png', '../FireplaceRoundGradiant.png', '../tt_t_prp_int_fire3.png', '../FireplaceWood_2.png', '../tt_t_prp_int_fire5.png'}
+
+tt_m_prp_int_fireplace_square.egg
+{'../tt_t_prp_int_fire1.png', '../tt_t_prp_int_fire4.png', '../FireplaceSqfirebox.png', '../FireplaceWoodGrate_1.png', '../FireplaceSqWood3.png', '../FireplaceSqTile.png', '../tt_t_prp_int_fire2.png', '../FireplaceStonebase.png', '../FireplaceSqWood4.png', '../tt_t_prp_int_fire3.png', '../square_drop_shadow.png', '../FireplaceWood_2.png', '../tt_t_prp_int_fire5.png'}
+
+tt_m_prp_int_painting_valentine.egg
+{'../tt_t_prp_int_painting_valentine.png'}
+
+tt_m_prp_int_roseVase_valentine.egg
+{'../rose_bloom.png', '../rose_leaf.png', '../tt_t_prp_int_vase_heart.png', '../drop-shadow.png', '../bottom_stem.png'}
+
+tt_m_prp_int_roseWatercan_valentine.egg
+{'../rose_bloom.png', '../rose_leaf.png', '../drop-shadow.png', '../tt_t_prp_int_waterCan_heart.png', '../bottom_stem.png'}
+
+tt_m_prp_int_winter_tree.egg
+{'../tt_t_prp_int_winter_treeF2.png', '../drop-shadow.png', '../tt_t_prp_int_winter_treeF1.png', '../potTop.png', '../coralPot2.png'}
+
+tt_m_prp_int_winter_wreath.egg
+{'../tt_t_prp_int_winter_wreath.png'}
+
+tulip.egg
+set()
+
+twinkieCouch.egg
+{'../square_drop_shadow.png', '../twinkieCouch1.png', '../BottomHostessCupcake1.png', '../topHostessCupcake1.png'}
+
+underwaterView.egg
+{'../window1.png', '../UnderwaterFloor.png', '../UnderwaterTChestTop.png', '../UnderwaterTChestGold.png', '../UnderwaterTop.png', '../UnderwaterShip.png', '../UnderwaterTChest.png', '../UnderwaterKelp.png'}
+
+UWBoatBed.egg
+{'../UWBoatBedEndB1.png', '../UWBoatBedKnob.png', '../UWBoatBedTop1.png', '../UWBoatBedPillow1.png', '../UWBoatBedFlag.png', '../drop-shadow.png', '../UWBoatBedSide1.png', '../UWBoatBedAnchor1.png', '../uw_boatbed_rock.png', '../UWBoatBedBlanket1.png', '../UWBoatBedEndA1.png', '../UWBoatBedLog.png'}
+
+UWcoralClothRack.egg
+{'../drop-shadow.png', '../uw_coral_clothrack.png', '../uw_coral_clothrack_base.png'}
+
+UWcoralVase.egg
+{'../UWcoralPlantPink.png', '../UWcoralPotTop.png', '../drop-shadow.png', '../UWcoralPot2.png'}
+
+UWfountain.egg
+{'../uw_fountain_mid_top2.png', '../drop-shadow.png', '../underwater_neptune.png', '../uw_DG_fountain_water.png', '../un_fountainout_top.png', '../un_fountain_base.png'}
+
+UWhammerhead.egg
+{'../huntedFishBaseWoodEdge.png', '../HammerheadEyeBall1.png', '../huntedFishBaseWood2.png', '../drop-shadow.png', '../hammerHeadHook1.png', '../hammerHeadTrophy5.png'}
+
+UWlamps_jellyfishB.egg
+{'../jellyfishLampB_switch.png', '../drop-shadow.png', '../jellyfishLampB_inside.png', '../jellyfishLampB_leg.png', '../jellyfishLampB_bottom.png', '../jellyfishLampB_top.png'}
+
+UWlamp_jellyfish.egg
+{'../uwLamps_jellyfish_top.png', '../uwLamps_jellyfish_bigleg.png', '../drop-shadow.png', '../lamp_lightBulb_jellyfish.png', '../uwLamps_jellyfish_switch.png', '../uwLamps_jellyfish_lights.png'}
+
+UWlifeSaverChair.egg
+{'../UWLifeSaverChairBack1.png', '../chair_leg.png', '../UWLifeSaverChairCushion1.png', '../UWLifeSaverChairFront1.png', '../square_drop_shadow.png', '../chair_woodpiece2.png'}
+
+UWlizardBowl.egg
+{'../drop-shadow.png', '../beanBankGlass.png', '../lizzardBowl3.png'}
+
+UWlobsterChair.egg
+{'../UWLobsterChairClaw1.png', '../UWLobsterChairBody3.png', '../UWLobsterChairPillow3.png', '../UWLobsterChairEye1.png', '../UWLobsterChairLeg1.png', '../drop-shadow.png', '../UWLobsterChairFeeler1.png'}
+
+UWOceanDryer.egg
+{'../uwdryer_bodyBolts2.png', '../oceandryer_main.png', '../uw_glass4.png', '../oceandryer_rimtop2.png', '../oceandryer_top1.png', '../drop-shadow.png', '../oceandryer_handle2.png', '../uwbubbles1.png', '../oceandryer_rimbot.png', '../underwater_dryer_clothes2.png'}
+
+UWshellVase.egg
+{'../stem1.png', '../leaf2b.png', '../orange_bloom.png', '../leaf1.png', '../stem2.png', '../red_bloom.png', '../UWshellHole2.png', '../drop-shadow.png', '../blue_bloom.png', '../UWshellVase5.png'}
+
+UWskullBowl.egg
+{'../drop-shadow.png', '../skullBowl1.png', '../beanBankGlass.png'}
+
+UWswordFish.egg
+{'../huntedFishBaseWoodEdge.png', '../swordFishHead3.png', '../huntedFishBaseWood2.png', '../SwordFishfin1.png', '../drop-shadow.png', '../swordFishNose.png', '../swordEye1.png'}
+
+UWtable.egg
+{'../uwTable_fin.png', '../uwTable_leg.png', '../drop-shadow.png', '../uwTable_belly.png', '../uwTable_toe.png', '../uwTable_top.png'}
+
+vaseA_short.egg
+{'../stem1.png', '../orange_bloom.png', '../red_bloom.png', '../stem2.png', '../leaf1.png', '../top3.sgi', '../NewShortVase4Pur.png', '../drop-shadow.png', '../pink_bloom.png'}
+
+vaseA_tall.egg
+{'../stem1.png', '../vaseBv3_s6.png', '../leaf2b.png', '../orange_bloom.png', '../leaf1.png', '../stem2.png', '../red_bloom.png', '../topB.sgi', '../drop-shadow.png', '../blue_bloom.png'}
+
+vaseB_short.egg
+{'../stem1.png', '../NewShortVaseBlue.png', '../leaf2b.png', '../leaf1.png', '../stem2.png', '../top3.sgi', '../orange_bloom.png', '../red_bloom.png', '../drop-shadow.png', '../blue_bloom.png'}
+
+vaseB_tall.egg
+{'../stem1.png', '../orange_bloom.png', '../red_bloom.png', '../stem2.png', '../leaf1.png', '../top3.sgi', '../vaseBv3_s6c.png', '../drop-shadow.png', '../pink_bloom.png'}
+
+vaseC_short.egg
+{'../stem1.png', '../leaf2b.png', '../orange_bloom.png', '../leaf1.png', '../stem2.png', '../red_bloom.png', '../topB.sgi', '../drop-shadow.png', '../NewShortVase3OR.png', '../blue_bloom.png'}
+
+vaseD_short.egg
+{'../NewShortVase2Green.png', '../stem1.png', '../orange_bloom.png', '../red_bloom.png', '../stem2.png', '../leaf1.png', '../top3.sgi', '../drop-shadow.png', '../pink_bloom.png'}
+
+watering_cans.egg
+{'../canB_1.png', '../canA_3.png', '../canD_4.png', '../canC_2.png'}
+
+WesternMainStreetView.egg
+{'../window1.png', '../OWMstrtCactus1.png', '../OWMstrtSkyTop.png', '../OWMstrtRoofSpts.png', '../OWMstrtSky1c.png', '../OWMstrtBrush.png', '../OWMstrtSkyRt.png', '../OWMstrtB1Roof.png', '../OWMstrtB1Walk.png', '../OWMstrtB1.png', '../OWMstrtB1Side.png', '../OWMstrtHillsShdRf.png', '../OWMstrtB3.png', '../OWMstrtGround2.png', '../OWMstrtBCactus.png', '../OWMstrtPost.png', '../OWMstrtB2.png'}
+
+westernView.egg
+{'../window1.png', '../WesternBarrelCactus.png', '../WesternCactus.png', '../WesternRocks.png', '../WesternSkyTop.png', '../WesternBgRt.png', '../WesternBgLeft.png', '../WesternGround.png', '../WesternBgMiddle.png', '../WesternBrush1.png'}
+
+west_barrelStand.egg
+{'../drop-shadow.png', '../new_barrel_top3.png', '../barrelStuff.png', '../new_round_barrel.png'}
+
+West_bisonPortrait.egg
+{'../west_picHanger.png', '../West_nativeChairShortLeg.png', '../west_BuffaloPainting.png'}
+
+West_cactusHammoc.egg
+{'../CHcactus2c.png', '../UWcoralPotTop.png', '../CHhammoc.png', '../UWcoralPot2.png', '../CHpillow1.png', '../CHcactus1c.png', '../drop-shadow.png', '../CHrope.png'}
+
+West_cowboyLamp.egg
+{'../West_CowboyHatMain.png', '../West_cowboyLampBase.png', '../drop-shadow.png', '../West_CowboyHatBrim.png', '../West_cowboyLampBill.png', '../West_owboyPulley.png'}
+
+West_CoyotePawdecor.egg
+{'../CyotePawDecor.png'}
+
+West_fancySombrero.egg
+{'../FancySombrero.png'}
+
+West_fatCactus.egg
+{'../drop-shadow.png', '../CactusPot.png', '../West_fatCactus.png'}
+
+West_hangingHorns.egg
+{'../West_hornFrame.png', '../West_cowHorns.png'}
+
+West_HayCouch.egg
+{'../HayCouchArm4.png', '../square_drop_shadow.png', '../HayCouchSeat5.png'}
+
+West_Horseshoe.egg
+{'../Horseshoe.png'}
+
+West_nativeChair.egg
+{'../NativeChairCushion.png', '../square_drop_shadow.png', '../West_nativeChairShortLeg.png', '../west_featherHeaddress.png'}
+
+West_saddleStool2.egg
+{'../Saddle2.png', '../SaddleSiding.png', '../Crossbar.png', '../square_drop_shadow.png', '../SaddleLeg.png', '../Log.png'}
+
+West_Sombrero.egg
+{'../West_somebrero_inside.png', '../West_somebrero.png'}
+
+West_Tepee.egg
+{'../bufhead.png', '../Hoof.png', '../Tepeecollar.png', '../Tepeecloth.png', '../Sticks.png', '../Shadow.png', '../Horn.png'}
+
+wheelbarrel.egg
+{'../wheelbarrel_feet.png', '../wheelbarrel1.png', '../planter_dirt.png', '../wheelbarrel_shadow.png'}
+
+whistler-horse.egg
+{'../whistler-horse.png'}
+

@@ -1,0 +1,686 @@
+Duplicates Found:
+The following files are identical. The name could differ, but the content is identical
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\BanannaSplitShower\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomBed\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomDaisyLamp1\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomDaisyLamp2\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomFireplace\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomLadyBug\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\BugRoomRedMushroomPot\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\BugRoomYellowMushroomPot\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\CarmelAppleFireplace\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cookieTableA\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cupcakeChair\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceRound\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\fireplace_coral\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\gag_fan\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\gag_tree_stages\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_mickey_flute\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_mickey_shovel\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_minnie\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\icecreamChest\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lampA\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lampADesat\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lampTall\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\mailboxHouse\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\planterD\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\pumpkin_short\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\pumpkin_tall\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\sack\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\terrain\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_ara_est_house_castle\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_ara_est_house_cupcake\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_ara_est_house_tepee\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_ara_est_house_tiki\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_caramelApple\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_coral\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_round\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_roseVase_valentine\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_roseWatercan_valentine\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_winter_tree\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWBoatBed\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWcoralClothRack\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWcoralVase\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWfountain\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWhammerhead\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWlamps_jellyfishB\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWlamp_jellyfish\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWlizardBowl\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWlobsterChair\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWOceanDryer\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWshellVase\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWskullBowl\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWswordFish\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWtable\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_short\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_tall\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_short\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_tall\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseC_short\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseD_short\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\west_barrelStand\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\West_cactusHammoc\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\West_cowboyLamp\drop-shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\West_fatCactus\drop-shadow.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\BanannaSplitShower\icecreamBedPoll2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cakeSlide\icecreamBedPoll2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\icecreamBed\icecreamBedPoll2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bathtub_bed\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\BugRoomChair\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\BugRoomDesk\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomTV\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cabinetRwood\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cabinetYwood\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cakeSlide\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\candySwingSet\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\chairA\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\chairAdesat\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\closetBoy\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\closetGirl\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\coffeetableSq\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\coffeetableSq_BW\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\couch_1personDesat\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\couch_2personDesat\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\deskChair\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceSq\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_donald\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_sign\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_slab\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\girly_bed\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\houseA\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\houseB\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\icecreamBed\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Organ\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Piano\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\planterA\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\planterB\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\planterC\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\popcornCart\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\RADIO_A\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\RADIO_B\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\radio_c\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\regular_bed\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\regular_bed_desat\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\SaddleStool2_final\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\switchboard\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\TABLE_Bedroom_Desat\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\table_radio\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\table_radioDesat\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\test_houseA\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\trolley_bed\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_ara_est_house_cupcake\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_ara_est_house_tiki\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_square\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\twinkieCouch\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWlifeSaverChair\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\West_HayCouch\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\West_nativeChair\square_drop_shadow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\West_saddleStool2\square_drop_shadow.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomDaisyLamp1\LampBulb.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomDaisyLamp2\LampBulb.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomFireplace\BigFirewood.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\BigFirewood.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomFireplace\Branch.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\Branch.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomFireplace\FireplaceFloor.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\FireplaceFloor.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomFireplace\FireplaceFloor2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\FireplaceFloor2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomFireplace\FireplaceSide.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\FireplaceSide.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomFireplace\FirePlaceTop.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\FirePlaceTop.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomFireplace\FlowerPicture.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\FlowerPicture.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomFireplace\Frame.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\Frame.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomFireplace\SingleLeaf.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\SingleLeaf.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomFireplace\TreeBase.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\TreeBase.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\bugRoomFireplace\TreeRoot.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\TreeRoot.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\BugRoomRedMushroomPot\MushroomPot.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\BugRoomYellowMushroomPot\MushroomPot.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\BugRoomRedMushroomPot\StemL.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\BugRoomYellowMushroomPot\StemL.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cabinetRwood\cabinetMirror.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cabinetYwood\cabinetMirror.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cabinetRwood\cabinet_prop1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cabinetYwood\cabinet_prop1.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cabinetRwood\cabinet_prop2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cabinetYwood\cabinet_prop2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cabinetRwood\cabinet_prop3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cabinetYwood\cabinet_prop3.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cabinetRwood\cabinet_prop4.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cabinetYwood\cabinet_prop4.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cabinetRwood\terrain_fence2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cabinetYwood\terrain_fence2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\terrain_fence\terrain_fence2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\CarmelAppleFireplace\appleStickTop2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_caramelApple\appleStickTop2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\CarmelAppleFireplace\carmelAppleFireplace2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_caramelApple\carmelAppleFireplace2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\CarmelAppleFireplace\CarmelAppleStick2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_caramelApple\CarmelAppleStick2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\carnation\daisy1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\daisy\daisy1.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\carnation\stem3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\daisy\stem3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lily\stem3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\narcissi\stem3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\pansy\stem3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\petunia\stem3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\rose\stem3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\seedling\stem3.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\carnation\tulip_leaf.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lily\tulip_leaf.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\narcissi\tulip_leaf.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\petunia\tulip_leaf.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\seedling\tulip_leaf.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\chairA\chair_back_wood.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\chairAdesat\chair_back_wood.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\chairA\chair_leg.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\chairAdesat\chair_leg.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWlifeSaverChair\chair_leg.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\chairA\chair_woodpiece.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\chairAdesat\chair_woodpiece.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\chairA\chair_woodpiece2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\chairAdesat\chair_woodpiece2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWlifeSaverChair\chair_woodpiece2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cityView\window1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FarmView\window1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Garden1\window1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenA\window1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB\window1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB2\window1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\IndianView\window1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\PoolView\window1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\SnowView\window1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\spaceView\window1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tropicView\window1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\underwaterView\window1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\WesternMainStreetView\window1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\westernView\window1.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\closetBoy\closetBoyKnob.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\closetGirl\closetBoyKnob.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\couch_1personDesat\desk_leg.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\couch_2personDesat\desk_leg.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\cupcakeChair\cupcakeChairBack2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\icecreamBed\cupcakeChairBack2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\deskChair\sbChair_leg.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\switchboard\sbChair_leg.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\dirt_mound\planter_dirt.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\planterA\planter_dirt.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\planterB\planter_dirt.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\planterC\planter_dirt.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\planterD\planter_dirt.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\wheelbarrel\planter_dirt.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FarmView\FarmGrass.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\RADIO_A\TEX_radio_A_ant_knob_06.sgi
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\RADIO_A\UV_radio_A_main6.sgi
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\trolley_bed\bodyreturn.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\trolley_bed\bumperear.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\trolley_bed\chasiside.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\trolley_bed\knobs.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\trolley_bed\lightside.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_ara_int_estateHouseA\UWwallPaperBubbles.rgb
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_ara_int_estateHouseA\UWwallPaperWaveBorder.rgb
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_short\top3.sgi
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_tall\topB.sgi
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_short\top3.sgi
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_tall\top3.sgi
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseC_short\topB.sgi
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseD_short\top3.sgi
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\west_barrelStand\new_round_barrel.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\douley.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\douley.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\FireplaceWoodGrate_1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceRound\FireplaceWoodGrate_1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceSq\FireplaceWoodGrate_1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\fireplace_coral\FireplaceWoodGrate_1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_coral\FireplaceWoodGrate_1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\FireplaceWoodGrate_1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_round\FireplaceWoodGrate_1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_square\FireplaceWoodGrate_1.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\FireplaceWood_2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceRound\FireplaceWood_2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceSq\FireplaceWood_2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\fireplace_coral\FireplaceWood_2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_coral\FireplaceWood_2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\FireplaceWood_2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_round\FireplaceWood_2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_square\FireplaceWood_2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\GirleeFireplaceBaseTop.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\GirleeFireplaceBaseTop.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\GirleeFireplaceBasket.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\GirleeFireplaceBasket.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\GirleeFireplaceBasketTop.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\GirleeFireplaceBasketTop.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\GirleeFireplaceCandle.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\GirleeFireplaceCandle.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\GirleeFireplaceFirebox.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\GirleeFireplaceFirebox.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\GirleeFireplaceFlower1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\GirleeFireplaceFlower1.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\GirleeFireplaceFlower2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\GirleeFireplaceFlower2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\GirleeFireplaceFlower3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\GirleeFireplaceFlower3.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\GirleeFireplaceHearth.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\GirleeFireplaceHearth.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\GirleeFireplaceMantle.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\GirleeFireplaceMantle.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\GirleeFireplaceMantleTop.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\GirleeFireplaceMantleTop.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\GirleeFireplaceMirror.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\GirleeFireplaceMirror.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\GirleeFireplacePilars2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\GirleeFireplacePilars2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\GirleeFireplacePilarsPink.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\GirleeFireplacePilarsPink.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceGirlee\GirleeFireplaceWallpaper.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\GirleeFireplaceWallpaper.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceRound\FireplaceRoundFlu.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_round\FireplaceRoundFlu.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceRound\FireplaceRoundGradiant.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_round\FireplaceRoundGradiant.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceRound\FireplaceRoundKey.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_round\FireplaceRoundKey.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceRound\FireplaceRoundMiddle.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_round\FireplaceRoundMiddle.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceSq\FireplaceSqfirebox.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_square\FireplaceSqfirebox.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceSq\FireplaceSqTile.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_square\FireplaceSqTile.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceSq\FireplaceSqWood3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_square\FireplaceSqWood3.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceSq\FireplaceSqWood4.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_square\FireplaceSqWood4.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\FireplaceSq\FireplaceStonebase.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_square\FireplaceStonebase.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\fireplace_coral\fireplace_fish.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_coral\fireplace_fish.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\fireplace_coral\fireplace_kelps.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_coral\fireplace_kelps.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\fireplace_coral\fireplace_seasnake.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_coral\fireplace_seasnake.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\fireplace_coral\fireplace_tallcoral1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_coral\fireplace_tallcoral1.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\fireplace_coral\fireplace_tallcoral2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_coral\fireplace_tallcoral2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\fireplace_coral\fireplace_wall.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_coral\fireplace_wall.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Garden1\GardenFlowersRocksBack.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB\GardenFlowersRocksBack.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB2\GardenFlowersRocksBack.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Garden1\GardenGrass2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB\GardenGrass2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB2\GardenGrass2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Garden1\GardenGround2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB\GardenGround2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB2\GardenGround2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Garden1\GardenHills.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB\GardenHills.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB2\GardenHills.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Garden1\GardenPot.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB\GardenPot.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB2\GardenPot.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Garden1\GardenSky.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB\GardenSky.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB2\GardenSky.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Garden1\GardenTFlowers.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB\GardenTFlowers.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB2\GardenTFlowers.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Garden1\GardenTree1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB\GardenTree1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB2\GardenTree1.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Garden1\GardenWood1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB\GardenWood1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB2\GardenWood1.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenA\Flowers1c.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB\Flowers1c.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB2\Flowers1c.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB\Flowers3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB2\Flowers3.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB\GardenFlowersRocks3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\GardenB2\GardenFlowersRocks3.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_donald\stone_pediment.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_slab\stone_pediment.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_mickey_flute\statue_base2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_minnie\statue_base2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_ext_snowman\statue_base2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_mickey_shovel\fountainA_base.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_minnie\fountainA_base.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_mickey_shovel\fountainsA.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_minnie\fountainsA.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_mickey_shovel\fountain_water.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\garden_minnie\fountain_water.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\house\estateHousefacial_board.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\houseA\estateHousefacial_board.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\test_houseA\estateHousefacial_board.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\house\estateHousepfacialboare1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\houseA\estateHousepfacialboare1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\test_houseA\estateHousepfacialboare1.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\house\estateHouseWindow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\houseA\estateHouseWindow.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\test_houseA\estateHouseWindow.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\house\estateHousewindow_board_south.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\houseA\estateHousewindow_board_south.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\test_houseA\estateHousewindow_board_south.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\house\roof_tile.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\houseA\roof_tile.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\terrainHouse\roof_tile.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\test_houseA\roof_tile.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\house\treehouse_plat_step.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\houseA\treehouse_plat_step.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\test_houseA\treehouse_plat_step.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\houseA\doorMat.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\houseB\doorMat.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\test_houseA\doorMat.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\houseA\estateHouseChimney_BW.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\test_houseA\estateHouseChimney_BW.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\houseA\estateHousep1wall_BW.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\test_houseA\estateHousep1wall_BW.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\houseA\estateHousep2wall_BW.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\test_houseA\estateHousep2wall_BW.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\houseA\estateHousep3wall_BW.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\test_houseA\estateHousep3wall_BW.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\jellybeanJar\beanBankGlass.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\prop-jellybeanJar\beanBankGlass.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWlizardBowl\beanBankGlass.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWskullBowl\beanBankGlass.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\jellybeanJar\jellybeansjar2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\prop-jellybeanJar\jellybeansjar2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lampA\lampA_arm.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lampADesat\lampA_arm.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lampA\lampA_base.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lampADesat\lampA_base.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lampA\lampA_body.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lampADesat\lampA_body.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lampA\lampA_legs.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lampADesat\lampA_legs.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lampA\lampA_lightBulb.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lampADesat\lampA_lightBulb.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\lily\bottom_stem.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\narcissi\bottom_stem.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\pansy\bottom_stem.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\petunia\bottom_stem.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\rose\bottom_stem.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_roseVase_valentine\bottom_stem.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_roseWatercan_valentine\bottom_stem.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Organ\OrganBlackKeyTop.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Piano\OrganBlackKeyTop.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Organ\OrganWhiteKeySides.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Piano\OrganWhiteKeySides.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Organ\OrganWhiteKeyTop.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\Piano\OrganWhiteKeyTop.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\planterA\planter_woodbox.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\planterC\planter_woodbox.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\planterD\planter_woodbox.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\pumpkin_short\stem1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\pumpkin_tall\stem1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWshellVase\stem1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_short\stem1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_tall\stem1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_short\stem1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_tall\stem1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseC_short\stem1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseD_short\stem1.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\RADIO_B\knob_shadowsT_fin2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\radio_c\knob_shadowsT_fin2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\regular_bed\mattressA.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\regular_bed_desat\mattressA.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\trolley_bed\mattressA.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\regular_bed\pillowA.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\regular_bed_desat\pillowA.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\trolley_bed\pillowA.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\rose\rose_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_roseVase_valentine\rose_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_roseWatercan_valentine\rose_bloom.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\rose\rose_leaf.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_roseVase_valentine\rose_leaf.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_roseWatercan_valentine\rose_leaf.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\SaddleStool2_final\Crossbar.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\West_saddleStool2\Crossbar.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\SaddleStool2_final\Log.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\West_saddleStool2\Log.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\SaddleStool2_final\Saddle2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\West_saddleStool2\Saddle2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\SaddleStool2_final\SaddleLeg.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\West_saddleStool2\SaddleLeg.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\SaddleStool2_final\SaddleSiding.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\West_saddleStool2\SaddleSiding.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\TABLE_Bedroom_Desat\bottomDesat.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\table_radioDesat\bottomDesat.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_ara_est_house_castle\BlackDoor.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_ara_est_house_cupcake\BlackDoor.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_ara_est_house_tiki\BlackDoor.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\tt_t_prp_int_fire1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_caramelApple\tt_t_prp_int_fire1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_coral\tt_t_prp_int_fire1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\tt_t_prp_int_fire1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_round\tt_t_prp_int_fire1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_square\tt_t_prp_int_fire1.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\tt_t_prp_int_fire2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_caramelApple\tt_t_prp_int_fire2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_coral\tt_t_prp_int_fire2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\tt_t_prp_int_fire2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_round\tt_t_prp_int_fire2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_square\tt_t_prp_int_fire2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\tt_t_prp_int_fire3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_caramelApple\tt_t_prp_int_fire3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_coral\tt_t_prp_int_fire3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\tt_t_prp_int_fire3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_round\tt_t_prp_int_fire3.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_square\tt_t_prp_int_fire3.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\tt_t_prp_int_fire4.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_caramelApple\tt_t_prp_int_fire4.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_coral\tt_t_prp_int_fire4.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\tt_t_prp_int_fire4.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_round\tt_t_prp_int_fire4.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_square\tt_t_prp_int_fire4.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_bugRoom\tt_t_prp_int_fire5.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_caramelApple\tt_t_prp_int_fire5.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_coral\tt_t_prp_int_fire5.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_girlee\tt_t_prp_int_fire5.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_round\tt_t_prp_int_fire5.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_fireplace_square\tt_t_prp_int_fire5.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_winter_tree\coralPot2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWcoralVase\UWcoralPot2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\West_cactusHammoc\UWcoralPot2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\tt_m_prp_int_winter_tree\potTop.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWcoralVase\UWcoralPotTop.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\West_cactusHammoc\UWcoralPotTop.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWhammerhead\huntedFishBaseWood2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWswordFish\huntedFishBaseWood2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWhammerhead\huntedFishBaseWoodEdge.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWswordFish\huntedFishBaseWoodEdge.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWshellVase\blue_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_tall\blue_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_short\blue_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseC_short\blue_bloom.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWshellVase\leaf1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_short\leaf1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_tall\leaf1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_short\leaf1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_tall\leaf1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseC_short\leaf1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseD_short\leaf1.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWshellVase\leaf2b.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_tall\leaf2b.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_short\leaf2b.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseC_short\leaf2b.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWshellVase\orange_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_short\orange_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_tall\orange_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_short\orange_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_tall\orange_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseC_short\orange_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseD_short\orange_bloom.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWshellVase\red_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_short\red_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_tall\red_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_short\red_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_tall\red_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseC_short\red_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseD_short\red_bloom.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\UWshellVase\stem2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_short\stem2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_tall\stem2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_short\stem2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_tall\stem2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseC_short\stem2.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseD_short\stem2.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseA_short\pink_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseB_tall\pink_bloom.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\vaseD_short\pink_bloom.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\West_bisonPortrait\West_nativeChairShortLeg.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\estate\output\West_nativeChair\West_nativeChairShortLeg.png
+___________________
