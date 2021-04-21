@@ -1,0 +1,18 @@
+Duplicates Found:
+The following files are identical. The name could differ, but the content is identical
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\suit_props\output\newspaper_english\newspaper_back.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\suit_props\output\newspaper_english\newspaper_front.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\suit_props\output\smile-mod\Smile.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\suit_props\output\smile-mod\Sparkle.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\suit_props\output\phone\phone.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\suit_props\output\receiver\phone.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\suit_props\output\roll-o-dex\shredder_body.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\suit_props\output\shredder\shredder_body.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\suit_props\output\watercooler\shredder_body.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\suit_props\output\rubber-stamp\rubber_stamp_handle.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\suit_props\output\teeth-mod\rubber_stamp_handle.png
+___________________

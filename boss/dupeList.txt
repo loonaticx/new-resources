@@ -1,0 +1,42 @@
+Duplicates Found:
+The following files are identical. The name could differ, but the content is identical
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\bossbotBoss-golfclub\golfmetal_1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\bossbotBoss-legs-zero\golfmetal_1.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\bossbotBoss-legs-zero\bossLeg.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\bossCog-legs-zero\bossLeg.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\bossbotBoss-legs-zero\bossLegFoot.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\bossbotBoss-torso-zero\bossLegFoot.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\bossCog-legs-zero\bossLegFoot.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\bossbotBoss-legs-zero\bossNek.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\bossCog-legs-zero\bossNek.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\sellbotBoss-head-zero\bossNek.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\bossbotBoss-torso-zero\bossArmEnd.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\sellbotBoss-torso-zero\bossArmEnd.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\bossbotBoss-torso-zero\bossHandPalm.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\cashbotBoss-torso-zero\bossHandPalm.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\sellbotBoss-torso-zero\bossHandPalm.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\bossbotBoss-torso-zero\bossHandTop.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\cashbotBoss-torso-zero\bossHandTop.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\sellbotBoss-torso-zero\bossHandTop.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\bossbotBoss-torso-zero\boss_gear8t_outside.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\cashbotBoss-torso-zero\boss_gear8t_outside.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\gearProp\boss_gear8t_outside.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\sellbotBoss-torso-zero\boss_gear8t_outside.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\bossbotBoss-torso-zero\boss_gear_teeth1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\cashbotBoss-torso-zero\boss_gear_teeth1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\gearProp\boss_gear_teeth1.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\sellbotBoss-torso-zero\boss_gear_teeth1.png
+___________________
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\cashbotBoss-torso-zero\boss_gear_inside.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\gearProp\boss_gear_inside.png
+		C:\Users\Loonatic-IV\Desktop\Spotify\maps\PNG\boss\output\sellbotBoss-torso-zero\boss_gear_inside.png
+___________________

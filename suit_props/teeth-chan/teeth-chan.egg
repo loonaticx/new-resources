@@ -1,0 +1,35 @@
+<CoordinateSystem> { Y-Up }
+
+<Comment> {
+  "egg-optchar -inplace -keepall -TR 0,180,0 -TS 0.25 teeth-chan.egg"
+}
+<Comment> {
+  "maya2egg2019 -fri 24 -uo ft -nf -1 -a chan -cn teeth -o teeth-chan.egg -sf 0 prop-teeth.mb"
+}
+<Table> {
+  <Bundle> teeth {
+    <Table> "<skeleton>" {
+      <Table> teeth {
+        <Xfm$Anim_S$> xform {
+          <Scalar> fps { 24 }
+          <Char*> order { srpht }
+        }
+        <Table> joint_upper_con {
+          <Xfm$Anim_S$> xform {
+            <Scalar> fps { 24 }
+            <Char*> order { srpht }
+            <S$Anim> p {
+              <V> {
+                -0 35 -0
+              }
+            }
+            <S$Anim> y { <V> { 0.063674 } }
+            <S$Anim> z { <V> { 0.12500525 } }
+          }
+        }
+      }
+    }
+    <Table> morph {
+    }
+  }
+}

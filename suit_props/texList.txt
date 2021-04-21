@@ -1,0 +1,132 @@
+baseball.egg
+{'baseball.png'}
+
+bird.egg
+{'bird_tail.png', 'bird_bod.png', 'bird_wing.png'}
+
+bounced-check.egg
+{'bounced_check.png'}
+
+calculator-chan.egg
+set()
+
+calculator-mod.egg
+{'calculator_tape_side.png', 'calculator_top.png', 'calculator_tape.png', 'crank.png'}
+
+can.egg
+{'toonacan_bottom.png', 'can_side.png', 'can_sideTomatoes.png'}
+
+card.egg
+set()
+
+cigar.egg
+{'cigar.png', 'cigar_tip.png'}
+
+clip-on-tie-chan.egg
+set()
+
+clip-on-tie-mod.egg
+{'clip_on_tie2.png'}
+
+dagger.egg
+{'daggerHandle.png'}
+
+evil-eye.egg
+{'evil_eye.png'}
+
+gavel.egg
+{'gavel_expance.png', 'boxing_glove.png', 'gavel_body.png'}
+
+golf-ball.egg
+{'golf_ball.png'}
+
+golf-club.egg
+{'golf_club.png'}
+
+half-windsor.egg
+{'half_windsor_tie2.png'}
+
+lawbook.egg
+{'lawbook_pages.png'}
+
+newspaper_english.egg
+{'newspaper_front.png', 'newspaper_back.png', 'newspaper_side.png'}
+
+pad.egg
+{'pad_edge.png', 'pad_face.png'}
+
+pen.egg
+{'pen.png'}
+
+pencil.egg
+{'eraser.png', 'pencil.png'}
+
+phone.egg
+{'phone_face.png', 'phone.png'}
+
+pink-slip.egg
+{'pink_slip.png'}
+
+power-tie.egg
+{'power_tie.png'}
+
+propeller-chan.egg
+set()
+
+propeller-mod.egg
+set()
+
+rake-step-chan.egg
+set()
+
+rake-step-mod.egg
+{'crate2.png', 'rake_face.png'}
+
+receiver.egg
+{'phone.png', 'phone_reciever.png'}
+
+redtape-tube.egg
+{'tape_cylinder.png'}
+
+redtape.egg
+{'tape.png'}
+
+roll-o-dex.egg
+{'roll_o_dex_cover.png', 'roll_o_dex_pages.png', 'shredder_body.png', 'roll_o_dex_page_ends.png'}
+
+rubber-stamp-pad-chan.egg
+set()
+
+rubber-stamp-pad-mod.egg
+{'rubber_stamp_pad_side.png', 'rubber_stamp_pad.png'}
+
+rubber-stamp.egg
+{'rubber_stamp_base_top.png', 'rubber_stamp_base.png', 'rubber_stamp_handle.png', 'rubber_stamp.png'}
+
+sharpener.egg
+{'pencil_sharpener_face.png', 'pencil_sharpener_body_top.png', 'pencil_sharpener_body_side.png'}
+
+shredder-paper-chan.egg
+set()
+
+shredder-paper-mod.egg
+{'eviction_notice.png'}
+
+shredder.egg
+{'shredder_body.png', 'shredder_teeth.png'}
+
+smile-chan.egg
+set()
+
+smile-mod.egg
+{'Sparkle.png', 'Smile.png'}
+
+teeth-chan.egg
+set()
+
+teeth-mod.egg
+{'windup_teeth_crank.png', 'sm_teeth.png', 'rubber_stamp_handle.png', 'windup_teeth_gums.png'}
+
+watercooler.egg
+{'water_cooler_water_side.png', 'water_bottle_side2.png', 'neutral_gradient.png', 'water_cooler_water_top.png', 'shredder_body.png'}
+
