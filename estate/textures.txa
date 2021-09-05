@@ -1,0 +1,71 @@
+:imagetype png
+
+
+# Palette images should be no larger than 256x256 for old graphics
+# card support.
+:palette 1024 1024
+
+# Allow textures that repeat up to three times to be palettized. This
+# requires stamping multiple copies of the texture into the palette.
+:coverage 3.0
+
+:group base
+
+:group shadows dir general on base
+
+square_drop_shadow.png : omit linear
+drop-shadow.png : omit linear
+
+:group estate dir estate on base
+:group ext on estate
+
+################
+
+:group flower on ext
+:group gagtree on ext
+:group gardensign on ext
+:group gui on ext
+:group planter on ext
+:group sack on ext
+:group shovels on ext
+:group statues on ext
+:group wateringcans on ext
+:group wheelbarrel on ext
+
+carnation.egg : flower
+daisy.egg : flower
+lily.egg : flower
+narcissi.egg : flower
+pansy.egg : flower
+petunia.egg : flower
+rose.egg : flower
+tulip.egg : flower
+seedling.egg : flower
+dirt_mound.egg : flower
+
+shovels.egg : shovels
+watering_cans.egg : wateringcans
+
+garden_donalds.egg : statues
+garden_mickey_flute.egg : statues
+garden_mickey_shovel.egg : statues
+garden_minnie.egg : statues
+garden_pedestal.egg : statues
+garden_slab.egg : statues
+
+################
+
+:group house_castle on ext
+:group house_cupcake on ext
+:group house_tepee on ext
+:group house_tiki on ext
+:group house_camper on ext
+:group house_default on ext
+
+houseA.egg : house_default
+houseB.egg : house_camper
+tt_m_ara_est_house_castle.egg : house_castle
+tt_m_ara_est_house_cupcake.egg : house_cupcake
+tt_m_ara_est_house_tepee.egg : house_tepee
+tt_m_ara_est_house_tiki.egg : house_tiki
+
