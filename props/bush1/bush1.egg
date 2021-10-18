@@ -1129,6 +1129,7 @@
     }
   }
   <Group> bush1_camera_collision {
+  <ObjectType> { cambarrier }
     <Polygon> {
       <RGBA> { 1 1 1 1 }
       <VertexRef> { 10 12 2 0 <Ref> { vpool } }

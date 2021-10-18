@@ -1,3 +1,5 @@
 *.swatch
 *.swatches
 *.psd
+estate/out/*
+estate\out\*
