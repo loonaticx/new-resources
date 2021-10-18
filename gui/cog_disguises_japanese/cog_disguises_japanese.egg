@@ -1,0 +1,4333 @@
+<CoordinateSystem> { Y-Up }
+
+<Comment> {
+  "maya2egg_client -uo ft -tbnall -nv 60 -o cog_disguises_japanese.egg cog_disguises_japanese.mb"
+}
+<Texture> tab_law1SG {
+  "page2.png"
+  <Scalar> wrapu { clamp }
+  <Scalar> wrapv { clamp }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> tab_boss1SG {
+  "page4.png"
+  <Scalar> wrapu { clamp }
+  <Scalar> wrapv { clamp }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> robot_hole1SG {
+  "robot_hole.png"
+  <Scalar> wrapu { clamp }
+  <Scalar> wrapv { clamp }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> pasted__pasted__lambert4SG {
+  "robot.png"
+  <Scalar> wrapu { clamp }
+  <Scalar> wrapv { clamp }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> meterFace_halfSG {
+  "meter_face_half.png"
+  <Scalar> wrapu { clamp }
+  <Scalar> wrapv { clamp }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert9SG {
+  "meter_face_whole.png"
+  <Scalar> wrapu { clamp }
+  <Scalar> wrapv { clamp }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert8SG {
+  "Title_japanese.png"
+  <Scalar> wrapu { clamp }
+  <Scalar> wrapv { clamp }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert6SG {
+  "cog_base.png"
+  <Scalar> wrapu { clamp }
+  <Scalar> wrapv { clamp }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert5SG {
+  "page1.png"
+  <Scalar> wrapu { clamp }
+  <Scalar> wrapv { clamp }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert3SG {
+  "pipe_frame4.png"
+  <Scalar> wrapu { clamp }
+  <Scalar> wrapv { clamp }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert21SG {
+  "StockOptionProgress_japanese.png"
+  <Scalar> wrapu { repeat }
+  <Scalar> wrapv { repeat }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert20SG {
+  "jurynotice_japanese.png"
+  <Scalar> wrapu { repeat }
+  <Scalar> wrapv { repeat }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert19SG {
+  "cogbuck_japanese.png"
+  <Scalar> wrapu { repeat }
+  <Scalar> wrapv { repeat }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert17SG {
+  "tab4.png"
+  <Scalar> wrapu { repeat }
+  <Scalar> wrapv { repeat }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert16SG {
+  "page3.png"
+  <Scalar> wrapu { repeat }
+  <Scalar> wrapv { repeat }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert15SG {
+  "tab2.png"
+  <Scalar> wrapu { repeat }
+  <Scalar> wrapv { repeat }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert14SG {
+  "tab1.png"
+  <Scalar> wrapu { repeat }
+  <Scalar> wrapv { repeat }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert13SG {
+  "tab3.png"
+  <Scalar> wrapu { repeat }
+  <Scalar> wrapv { repeat }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert12SG {
+  "ReadyForPromotion_japanese.png"
+  <Scalar> wrapu { clamp }
+  <Scalar> wrapv { clamp }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert11SG {
+  "MeritProgress_japanese.png"
+  <Scalar> wrapu { clamp }
+  <Scalar> wrapv { clamp }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Texture> lambert10SG {
+  "tube.png"
+  <Scalar> wrapu { clamp }
+  <Scalar> wrapv { clamp }
+  <Scalar> minfilter { linear_mipmap_linear }
+  <Scalar> magfilter { linear }
+}
+<Group> group {
+  <Group> locator1 {
+    <DCS> { net }
+    <Transform> {
+      <Matrix4> {
+        1 0 0 0
+        0 1 0 0
+        0 0 1 0
+        0.457619578417917 0.039 0.0239315407327184 1
+      }
+    }
+    <Group> meter_face_whole {
+      <VertexPool> meter_face_wholeShape.verts {
+        <Vertex> 0 {
+          0.310614976433095 -0.108591689134612 0.0239315407327184
+          <UV> {
+            0 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          0.310614976433095 0.185671424798069 0.0239315407327184
+          <UV> {
+            0 1
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          0.604878053537537 -0.108591689134612 0.0239315407327184
+          <UV> {
+            1 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          0.604878053537537 0.185671424798069 0.0239315407327184
+          <UV> {
+            1 1
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { lambert9SG }
+        <VertexRef> { 0 2 3 1 <Ref> { meter_face_wholeShape.verts } }
+      }
+    }
+    <Group> meter_face_half {
+      <VertexPool> meter_face_halfShape.verts {
+        <Vertex> 0 {
+          0.310614976433095 -0.108591689134612 0.0239315407327184
+          <UV> {
+            0 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          0.310614976433095 0.185671424798069 0.0239315407327184
+          <UV> {
+            0 1
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          0.604878053537537 -0.108591689134612 0.0239315407327184
+          <UV> {
+            1 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          0.604878053537537 0.185671424798069 0.0239315407327184
+          <UV> {
+            1 1
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { meterFace_halfSG }
+        <VertexRef> { 0 2 3 1 <Ref> { meter_face_halfShape.verts } }
+      }
+    }
+  }
+  <Group> text_cog_disguises {
+    <VertexPool> text_cog_disguisesShape.verts {
+      <Vertex> 0 {
+        -0.777694383372453 1.20751231113028 0.0171983484927715
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        -0.777694383372453 1.42663437171678 0.0171983484927715
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        0.71119448315557 1.20751231113028 0.0171983484927715
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        0.71119448315557 1.42663437171678 0.0171983484927715
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { lambert8SG }
+      <VertexRef> { 0 2 3 1 <Ref> { text_cog_disguisesShape.verts } }
+    }
+  }
+  <Group> text_merit_progress {
+    <VertexPool> text_merit_progressShape.verts {
+      <Vertex> 0 {
+        0.0664158798258885 0.40233526133671 0.0210705985542297
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        0.0664158798258885 0.622504537815388 0.0210705985542297
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        0.885807197681445 0.40233526133671 0.0210705985542297
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        0.885807197681445 0.622504537815388 0.0210705985542297
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { lambert11SG }
+      <VertexRef> { 0 2 3 1 <Ref> { text_merit_progressShape.verts } }
+    }
+  }
+  <Group> text_cashbuck_progress {
+    <VertexPool> text_cashbuck_progressShape.verts {
+      <Vertex> 0 {
+        -0.0821656242514449 0.380094065473775 0.0210705985542297
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        -0.0821656242514449 0.6443153395541 0.0210705985542297
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        1.00644571167806 0.380094065473775 0.0210705985542297
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        1.00644571167806 0.6443153395541 0.0210705985542297
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { lambert19SG }
+      <VertexRef> { 0 2 3 1 <Ref> { text_cashbuck_progressShape.verts } }
+    }
+  }
+  <Group> text_jury_notice_progress {
+    <VertexPool> text_jury_notice_progressShape.verts {
+      <Vertex> 0 {
+        -0.0821656242514449 0.380094065473775 0.0210705985542297
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        -0.0821656242514449 0.6443153395541 0.0210705985542297
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        1.00644571167806 0.380094065473775 0.0210705985542297
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        1.00644571167806 0.6443153395541 0.0210705985542297
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { lambert20SG }
+      <VertexRef> { 0 2 3 1 <Ref> { text_jury_notice_progressShape.verts } }
+    }
+  }
+  <Group> text_ready4promotion {
+    <VertexPool> text_ready4promotionShape.verts {
+      <Vertex> 0 {
+        -0.0821656242514449 0.360709380152977 0.0210705985542297
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        -0.0821656242514449 0.624930654233302 0.0210705985542297
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        1.00644571167806 0.360709380152977 0.0210705985542297
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        1.00644571167806 0.624930654233302 0.0210705985542297
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { lambert12SG }
+      <VertexRef> { 0 2 3 1 <Ref> { text_ready4promotionShape.verts } }
+    }
+  }
+  <Group> tube {
+    <VertexPool> tubeShape.verts {
+      <Vertex> 0 {
+        -1.41577651037105 -0.661440386364056 0.0239315407327185
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        -1.41577651037105 0.949670700550595 0.0239315407327185
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        -0.41577652538954 -0.661440386364056 0.0239315407327185
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        -0.41577652538954 0.949670700550595 0.0239315407327185
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { lambert10SG }
+      <VertexRef> { 0 2 3 1 <Ref> { tubeShape.verts } }
+    }
+  }
+  <Group> robot {
+    <Group> hip {
+      <VertexPool> hipShape.verts {
+        <Vertex> 0 {
+          -1.08543491937939 -0.0394864781254642 -2.73184799366426e-18
+          <UV> {
+            0.229026973247528 0.399307310581207
+            <Tangent> { 0.99999999999925 1.22510265279516e-06 0 }
+            <Binormal> { -1.22510265279516e-06 0.99999999999925 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.08543491937939 -0.00170417040149923 -2.73184799366426e-18
+          <UV> {
+            0.229026973247528 0.425556719303131
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -1.08543491937939 0.105273350226423 -2.73184799366426e-18
+          <UV> {
+            0.229026973247528 0.499879777431488
+            <Tangent> { 0.999999999998506 1.72882675791644e-06 0 }
+            <Binormal> { -1.72882675791644e-06 0.999999999998506 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -1.0527034638797 0.105471719932184 -2.73184799366426e-18
+          <UV> {
+            0.277688771486282 0.500017583370209
+            <Tangent> { 0.999995293135301 0.00306817653405529 0 }
+            <Binormal> { -0.00306817653405529 0.999995293135301 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -1.05042052784117 -0.0394864781254642 -2.73184777655649e-18
+          <UV> {
+            0.281082659959793 0.399307280778885
+            <Tangent> { 0.999999999999978 -2.09615795738403e-07 0 }
+            <Binormal> { 2.09615795738403e-07 0.999999999999978 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.907538229258108 -0.0394864781254642 -2.73184799366426e-18
+          <UV> {
+            0.493506878614426 0.399307310581207
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.826543625274242 -0.0394864781254642 -2.73184799366426e-18
+          <UV> {
+            0.613921642303467 0.399307310581207
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -0.769159339588269 -0.0394864781254642 -2.73184799366426e-18
+          <UV> {
+            0.699235320091248 0.399307310581207
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -0.73013274204935 0.107426650624046 -2.73184799366426e-18
+          <UV> {
+            0.75725644826889 0.50137585401535
+            <Tangent> { 0.999994121573778 0.003428821647135 0 }
+            <Binormal> { -0.003428821647135 0.999994121573778 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 9 {
+          -0.730132657867189 -0.0394864781254642 -2.73184799366426e-18
+          <UV> {
+            0.75725644826889 0.399307310581207
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 10 {
+          -0.723102521375639 -0.0394864781254642 -2.73184799366426e-18
+          <UV> {
+            0.767708241939545 0.39930734038353
+            <Tangent> { 0.999999999981384 -6.10176015173373e-06 0 }
+            <Binormal> { 6.10176015173373e-06 0.999999999981384 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 11 {
+          -0.723102521375639 -0.000609517299031695 -2.73184799366426e-18
+          <UV> {
+            0.767708241939545 0.426317274570465
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 12 {
+          -0.723102521375639 0.107469265377228 -2.73184799366426e-18
+          <UV> {
+            0.767708241939545 0.501405417919159
+            <Tangent> { 0.999999999961504 8.7745440734229e-06 0 }
+            <Binormal> { -8.7745440734229e-06 0.999999999961504 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 13 {
+          -1.07227943626842 0.10535307415437 -2.73184799366426e-18
+          <UV> {
+            0.248584985733032 0.499935150146484
+            <Tangent> { 0.999989608575968 0.00455880906399866 0 }
+            <Binormal> { -0.00455880906399866 0.999989608575968 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 14 {
+          -0.948099551783884 -0.0394864781254642 -2.73184799366426e-18
+          <UV> {
+            0.433203816413879 0.399307310581207
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 15 {
+          -0.767203451247276 0.107201991499875 -2.73184799366426e-18
+          <UV> {
+            0.702143132686615 0.501219689846039
+            <Tangent> { 0.999978972950865 0.00648487903770693 0 }
+            <Binormal> { 0.00648487903770693 -0.999978972950865 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> {
+          2 1 0 4 14 5 6 7 9 10 11 12 8 15 3 13
+          <Ref> { hipShape.verts }
+        }
+      }
+    }
+    <Group> lShoe {
+      <VertexPool> lShoeShape.verts {
+        <Vertex> 0 {
+          -0.90969876443378 -0.614232858983568 -2.73184799366426e-18
+          <UV> {
+            0.490294575691223 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.909412039991608 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.49072077870369 0.0529856085777283
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.809834813125081 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.638762712478638 0.0529856085777283
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.788681014482801 -0.614232858983568 -2.73184799366426e-18
+          <UV> {
+            0.670212388038635 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.776822525934525 -0.614232858983568 -2.73184799366426e-18
+          <UV> {
+            0.687842428684235 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.775805605423241 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.689354062080383 0.0529856085777283
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.730132657867189 -0.614232858983568 -2.73184799366426e-18
+          <UV> {
+            0.75725644826889 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -0.730132657867189 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.757256388664246 0.0529856085777283
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -0.723102521375639 -0.614232858983568 -2.73184799366426e-18
+          <UV> {
+            0.767708241939545 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 9 {
+          -0.723102521375639 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.767708241939545 0.0529856085777283
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 10 {
+          -0.703900107328711 -0.614232813948161 -2.73184799366426e-18
+          <UV> {
+            0.796256422996521 0
+            <Tangent> { 0.99999999999725 2.34529919951189e-06 0 }
+            <Binormal> { -2.34529919951189e-06 0.99999999999725 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 11 {
+          -0.703900107328711 -0.537962471166299 -2.73184799366426e-18
+          <UV> {
+            0.796256422996521 0.0529891587793827
+            <Tangent> { 0.999999999999813 6.11134449950799e-07 0 }
+            <Binormal> { -6.11134449950799e-07 0.999999999999813 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 12 {
+          -0.723102521375639 -0.538299336005188 -2.73184799366426e-18
+          <UV> {
+            0.767708241939545 0.0527551285922527
+            <Tangent> { 0.999999999999205 1.2611067541921e-06 0 }
+            <Binormal> { -1.2611067541921e-06 0.999999999999205 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> {
+          7 5 2 1 0 3 4 6 8 10 11 12 9
+          <Ref> { lShoeShape.verts }
+        }
+      }
+    }
+    <Group> lShoulder {
+      <VertexPool> lShoulderShape.verts {
+        <Vertex> 0 {
+          -0.906076995298266 0.349197044959779 -2.73184799366426e-18
+          <UV> {
+            0.495679199695587 0.669346749782562
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.905234584407833 0.573207681798086 -2.73184799366426e-18
+          <UV> {
+            0.496931314468384 0.824979066848755
+            <Tangent> { 0.99999999999978 -6.627401207458e-07 0 }
+            <Binormal> { 6.627401207458e-07 0.99999999999978 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.805803666138045 0.574212061428689 -2.73184799366426e-18
+          <UV> {
+            0.644755899906158 0.82567685842514
+            <Tangent> { 0.999999999999998 6.16207137461281e-08 0 }
+            <Binormal> { -6.16207137461281e-08 0.999999999999998 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.763976833177985 0.349197044959779 -2.73184799366426e-18
+          <UV> {
+            0.706940174102783 0.669346749782562
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.744520820369447 0.349197044959779 -2.73184799366426e-18
+          <UV> {
+            0.735865533351898 0.669346749782562
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.734487148536662 0.349197044959779 -2.73184799366426e-18
+          <UV> {
+            0.75078272819519 0.669346749782562
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.695365340973052 0.514377660376987 -2.73184799366426e-18
+          <UV> {
+            0.80894523859024 0.78410667181015
+            <Tangent> { -0.994719380172604 0.102632132926446 0 }
+            <Binormal> { 0.102632132926446 0.994719380172604 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -0.691800815707378 0.529425520815137 -2.73184799366426e-18
+          <UV> {
+            0.814243793487549 0.794561266899109
+            <Tangent> { -0.998373362952839 0.0570142801957503 0 }
+            <Binormal> { 0.0570142801957503 0.998373362952839 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -0.723102521375639 0.397265518287451 -2.73184799366426e-18
+          <UV> {
+            0.767708241939545 0.702742576599121
+            <Tangent> { 0.567439241878761 0.823415269943457 0 }
+            <Binormal> { -0.823415269943457 0.567439241878761 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> { 6 7 2 1 0 3 4 5 8 <Ref> { lShoulderShape.verts } }
+      }
+    }
+    <Group> lHand {
+      <VertexPool> lHandShape.verts {
+        <Vertex> 0 {
+          -0.708074574445752 -0.129835451849467 -2.73184799366426e-18
+          <UV> {
+            0.790049970149994 0.336537063121796
+            <Tangent> { 0.999999999986458 5.20424326275479e-06 0 }
+            <Binormal> { -5.20424326275479e-06 0.999999999986458 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.708074574445752 -0.000564121609512949 -2.73184799366426e-18
+          <UV> {
+            0.790050268173218 0.426348805427551
+            <Tangent> { 0.999999999999985 -1.73370421932552e-07 0 }
+            <Binormal> { 1.73370421932552e-07 0.999999999999985 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.703900107328711 -0.129820545129992 -2.73184799366426e-18
+          <UV> {
+            0.796256303787231 0.336547404527664
+            <Tangent> { 0.99999475350861 0.00323928313897674 0 }
+            <Binormal> { -0.00323928313897674 0.99999475350861 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.700239067214843 -0.000540444244667238 -2.73184799366426e-18
+          <UV> {
+            0.801699280738831 0.426365256309509
+            <Tangent> { 0.999999967713728 -0.000254111280554521 0 }
+            <Binormal> { 0.000254111280554521 0.999999967713728 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.571106830349644 -0.000150291261310856 -2.73184799366426e-18
+          <UV> {
+            0.993681490421295 0.426636338233948
+            <Tangent> { 0.999997886591155 0.00205592150234445 0 }
+            <Binormal> { -0.00205592150234445 0.999997886591155 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.566856851833711 -0.129331100334665 -2.73184799366426e-18
+          <UV> {
+            1 0.336887449026108
+            <Tangent> { 1 -8.42719113258723e-09 0 }
+            <Binormal> { 8.42719113258723e-09 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.566856851833711 -0.000137444911672737 -2.73184799366426e-18
+          <UV> {
+            1 0.426645249128342
+            <Tangent> { 0.999999999988505 4.79479159630975e-06 0 }
+            <Binormal> { -4.79479159630975e-06 0.999999999988505 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> { 6 4 3 1 0 2 5 <Ref> { lHandShape.verts } }
+      }
+    }
+    <Group> rHand {
+      <VertexPool> rHandShape.verts {
+        <Vertex> 0 {
+          -1.23948482351105 -0.131733333940438 -2.73184799366426e-18
+          <UV> {
+            0 0.33521842956543
+            <Tangent> { 0.999999999999991 -1.31566589150872e-07 0 }
+            <Binormal> { 1.31566589150872e-07 0.999999999999991 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.23948482351105 -0.00216961132528513 -2.73184799366426e-18
+          <UV> {
+            0 0.425233393907547
+            <Tangent> { 0.999999999999614 -8.79207682784474e-07 0 }
+            <Binormal> { 8.79207682784474e-07 0.999999999999614 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -1.09546463465059 -0.131218984565444 -2.73184777655649e-18
+          <UV> {
+            0.214115723967552 0.335575789213181
+            <Tangent> { 0.999999999999991 -1.33080764495754e-07 0 }
+            <Binormal> { 1.33080764495754e-07 0.999999999999991 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -1.09546463465059 -0.001734479229918 -2.73184777655649e-18
+          <UV> {
+            0.214115723967552 0.425535678863525
+            <Tangent> { 0.999999999999793 -6.44149872515471e-07 0 }
+            <Binormal> { 6.44149872515471e-07 0.999999999999793 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -1.2330949765401 -0.00215031365369904 -2.73184799366426e-18
+          <UV> {
+            0.00949977803975344 0.425246804952621
+            <Tangent> { 0.999548754019783 -0.0300381147460843 0 }
+            <Binormal> { 0.0300381147460843 0.999548754019783 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -1.09948155485232 -0.00174661627190738 -2.73184777655649e-18
+          <UV> {
+            0.208143532276154 0.42552724480629
+            <Tangent> { 0.999996218562026 0.00275006575349278 0 }
+            <Binormal> { -0.00275006575349278 0.999996218562026 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> { 0 2 3 5 4 1 <Ref> { rHandShape.verts } }
+      }
+    }
+    <Group> rLowleg {
+      <VertexPool> rLowlegShape.verts {
+        <Vertex> 0 {
+          -1.04599422978791 -0.320568323628458 -2.73184799366426e-18
+          <UV> {
+            0.287663578987122 0.204024568200111
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.04257062546064 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.292753458023071 0.0529856085777283
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.944605066076604 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.438399136066437 0.0529856085777283
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.909412039991608 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.49072077870369 0.0529856085777283
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.90884439967641 -0.386978119172405 -2.73184777655649e-18
+          <UV> {
+            0.491564691066742 0.157886102795601
+            <Tangent> { 0.926001672650801 0.377519406452065 0 }
+            <Binormal> { -0.377519406452065 0.926001672650801 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.908594799567473 -0.320568323628458 -2.73184799366426e-18
+          <UV> {
+            0.491935849189758 0.204024568200111
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> { 2 3 4 5 0 1 <Ref> { rLowlegShape.verts } }
+      }
+    }
+    <Group> rShoe {
+      <VertexPool> rShoeShape.verts {
+        <Vertex> 0 {
+          -1.1144648852366 -0.614232858983568 -2.73184799366426e-18
+          <UV> {
+            0.185867726802826 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.11344813308964 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.187379449605942 0.052985604852438
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -1.08543491937939 -0.614232858983568 -2.73184799366426e-18
+          <UV> {
+            0.229026958346367 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -1.08543491937939 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.229026973247528 0.052985604852438
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -1.07227943626842 -0.614232858983568 -2.73184799366426e-18
+          <UV> {
+            0.248585015535355 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -1.04257062546064 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.292753458023071 0.0529856085777283
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -1.04136959856208 -0.614232858983568 -2.73184799366426e-18
+          <UV> {
+            0.294539004564285 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -0.962667864111817 -0.614232858983568 -2.73184799366426e-18
+          <UV> {
+            0.411545097827911 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -0.944605066076604 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.438399136066437 0.0529856085777283
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 9 {
+          -0.90969876443378 -0.614232858983568 -2.73184799366426e-18
+          <UV> {
+            0.490294575691223 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 10 {
+          -0.909412039991608 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.49072077870369 0.0529856085777283
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 11 {
+          -1.07227943626842 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.248585030436516 0.0529856011271477
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> {
+          4 6 7 9 10 8 5 11 3 1 0 2
+          <Ref> { rShoeShape.verts }
+        }
+      }
+    }
+    <Group> rUpleg {
+      <VertexPool> rUplegShape.verts {
+        <Vertex> 0 {
+          -1.05042052784117 -0.0394864781254642 -2.73184777655649e-18
+          <UV> {
+            0.281082659959793 0.399307280778885
+            <Tangent> { 0.999999999999978 -2.09615795738403e-07 0 }
+            <Binormal> { 2.09615795738403e-07 0.999999999999978 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.04599422978791 -0.320568323628458 -2.73184799366426e-18
+          <UV> {
+            0.287663578987122 0.204024568200111
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.948099551783884 -0.0394864781254642 -2.73184799366426e-18
+          <UV> {
+            0.433203816413879 0.399307310581207
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 -1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.908594799567473 -0.320568323628458 -2.73184799366426e-18
+          <UV> {
+            0.491935849189758 0.204024568200111
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.907538229258108 -0.0394864781254642 -2.73184799366426e-18
+          <UV> {
+            0.493506878614426 0.399307310581207
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.908080530742685 -0.183766116458012 -2.73184799366426e-18
+          <UV> {
+            0.492700457572937 0.299068450927734
+            <Tangent> { -0.999547313340853 -0.0300860165705494 0 }
+            <Binormal> { -0.0300860165705494 0.999547313340853 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> { 2 0 1 3 5 4 <Ref> { rUplegShape.verts } }
+      }
+    }
+    <Group> rShoulder {
+      <VertexPool> rShoulderShape.verts {
+        <Vertex> 0 {
+          -1.10591223017162 0.529469430336249 -2.73184799366426e-18
+          <UV> {
+            0.198582753539085 0.794591784477234
+            <Tangent> { 0.788927877291283 -0.61448580490738 0 }
+            <Binormal> { 0.61448580490738 0.788927877291283 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.1021926413644 0.516058832092993 -2.73184799366426e-18
+          <UV> {
+            0.20411291718483 0.785274624824524
+            <Tangent> { 0.762851212026547 -0.646574070242249 0 }
+            <Binormal> { 0.646574070242249 0.762851212026547 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -1.05658375643328 0.351626817716485 -2.73184799366426e-18
+          <UV> {
+            0.271919965744019 0.671034872531891
+            <Tangent> { 0.999999734952648 0.000728075980619261 0 }
+            <Binormal> { -0.000728075980619261 0.999999734952648 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -1.05657971568952 0.351612609045807 -2.73184799366426e-18
+          <UV> {
+            0.271925806999207 0.671024978160858
+            <Tangent> { 0.999998757922786 -0.0015761195655308 0 }
+            <Binormal> { 0.0015761195655308 0.999998757922786 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -1.05590979404807 0.349197044959779 -2.73184799366426e-18
+          <UV> {
+            0.272921919822693 0.669346749782562
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.980561961095324 0.572446808609179 -2.73184799366426e-18
+          <UV> {
+            0.384941637516022 0.824450373649597
+            <Tangent> { 0.99999543577399 0.00302132937449823 0 }
+            <Binormal> { -0.00302132937449823 0.999995435773989 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.906076995298266 0.349197044959779 -2.73184799366426e-18
+          <UV> {
+            0.495679199695587 0.669346749782562
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -0.905234584407833 0.573207681798086 -2.73184799366426e-18
+          <UV> {
+            0.496931314468384 0.824979066848755
+            <Tangent> { 0.99999999999978 -6.627401207458e-07 0 }
+            <Binormal> { 6.627401207458e-07 0.99999999999978 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -1.08543475101507 0.455642303379864 -2.73184799366426e-18
+          <UV> {
+            0.229026973247528 0.743300080299377
+            <Tangent> { 0.439452461642523 -0.898265848152053 0 }
+            <Binormal> { 0.898265848152053 0.439452461642523 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 9 {
+          -1.05658038914682 0.351653343570777 -2.73184799366426e-18
+          <UV> {
+            0.271924883127213 0.671053290367126
+            <Tangent> { 0.999974878752211 0.0070881495823362 0 }
+            <Binormal> { -0.0070881495823362 0.999974878752211 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> {
+          1 8 2 9 3 4 6 7 5 0
+          <Ref> { rShoulderShape.verts }
+        }
+      }
+    }
+    <Group> waist {
+      <VertexPool> waistShape.verts {
+        <Vertex> 0 {
+          -1.07227943626842 0.10535307415437 -2.73184799366426e-18
+          <UV> {
+            0.248584985733032 0.499935150146484
+            <Tangent> { 0.999999999999965 -2.63906886574706e-07 0 }
+            <Binormal> { 2.63906886574706e-07 0.999999999999965 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.07227943626842 0.226060291396663 -2.73184799366426e-18
+          <UV> {
+            0.248585060238838 0.583796977996826
+            <Tangent> { 0.996333946639842 0.0855492067355232 0 }
+            <Binormal> { -0.0855492067355232 0.996333946639842 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -1.07143340554504 0.232829653383707 -2.73184799366426e-18
+          <UV> {
+            0.249843060970306 0.588500022888184
+            <Tangent> { -0.999604484857536 -0.0281224794906068 0 }
+            <Binormal> { -0.0281224794906068 0.999604484857536 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -1.02356523976277 0.232586664849185 -2.73184799366426e-18
+          <UV> {
+            0.321008801460266 0.58833122253418
+            <Tangent> { 0.999989151418675 -0.00465800869018863 0 }
+            <Binormal> { 0.00465800869018863 0.999989151418675 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.767203451247276 0.107201991499875 -2.73184799366426e-18
+          <UV> {
+            0.702143132686615 0.501219689846039
+            <Tangent> { 0.999978972950865 0.00648487903770693 0 }
+            <Binormal> { 0.00648487903770693 -0.999978972950865 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.765549019226723 0.231276990199488 -2.73184799366426e-18
+          <UV> {
+            0.704602718353271 0.587421357631683
+            <Tangent> { 0.999990836947747 -0.00428089015804582 0 }
+            <Binormal> { 0.00428089015804582 0.999990836947747 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.73013274204935 0.107426650624046 -2.73184799366426e-18
+          <UV> {
+            0.75725644826889 0.50137585401535
+            <Tangent> { 0.999994121573778 0.003428821647135 0 }
+            <Binormal> { -0.003428821647135 0.999994121573778 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -0.730132657867189 0.231097208857664 -2.73184799366426e-18
+          <UV> {
+            0.75725656747818 0.587296426296234
+            <Tangent> { 0.999994468971159 -0.00332596258108672 0 }
+            <Binormal> { 0.00332596258108672 0.999994468971159 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -1.05470767278141 0.232744739125188 -2.73184799366426e-18
+          <UV> {
+            0.274709045886993 0.588441014289856
+            <Tangent> { 0.999993271854933 -0.00366827546206446 0 }
+            <Binormal> { 0.00366827546206446 0.999993271854933 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 9 {
+          -1.0527034638797 0.105471719932184 -2.73184799366426e-18
+          <UV> {
+            0.277688771486282 0.500017583370209
+            <Tangent> { 0.999995293135301 0.00306817653405529 0 }
+            <Binormal> { -0.00306817653405529 0.999995293135301 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 10 {
+          -0.906517604731715 0.231992535251987 -2.73184799366426e-18
+          <UV> {
+            0.495024234056473 0.58791846036911
+            <Tangent> { 0.999993519412795 -0.00360015727607409 0 }
+            <Binormal> { 0.00360015727607409 0.999993519412795 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 11 {
+          -0.762419294825353 0.231261092701075 -2.73184799366426e-18
+          <UV> {
+            0.709255754947662 0.587410271167755
+            <Tangent> { 0.999990794558898 -0.004290780519224 0 }
+            <Binormal> { 0.004290780519224 0.999990794558898 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> {
+          4 6 7 11 5 10 3 8 2 1 0 9
+          <Ref> { waistShape.verts }
+        }
+      }
+    }
+    <Group> chest {
+      <VertexPool> chestShape.verts {
+        <Vertex> 0 {
+          -1.07143340554504 0.232829653383707 -2.73184799366426e-18
+          <UV> {
+            0.249843060970306 0.588500022888184
+            <Tangent> { -0.999604484857536 -0.0281224794906068 0 }
+            <Binormal> { -0.0281224794906068 0.999604484857536 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.05688748567208 0.349197044959779 -2.73184799366426e-18
+          <UV> {
+            0.2714684009552 0.669346749782562
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -1.05654166535251 0.349197044959779 -2.73184799366426e-18
+          <UV> {
+            0.271982431411743 0.669346749782562
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -1.05590979404807 0.349197044959779 -2.73184799366426e-18
+          <UV> {
+            0.272921919822693 0.669346749782562
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -1.05470767278141 0.232744739125188 -2.73184799366426e-18
+          <UV> {
+            0.274709045886993 0.588441014289856
+            <Tangent> { 0.999993271854933 -0.00366827546206446 0 }
+            <Binormal> { 0.00366827546206446 0.999993271854933 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.906517604731715 0.231992535251987 -2.73184799366426e-18
+          <UV> {
+            0.495024234056473 0.58791846036911
+            <Tangent> { 0.999993519412795 -0.00360015727607409 0 }
+            <Binormal> { 0.00360015727607409 0.999993519412795 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.906076995298266 0.349197044959779 -2.73184799366426e-18
+          <UV> {
+            0.495679199695587 0.669346749782562
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -0.763976833177985 0.349197044959779 -2.73184799366426e-18
+          <UV> {
+            0.706940174102783 0.669346749782562
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -0.762419294825353 0.231261092701075 -2.73184799366426e-18
+          <UV> {
+            0.709255754947662 0.587410271167755
+            <Tangent> { 0.999990794558898 -0.004290780519224 0 }
+            <Binormal> { 0.004290780519224 0.999990794558898 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 9 {
+          -0.744520820369447 0.349197044959779 -2.73184799366426e-18
+          <UV> {
+            0.735865533351898 0.669346749782562
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 10 {
+          -0.741085851450368 0.321335575623871 -2.73184799366426e-18
+          <UV> {
+            0.740972340106964 0.649989902973175
+            <Tangent> { 0.930032655712787 -0.367476882684912 0 }
+            <Binormal> { 0.367476882684912 0.930032655712787 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 11 {
+          -0.730132657867189 0.231097208857664 -2.73184799366426e-18
+          <UV> {
+            0.75725656747818 0.587296426296234
+            <Tangent> { 0.999994468971159 -0.00332596258108672 0 }
+            <Binormal> { 0.00332596258108672 0.999994468971159 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 12 {
+          -0.729960589529021 0.231096330667242 -2.73184799366426e-18
+          <UV> {
+            0.757512390613556 0.587295830249786
+            <Tangent> { 0.971174165673351 0.238371013188833 0 }
+            <Binormal> { -0.238371013188833 0.971174165673351 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 13 {
+          -1.02356523976277 0.232586664849185 -2.73184799366426e-18
+          <UV> {
+            0.321008801460266 0.58833122253418
+            <Tangent> { 0.999989151418675 -0.00465800869018863 0 }
+            <Binormal> { 0.00465800869018863 0.999989151418675 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 14 {
+          -0.765549019226723 0.231276990199488 -2.73184799366426e-18
+          <UV> {
+            0.704602718353271 0.587421357631683
+            <Tangent> { 0.999990836947747 -0.00428089015804582 0 }
+            <Binormal> { 0.00428089015804582 0.999990836947747 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> {
+          14 8 11 12 10 9 7 6 3 2 1 0 4 13 5
+          <Ref> { chestShape.verts }
+        }
+      }
+    }
+    <Group> rUparm {
+      <VertexPool> rUparmShape.verts {
+        <Vertex> 0 {
+          -1.20724473928821 0.206915334873228 -2.73184799366426e-18
+          <UV> {
+            0.0479306429624557 0.570495963096619
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.12435696267369 0.516150344038531 -2.73184799366426e-18
+          <UV> {
+            0.171160861849785 0.785338282585144
+            <Tangent> { -0.356045501513706 0.934468619511567 0 }
+            <Binormal> { 0.934468619511567 0.356045501513706 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -1.11347692338888 0.556741656416539 -2.73184799366426e-18
+          <UV> {
+            0.187336564064026 0.813539147377014
+            <Tangent> { 0.999999999988244 -4.849013655647e-06 0 }
+            <Binormal> { 4.849013655647e-06 0.999999999988244 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -1.10591223017162 0.529469430336249 -2.73184799366426e-18
+          <UV> {
+            0.198582753539085 0.794591784477234
+            <Tangent> { 0.788927877291283 -0.61448580490738 0 }
+            <Binormal> { 0.61448580490738 0.788927877291283 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -1.08543475101507 0.455642303379864 -2.73184799366426e-18
+          <UV> {
+            0.229026973247528 0.743300080299377
+            <Tangent> { 0.439452461642523 -0.898265848152053 0 }
+            <Binormal> { 0.898265848152053 0.439452461642523 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -1.07467265093856 0.206915334873228 -2.73184799366426e-18
+          <UV> {
+            0.24502719938755 0.570495963096619
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -1.07227943626842 0.226060291396663 -2.73184799366426e-18
+          <UV> {
+            0.248585060238838 0.583796977996826
+            <Tangent> { 0.996333946639842 0.0855492067355232 0 }
+            <Binormal> { -0.0855492067355232 0.996333946639842 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -1.07143340554504 0.232829653383707 -2.73184799366426e-18
+          <UV> {
+            0.249843060970306 0.588500022888184
+            <Tangent> { -0.999604484857536 -0.0281224794906068 0 }
+            <Binormal> { -0.0281224794906068 0.999604484857536 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -1.05658375643328 0.351626817716485 -2.73184799366426e-18
+          <UV> {
+            0.271919965744019 0.671034872531891
+            <Tangent> { 0.999999734952648 0.000728075980619261 0 }
+            <Binormal> { -0.000728075980619261 0.999999734952648 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 9 {
+          -1.1021926413644 0.516058832092993 -2.73184799366426e-18
+          <UV> {
+            0.20411291718483 0.785274624824524
+            <Tangent> { 0.762851212026547 -0.646574070242249 0 }
+            <Binormal> { 0.646574070242249 0.762851212026547 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 10 {
+          -1.05688748567208 0.349197044959779 -2.73184799366426e-18
+          <UV> {
+            0.2714684009552 0.669346749782562
+            <Tangent> { 0.0661551400744281 -0.997809349245502 0 }
+            <Binormal> { 0.997809349245502 0.0661551400744281 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> {
+          1 0 5 6 7 10 8 4 9 3 2
+          <Ref> { rUparmShape.verts }
+        }
+      }
+    }
+    <Group> lUparm {
+      <VertexPool> lUparmShape.verts {
+        <Vertex> 0 {
+          -0.741085851450368 0.321335575623871 -2.73184799366426e-18
+          <UV> {
+            0.740972340106964 0.649989902973175
+            <Tangent> { 0.930032655712787 -0.367476882684912 0 }
+            <Binormal> { 0.367476882684912 0.930032655712787 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.729960589529021 0.231096330667242 -2.73184799366426e-18
+          <UV> {
+            0.757512390613556 0.587295830249786
+            <Tangent> { 0.971174165673351 0.238371013188833 0 }
+            <Binormal> { -0.238371013188833 0.971174165673351 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.726979278278429 0.206915334873228 -2.73184799366426e-18
+          <UV> {
+            0.761944591999054 0.570495963096619
+            <Tangent> { 0.999999999999986 -1.66205509747767e-07 0 }
+            <Binormal> { 1.66205509747767e-07 0.999999999999986 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.723102521375639 0.397265518287451 -2.73184799366426e-18
+          <UV> {
+            0.767708241939545 0.702742576599121
+            <Tangent> { 0.567439241878761 0.823415269943457 0 }
+            <Binormal> { -0.823415269943457 0.567439241878761 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.691800815707378 0.529425520815137 -2.73184799366426e-18
+          <UV> {
+            0.814243793487549 0.794561266899109
+            <Tangent> { -0.998373362952839 0.0570142801957503 0 }
+            <Binormal> { 0.0570142801957503 0.998373362952839 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.687359364865044 0.548180785968129 -2.73184799366426e-18
+          <UV> {
+            0.820847868919373 0.807591557502747
+            <Tangent> { 0.999999999986444 5.20701732955863e-06 0 }
+            <Binormal> { -5.20701732955863e-06 0.999999999986444 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.591498191154945 0.206915312355525 -2.73184799366426e-18
+          <UV> {
+            0.963365435600281 0.570495963096619
+            <Tangent> { 0.999999999999986 -1.66205509747767e-07 0 }
+            <Binormal> { 1.66205509747767e-07 0.999999999999986 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -0.734487148536662 0.349197044959779 -2.73184799366426e-18
+          <UV> {
+            0.75078272819519 0.669346749782562
+            <Tangent> { -0.441711428588654 0.89715718458594 0 }
+            <Binormal> { 0.89715718458594 0.441711428588654 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -0.695365340973052 0.514377660376987 -2.73184799366426e-18
+          <UV> {
+            0.80894523859024 0.78410667181015
+            <Tangent> { -0.994719380172604 0.102632132926446 0 }
+            <Binormal> { 0.102632132926446 0.994719380172604 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 9 {
+          -0.677842487321893 0.514305288479113 -2.73184799366426e-18
+          <UV> {
+            0.834994792938232 0.78405636548996
+            <Tangent> { -0.998338316303028 -0.0576247013114693 0 }
+            <Binormal> { -0.0576247013114693 0.998338316303028 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> {
+          9 5 4 8 3 7 0 1 2 6
+          <Ref> { lUparmShape.verts }
+        }
+      }
+    }
+    <Group> lLowleg {
+      <VertexPool> lLowlegShape.verts {
+        <Vertex> 0 {
+          -0.909412039991608 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.49072077870369 0.0529856085777283
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.908594799567473 -0.320568323628458 -2.73184799366426e-18
+          <UV> {
+            0.491935849189758 0.204024568200111
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.893115720433945 -0.320568323628458 -2.73184799366426e-18
+          <UV> {
+            0.514948546886444 0.204024568200111
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.809834813125081 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.638762712478638 0.0529856085777283
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.775805605423241 -0.537967605202614 -2.73184799366426e-18
+          <UV> {
+            0.689354062080383 0.0529856085777283
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.772906961055271 -0.320568323628458 -2.73184799366426e-18
+          <UV> {
+            0.693663597106934 0.204024583101273
+            <Tangent> { 0.999999999999976 -2.20595030980996e-07 0 }
+            <Binormal> { 2.20595030980996e-07 0.999999999999976 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.90884439967641 -0.386978119172405 -2.73184777655649e-18
+          <UV> {
+            0.491564691066742 0.157886102795601
+            <Tangent> { 0.926001672650801 0.377519406452065 0 }
+            <Binormal> { -0.377519406452065 0.926001672650801 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -0.870135421432944 -0.320568323628458 -2.73184799366426e-18
+          <UV> {
+            0.549113631248474 0.204024568200111
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> { 6 0 3 4 5 7 2 1 <Ref> { lLowlegShape.verts } }
+      }
+    }
+    <Group> lUpleg {
+      <VertexPool> lUplegShape.verts {
+        <Vertex> 0 {
+          -0.908594799567473 -0.320568323628458 -2.73184799366426e-18
+          <UV> {
+            0.491935849189758 0.204024568200111
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.908080530742685 -0.183766116458012 -2.73184799366426e-18
+          <UV> {
+            0.492700457572937 0.299068450927734
+            <Tangent> { -0.999547313340853 -0.0300860165705494 0 }
+            <Binormal> { -0.0300860165705494 0.999547313340853 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.907538229258108 -0.0394864781254642 -2.73184799366426e-18
+          <UV> {
+            0.493506878614426 0.399307310581207
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.893115720433945 -0.320568323628458 -2.73184799366426e-18
+          <UV> {
+            0.514948546886444 0.204024568200111
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.870135421432944 -0.320568323628458 -2.73184799366426e-18
+          <UV> {
+            0.549113631248474 0.204024568200111
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.826543625274242 -0.0394864781254642 -2.73184799366426e-18
+          <UV> {
+            0.613921642303467 0.399307310581207
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.772906961055271 -0.320568323628458 -2.73184799366426e-18
+          <UV> {
+            0.693663597106934 0.204024583101273
+            <Tangent> { 0.999999999999976 -2.20595030980996e-07 0 }
+            <Binormal> { 2.20595030980996e-07 0.999999999999976 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -0.769159339588269 -0.0394864781254642 -2.73184799366426e-18
+          <UV> {
+            0.699235320091248 0.399307310581207
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> { 3 4 6 7 5 2 1 0 <Ref> { lUplegShape.verts } }
+      }
+    }
+    <Group> face {
+      <VertexPool> faceShape.verts {
+        <Vertex> 0 {
+          -1.03345597028528 0.571912598620021 -2.73184777655649e-18
+          <UV> {
+            0.306303530931473 0.824079155921936
+            <Tangent> { 0.999999999866299 -1.63524257920439e-05 0 }
+            <Binormal> { 1.63524257920439e-05 0.999999999866299 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.980561961095324 0.572446808609179 -2.73184799366426e-18
+          <UV> {
+            0.384941637516022 0.824450373649597
+            <Tangent> { 0.99999543577399 0.00302132937449823 0 }
+            <Binormal> { -0.00302132937449823 0.999995435773989 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.975341656894513 0.825125476391962 -2.73184799366426e-18
+          <UV> {
+            0.392703056335449 1
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.826771422203343 0.825125476391962 -2.73184799366426e-18
+          <UV> {
+            0.613583207130432 1
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.772304216778715 0.574550457471391 -2.73184799366426e-18
+          <UV> {
+            0.694559812545776 0.825911939144135
+            <Tangent> { 0.999844877981263 0.0176130626136509 0 }
+            <Binormal> { 0.0176130626136509 -0.999844877981263 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.771090730920257 0.574562707101896 -2.73184799366426e-18
+          <UV> {
+            0.696363925933838 0.825920462608337
+            <Tangent> { 0.999999999881977 -1.53637786454994e-05 0 }
+            <Binormal> { 1.53637786454994e-05 0.999999999881977 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -1.02904221537409 0.57195713863682 -2.73184777655649e-18
+          <UV> {
+            0.312865793704987 0.824110150337219
+            <Tangent> { 0.999697714328234 0.0245861743039494 0 }
+            <Binormal> { 0.0245861743039494 -0.999697714328234 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -0.905234584407833 0.573207681798086 -2.73184799366426e-18
+          <UV> {
+            0.496931314468384 0.824979066848755
+            <Tangent> { 0.999904970806936 0.0137858389509201 0 }
+            <Binormal> { 0.0137858389509201 -0.999904970806936 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -0.805803666138045 0.574212061428689 -2.73184799366426e-18
+          <UV> {
+            0.644755899906158 0.82567685842514
+            <Tangent> { 0.999893090729772 0.0146221445371015 0 }
+            <Binormal> { 0.0146221445371015 -0.999893090729772 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> { 2 0 6 1 7 8 4 5 3 <Ref> { faceShape.verts } }
+      }
+    }
+    <Group> rLowarm {
+      <VertexPool> rLowarmShape.verts {
+        <Vertex> 0 {
+          -1.2330949765401 -0.00215031365369904 -2.73184799366426e-18
+          <UV> {
+            0.00949977803975344 0.425246804952621
+            <Tangent> { 0.999999999999946 3.27512035351659e-07 0 }
+            <Binormal> { -3.27512035351659e-07 0.999999999999946 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.20633489848639 0.204283690907922 -2.73184799366426e-18
+          <UV> {
+            0.0492832884192467 0.568667590618134
+            <Tangent> { 0.999999999999974 -2.2966427927249e-07 0 }
+            <Binormal> { 2.2966427927249e-07 0.999999999999974 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -1.09948155485232 -0.00174661627190738 -2.73184777655649e-18
+          <UV> {
+            0.208143532276154 0.42552724480629
+            <Tangent> { 0.999999999999946 3.2802620947691e-07 0 }
+            <Binormal> { -3.2802620947691e-07 0.999999999999946 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -1.08543491937939 0.171497160801332 -2.73184799366426e-18
+          <UV> {
+            0.229026973247528 0.545889019966125
+            <Tangent> { 0.999999999920064 1.26440733947553e-05 0 }
+            <Binormal> { -1.26440733947553e-05 0.999999999920064 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -1.08543491937939 0.203932257115106 -2.73184799366426e-18
+          <UV> {
+            0.229026973247528 0.568423449993134
+            <Tangent> { 0.999999999999973 -2.33271381961219e-07 0 }
+            <Binormal> { 2.33271381961219e-07 0.999999999999973 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> { 1 0 2 3 4 <Ref> { rLowarmShape.verts } }
+      }
+    }
+    <Group> lLowarm {
+      <VertexPool> lLowarmShape.verts {
+        <Vertex> 0 {
+          -0.721491358986113 0.202874285351044 -2.73184821077204e-18
+          <UV> {
+            0.770103514194489 0.567688465118408
+            <Tangent> { 0.999999999999993 -1.15129818939431e-07 0 }
+            <Binormal> { 1.15129818939431e-07 0.999999999999993 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.700239067214843 -0.000540444244667238 -2.73184799366426e-18
+          <UV> {
+            0.801699280738831 0.426365256309509
+            <Tangent> { 0.999999967713728 -0.000254111280554521 0 }
+            <Binormal> { 0.000254111280554521 0.999999967713728 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.59589241580466 0.202509138277018 -2.73184799366426e-18
+          <UV> {
+            0.956832408905029 0.567434787750244
+            <Tangent> { 0.999999999999994 -1.14897990830342e-07 0 }
+            <Binormal> { 1.14897990830342e-07 0.999999999999994 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.571106830349644 -0.000150291261310856 -2.73184799366426e-18
+          <UV> {
+            0.993681490421295 0.426636338233948
+            <Tangent> { 0.999997886591155 0.00205592150234445 0 }
+            <Binormal> { -0.00205592150234445 0.999997886591155 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { pasted__pasted__lambert4SG }
+        <VertexRef> { 0 1 3 2 <Ref> { lLowarmShape.verts } }
+      }
+    }
+    <Group> transform1 {
+    }
+  }
+  <Group> robot_hole {
+    <Group> waist {
+      <VertexPool> waistShape.verts.vpool1 {
+        <Vertex> 0 {
+          -1.07309684505688 0.105291882296102 0
+          <UV> {
+            0.247369974851608 0.499892711639404
+            <Tangent> { 0.999999999999836 5.72139715245047e-07 0 }
+            <Binormal> { -5.72139715245047e-07 0.999999999999836 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.06926285269215 0.232769576151745 0
+          <UV> {
+            0.253069758415222 0.588458359241486
+            <Tangent> { 0.999999999999688 7.90284117486454e-07 0 }
+            <Binormal> { -7.90284117486454e-07 0.999999999999688 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.981646564064479 0.105849499437668 0
+          <UV> {
+            0.383329629898071 0.5002800822258
+            <Tangent> { 0.999980648865052 0.00622108474702521 0 }
+            <Binormal> { 0.00622108474702521 -0.999980648865052 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.79728510484848 0.10697363947239 0
+          <UV> {
+            0.657420754432678 0.501061081886292
+            <Tangent> { 0.999983126513516 0.0058091899825211 0 }
+            <Binormal> { -0.0058091899825211 0.999983126513516 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.764841973252031 0.234509136271979 0
+          <UV> {
+            0.705654323101044 0.589666903018951
+            <Tangent> { 0.999938585949715 -0.0110826138110236 0 }
+            <Binormal> { 0.0110826138110236 0.999938585949715 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.727907554973622 0.107396668302323 0
+          <UV> {
+            0.760564684867859 0.501354992389679
+            <Tangent> { 0.999999999999981 -1.96550777788734e-07 0 }
+            <Binormal> { 1.96550777788734e-07 0.999999999999981 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.727757121450968 0.234721027858472 0
+          <UV> {
+            0.760788440704346 0.589814126491547
+            <Tangent> { 0.897634141322911 -0.440741362174553 0 }
+            <Binormal> { 0.440741362174553 0.897634141322911 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -0.727046624007653 0.228800042854716 0
+          <UV> {
+            0.7618448138237 0.585700511932373
+            <Tangent> { 0.999999999567231 -2.94200368040253e-05 0 }
+            <Binormal> { 2.94200368040253e-05 0.999999999567231 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -1.01933702233559 0.233054875450456 0
+          <UV> {
+            0.32729497551918 0.588656544685364
+            <Tangent> { 0.999974462724898 0.00714660045417164 0 }
+            <Binormal> { 0.00714660045417164 -0.999974462724898 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> { 4 8 1 0 2 3 5 7 6 <Ref> { waistShape.verts.vpool1 } }
+      }
+    }
+    <Group> chest {
+      <VertexPool> chestShape.verts.vpool2 {
+        <Vertex> 0 {
+          -1.07037961324701 0.232763203641758 0
+          <UV> {
+            0.251409649848938 0.588453888893127
+            <Tangent> { 0.0653060362660949 0.997865282303785 0 }
+            <Binormal> { 0.997865282303785 -0.0653060362660949 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.05594523473807 0.348238015983289 0
+          <UV> {
+            0.272869229316711 0.668680548667908
+            <Tangent> { -0.998201919696903 0.0599410336365428 0 }
+            <Binormal> { 0.0599410336365428 0.998201919696903 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -1.05347465666148 0.348269518249974 0
+          <UV> {
+            0.27654230594635 0.66870242357254
+            <Tangent> { 0.999976967868575 -0.0067870267696241 0 }
+            <Binormal> { 0.0067870267696241 0.999976967868575 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -1.01933702233559 0.233054875450456 0
+          <UV> {
+            0.32729497551918 0.588656544685364
+            <Tangent> { 0.999974462724898 0.00714660045417164 0 }
+            <Binormal> { 0.00714660045417164 -0.999974462724898 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.741859232968346 0.352239164135519 0
+          <UV> {
+            0.739822387695312 0.671460270881653
+            <Tangent> { 0.999928289283563 0.0119756540718302 0 }
+            <Binormal> { -0.0119756540718302 0.999928289283562 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.739626301133758 0.333631570079681 0
+          <UV> {
+            0.743142127990723 0.658532559871674
+            <Tangent> { 0.794790898465606 0.606883372417003 0 }
+            <Binormal> { -0.606883372417003 0.794790898465606 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.727757121450968 0.234721027858472 0
+          <UV> {
+            0.760788440704346 0.589814126491547
+            <Tangent> { 0.897634141322911 -0.440741362174553 0 }
+            <Binormal> { 0.440741362174553 0.897634141322911 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -1.06926285269215 0.232769576151745 0
+          <UV> {
+            0.253069758415222 0.588458359241486
+            <Tangent> { 0.999977608275661 0.00669200622296819 0 }
+            <Binormal> { 0.00669200622296819 -0.999977608275661 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -0.904000642284124 0.35017368278012 0
+          <UV> {
+            0.498765975236893 0.670025289058685
+            <Tangent> { 0.99743580990694 0.0715667877949509 0 }
+            <Binormal> { 0.0715667877949509 -0.99743580990694 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 9 {
+          -0.764841973252031 0.234509136271979 0
+          <UV> {
+            0.705654323101044 0.589666903018951
+            <Tangent> { 0.999938585949715 -0.0110826138110236 0 }
+            <Binormal> { 0.0110826138110236 0.999938585949715 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> {
+          5 4 8 2 1 0 7 3 9 6
+          <Ref> { chestShape.verts.vpool2 }
+        }
+      }
+    }
+    <Group> lUpleg {
+      <VertexPool> lUplegShape.verts.vpool3 {
+        <Vertex> 0 {
+          -0.910202763034862 -0.31654922886683 0
+          <UV> {
+            0.489545404911041 0.206816852092743
+            <Tangent> { 0.999999999999997 -7.57816451322727e-08 0 }
+            <Binormal> { 7.57816451322727e-08 0.999999999999997 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.907629230174722 -0.0398941836584138 0
+          <UV> {
+            0.493371367454529 0.399024069309235
+            <Tangent> { 1 4.13796033501012e-09 0 }
+            <Binormal> { -4.13796033501012e-09 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.768690024037738 -0.31654922886683 0
+          <UV> {
+            0.69993269443512 0.206816866993904
+            <Tangent> { 0.999999999999989 -1.51563099090777e-07 0 }
+            <Binormal> { 1.51563099090777e-07 0.999999999999989 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.763369963975514 -0.0398941836584138 0
+          <UV> {
+            0.707842171192169 0.399024099111557
+            <Tangent> { 0.999999999999956 -2.97355011324924e-07 0 }
+            <Binormal> { 2.97355011324924e-07 0.999999999999956 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> { 1 0 2 3 <Ref> { lUplegShape.verts.vpool3 } }
+      }
+    }
+    <Group> rUpleg {
+      <VertexPool> rUplegShape.verts.vpool4 {
+        <Vertex> 0 {
+          -1.05301300168765 -0.039894206176117 0
+          <UV> {
+            0.277228593826294 0.399024069309235
+            <Tangent> { 0.999999999999988 1.54884571306649e-07 0 }
+            <Binormal> { -1.54884571306649e-07 0.999999999999988 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.04736690411382 -0.31654922886683 0
+          <UV> {
+            0.28562268614769 0.206816852092743
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.910202763034862 -0.31654922886683 0
+          <UV> {
+            0.489545404911041 0.206816852092743
+            <Tangent> { 0.999999999999997 -7.57816451322727e-08 0 }
+            <Binormal> { 7.57816451322727e-08 0.999999999999997 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.907629230174722 -0.0398941836584138 0
+          <UV> {
+            0.493371367454529 0.399024069309235
+            <Tangent> { 1 4.13796033501012e-09 0 }
+            <Binormal> { -4.13796033501012e-09 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -1.05114441024816 -0.131449115491476 0
+          <UV> {
+            0.280006498098373 0.335415929555893
+            <Tangent> { 0.987797489739938 -0.155743761555565 0 }
+            <Binormal> { 0.155743761555565 0.987797489739938 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> { 0 4 1 2 3 <Ref> { rUplegShape.verts.vpool4 } }
+      }
+    }
+    <Group> lShoe {
+      <VertexPool> lShoeShape.verts.vpool5 {
+        <Vertex> 0 {
+          -0.912971935238398 -0.614232813948161 0
+          <UV> {
+            0.485428661108017 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.912251420117861 -0.536782633592875 0
+          <UV> {
+            0.486499726772308 0.0538088083267212
+            <Tangent> { 1 -2.62746201350901e-08 0 }
+            <Binormal> { 2.62746201350901e-08 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.774415000296923 -0.614232813948161 0
+          <UV> {
+            0.69142210483551 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.772912096167124 -0.536089403584182 0
+          <UV> {
+            0.693656146526337 0.054290447384119
+            <Tangent> { 0.999999296027169 -0.00118656865217786 0 }
+            <Binormal> { 0.00118656865217786 0.999999296027169 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.702610394522987 -0.5357396586191 0
+          <UV> {
+            0.798172831535339 0.0545334443449974
+            <Tangent> { 0.999999999999978 -2.08808403154038e-07 0 }
+            <Binormal> { 2.08808403154038e-07 0.999999999999978 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.701071123699407 -0.614232813948161 0
+          <UV> {
+            0.800461232662201 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> { 3 1 0 2 5 4 <Ref> { lShoeShape.verts.vpool5 } }
+      }
+    }
+    <Group> rShoe {
+      <VertexPool> rShoeShape.verts.vpool6 {
+        <Vertex> 0 {
+          -1.11715021200725 -0.614232813948161 0
+          <UV> {
+            0.181875661015511 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.11715021200725 -0.537802010013764 0
+          <UV> {
+            0.181875362992287 0.0531005784869194
+            <Tangent> { 0.999999999999084 -1.35334422959762e-06 0 }
+            <Binormal> { 1.35334422959762e-06 0.999999999999084 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -1.09950209529974 -0.537714236006947 0
+          <UV> {
+            0.208112776279449 0.0531615763902664
+            <Tangent> { -0.987965075917883 0.154677111320881 0 }
+            <Binormal> { 0.154677111320881 0.987965075917883 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -1.04129181424483 -0.614232813948161 0
+          <UV> {
+            0.294654816389084 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.912971935238398 -0.614232813948161 0
+          <UV> {
+            0.485428661108017 0
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.912251420117861 -0.536782633592875 0
+          <UV> {
+            0.486499726772308 0.0538088083267212
+            <Tangent> { 1 -2.62746201350901e-08 0 }
+            <Binormal> { 2.62746201350901e-08 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -1.0428591177282 -0.537432449469924 0
+          <UV> {
+            0.29232457280159 0.0533573552966118
+            <Tangent> { 0.999988207337608 -0.00485645814531864 0 }
+            <Binormal> { 0.00485645814531864 0.999988207337608 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> { 6 2 1 0 3 4 5 <Ref> { rShoeShape.verts.vpool6 } }
+      }
+    }
+    <Group> rHand {
+      <VertexPool> rHandShape.verts.vpool7 {
+        <Vertex> 0 {
+          -1.23948482351105 -0.039894206176117 0
+          <UV> {
+            0 0.399024069309235
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.23948482351105 -0.00212952981370609 0
+          <UV> {
+            0 0.425261259078979
+            <Tangent> { 0.999999999999942 -3.41168596905951e-07 0 }
+            <Binormal> { 3.41168596905951e-07 0.999999999999942 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -1.23948423423592 -0.13144907045607 0
+          <UV> {
+            0 0.335415959358215
+            <Tangent> { 0.999999999999957 2.92523183186619e-07 0 }
+            <Binormal> { -2.92523183186619e-07 0.999999999999957 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -1.2323667166607 -0.00208826612271248 0
+          <UV> {
+            0.0105824610218406 0.425289928913116
+            <Tangent> { 0.999995136951557 0.00311866529737596 0 }
+            <Binormal> { -0.00311866529737596 0.999995136951557 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -1.09284210777244 -0.13144907045607 0
+          <UV> {
+            0.218014344573021 0.335415929555893
+            <Tangent> { 0.999999999999957 2.92523044727252e-07 0 }
+            <Binormal> { -2.92523044727252e-07 0.999999999999957 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -1.09134105565019 -0.039894206176117 0
+          <UV> {
+            0.220245867967606 0.399024069309235
+            <Tangent> { -0.110199200251767 -0.99390952116572 0 }
+            <Binormal> { -0.99390952116572 0.110199200251767 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -1.090707753249 -0.00126705674825627 0
+          <UV> {
+            0.221187323331833 0.425860404968262
+            <Tangent> { 0.999999999999803 6.2784466036078e-07 0 }
+            <Binormal> { -6.2784466036078e-07 0.999999999999803 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> { 0 2 4 5 6 3 1 <Ref> { rHandShape.verts.vpool7 } }
+      }
+    }
+    <Group> lHand {
+      <VertexPool> lHandShape.verts.vpool8 {
+        <Vertex> 0 {
+          -0.711123147243406 -0.101585011709616 0
+          <UV> {
+            0.785516142845154 0.356164157390594
+            <Tangent> { 0.999999999000557 -4.470889632951e-05 0 }
+            <Binormal> { 4.470889632951e-05 0.999999999000557 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.711123147243406 -0.0398941836584138 0
+          <UV> {
+            0.785516142845154 0.399024128913879
+            <Tangent> { 0 1 0 }
+            <Binormal> { -1 0 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.711123147243406 0.000933440755136545 0
+          <UV> {
+            0.785516321659088 0.42738926410675
+            <Tangent> { 0.99999999999822 -1.88672930274632e-06 0 }
+            <Binormal> { 1.88672930274632e-06 0.99999999999822 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.710538417949418 -0.131449115491476 0
+          <UV> {
+            0.786386787891388 0.335415959358215
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.696771730254656 0.00101663240936621 0
+          <UV> {
+            0.806852579116821 0.427447080612183
+            <Tangent> { 0.999994335090735 0.00336597481249857 0 }
+            <Binormal> { -0.00336597481249857 0.999994335090735 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.566856851833711 -0.131449115491476 0
+          <UV> {
+            1 0.335415959358215
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.566856851833711 -0.0398941836584138 0
+          <UV> {
+            1 0.399024099111557
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -0.566856851833711 0.00176977076724744 0
+          <UV> {
+            1 0.427970290184021
+            <Tangent> { 0.999999999999529 9.70095106351504e-07 0 }
+            <Binormal> { -9.70095106351504e-07 0.999999999999529 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -0.570333743469231 0.00174960616409068 0
+          <UV> {
+            0.994829952716827 0.427956283092499
+            <Tangent> { 0.999998442051882 -0.00176518945410383 0 }
+            <Binormal> { 0.00176518945410383 0.999998442051882 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> { 1 0 3 5 6 7 8 4 2 <Ref> { lHandShape.verts.vpool8 } }
+      }
+    }
+    <Group> rUparm {
+      <VertexPool> rUparmShape.verts.vpool9 {
+        <Vertex> 0 {
+          -1.20975261006236 0.204915717799496 0
+          <UV> {
+            0.0442029684782028 0.569106757640839
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.20445620518752 0.204915717799496 0
+          <UV> {
+            0.0520771816372871 0.569106757640839
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -1.11626234274959 0.560178533445926 0
+          <UV> {
+            0.183195203542709 0.815927028656006
+            <Tangent> { 0.999999999993153 3.70048169789084e-06 0 }
+            <Binormal> { -3.70048169789084e-06 0.999999999993153 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -1.07386054562628 0.204915717799496 0
+          <UV> {
+            0.246234536170959 0.569106757640839
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -1.07037961324701 0.232763203641758 0
+          <UV> {
+            0.251409649848938 0.588453888893127
+            <Tangent> { 0.0653060362660949 0.997865282303785 0 }
+            <Binormal> { 0.997865282303785 -0.0653060362660949 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -1.05594523473807 0.348238015983289 0
+          <UV> {
+            0.272869229316711 0.668680548667908
+            <Tangent> { -0.998201919696903 0.0599410336365428 0 }
+            <Binormal> { 0.0599410336365428 0.998201919696903 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -1.05520931428197 0.354124481348141 0
+          <UV> {
+            0.273963153362274 0.672770202159882
+            <Tangent> { 0.999999999978541 -6.55123363568581e-06 0 }
+            <Binormal> { 6.55123363568581e-06 0.999999999978541 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -1.20262305443804 0.232007487006868 0
+          <UV> {
+            0.0548023283481598 0.587928891181946
+            <Tangent> { 0.988266291083836 -0.15274075391787 0 }
+            <Binormal> { 0.15274075391787 0.988266291083836 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -1.17242666055067 0.346754189417552 0
+          <UV> {
+            0.0996956080198288 0.667649626731873
+            <Tangent> { -0.988167362177219 -0.153379478183092 0 }
+            <Binormal> { -0.153379478183092 0.988167362177219 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 9 {
+          -1.10693049759749 0.528684102921737 0
+          <UV> {
+            0.197068676352501 0.794046103954315
+            <Tangent> { -0.891590478453451 -0.452842598185226 0 }
+            <Binormal> { -0.452842598185226 0.891590478453451 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> {
+          0 1 3 4 5 6 9 2 8 7
+          <Ref> { rUparmShape.verts.vpool9 }
+        }
+      }
+    }
+    <Group> lUparm {
+      <VertexPool> lUparmShape.verts.vpool10 {
+        <Vertex> 0 {
+          -0.739626301133758 0.333631570079681 0
+          <UV> {
+            0.743142127990723 0.658532559871674
+            <Tangent> { 0.794790898465606 0.606883372417003 0 }
+            <Binormal> { -0.606883372417003 0.794790898465606 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.734870261553785 0.352328176616009 0
+          <UV> {
+            0.750213146209717 0.67152214050293
+            <Tangent> { 0.939690029182578 0.342027263613365 0 }
+            <Binormal> { -0.342027263613364 0.939690029182578 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.727757121450968 0.234721027858472 0
+          <UV> {
+            0.760788440704346 0.589814126491547
+            <Tangent> { 0.897634141322911 -0.440741362174553 0 }
+            <Binormal> { 0.440741362174553 0.897634141322911 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.724180473954034 0.204915717799496 0
+          <UV> {
+            0.766105830669403 0.569106757640839
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.721315249904192 0.204915717799496 0
+          <UV> {
+            0.770365536212921 0.569106757640839
+            <Tangent> { 0.999999999999941 -3.42831322322118e-07 0 }
+            <Binormal> { 3.42831322322118e-07 0.999999999999941 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.683113258728542 0.555786410414176 0
+          <UV> {
+            0.8271604180336 0.81287556886673
+            <Tangent> { 0.999999999996921 -2.48145442787828e-06 0 }
+            <Binormal> { 2.48145442787828e-06 0.999999999996921 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.63070885299005 0.353655099826307 0
+          <UV> {
+            0.905070662498474 0.672443985939026
+            <Tangent> { -0.996503075765657 0.0835560888839723 0 }
+            <Binormal> { 0.0835560888839723 0.996503075765657 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -0.600061747809847 0.235450691510836 0
+          <UV> {
+            0.950631737709045 0.590321063995361
+            <Tangent> { -0.652957560232171 -0.757394497296918 0 }
+            <Binormal> { -0.757394497296918 0.652957560232171 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -0.592144836428739 0.204915717799496 0
+          <UV> {
+            0.962401211261749 0.569106757640839
+            <Tangent> { 0.9999999997753 2.11990479090263e-05 0 }
+            <Binormal> { -2.11990479090263e-05 0.9999999997753 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 9 {
+          -0.727046624007653 0.228800042854716 0
+          <UV> {
+            0.7618448138237 0.585700511932373
+            <Tangent> { -0.668840980892201 -0.743405503261281 0 }
+            <Binormal> { -0.743405503261281 0.668840980892201 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 10 {
+          -0.690433150220078 0.527010812401827 0
+          <UV> {
+            0.81627756357193 0.792883574962616
+            <Tangent> { 0.982996950066216 0.183621883664551 0 }
+            <Binormal> { -0.183621883664551 0.982996950066216 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 11 {
+          -0.596191851753223 0.204915717799496 0
+          <UV> {
+            0.956385552883148 0.569106817245483
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> {
+          3 4 11 8 7 6 5 10 1 0 2 9
+          <Ref> { lUparmShape.verts.vpool10 }
+        }
+      }
+    }
+    <Group> hip {
+      <VertexPool> hipShape.verts.vpool11 {
+        <Vertex> 0 {
+          -1.07746320541113 -0.039894206176117 0
+          <UV> {
+            0.240878045558929 0.399024069309235
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.07629905029933 -0.00118352732847961 0
+          <UV> {
+            0.242608800530434 0.425918430089951
+            <Tangent> { 0.492918185243449 -0.870075664902947 0 }
+            <Binormal> { 0.870075664902947 0.492918185243449 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -1.07309684505688 0.105291882296102 0
+          <UV> {
+            0.247369974851608 0.499892711639404
+            <Tangent> { 0.999999999999836 5.72139715245047e-07 0 }
+            <Binormal> { -5.72139715245047e-07 0.999999999999836 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -1.05301300168765 -0.039894206176117 0
+          <UV> {
+            0.277228593826294 0.399024069309235
+            <Tangent> { 0.999999999999988 1.54884571306649e-07 0 }
+            <Binormal> { -1.54884571306649e-07 0.999999999999988 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.907629230174722 -0.0398941836584138 0
+          <UV> {
+            0.493371367454529 0.399024069309235
+            <Tangent> { 1 4.13796033501012e-09 0 }
+            <Binormal> { -4.13796033501012e-09 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.728952087233889 -0.0398941836584138 0
+          <UV> {
+            0.759011030197144 0.399024099111557
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.727907554973622 0.107396668302323 0
+          <UV> {
+            0.760564684867859 0.501354992389679
+            <Tangent> { 0.999999999999981 -1.96550777788734e-07 0 }
+            <Binormal> { 1.96550777788734e-07 0.999999999999981 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 7 {
+          -0.981646564064479 0.105849499437668 0
+          <UV> {
+            0.383329629898071 0.5002800822258
+            <Tangent> { 0.999980648865052 0.00622108474702521 0 }
+            <Binormal> { 0.00622108474702521 -0.999980648865052 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 8 {
+          -0.79728510484848 0.10697363947239 0
+          <UV> {
+            0.657420754432678 0.501061081886292
+            <Tangent> { 0.999983126513516 0.0058091899825211 0 }
+            <Binormal> { -0.0058091899825211 0.999983126513516 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 9 {
+          -0.763369963975514 -0.0398941836584138 0
+          <UV> {
+            0.707842171192169 0.399024099111557
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 10 {
+          -0.72866334241984 0.000831762066633623 0
+          <UV> {
+            0.759440124034882 0.427318602800369
+            <Tangent> { 0.992697203154899 -0.120632760262047 0 }
+            <Binormal> { 0.120632760262047 0.992697203154899 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> {
+          10 6 8 7 2 1 0 3 4 9 5
+          <Ref> { hipShape.verts.vpool11 }
+        }
+      }
+    }
+    <Group> rLowarm {
+      <VertexPool> rLowarmShape.verts.vpool12 {
+        <Vertex> 0 {
+          -1.2323667166607 -0.00208826612271248 0
+          <UV> {
+            0.0105824610218406 0.425289928913116
+            <Tangent> { 0.999995136951557 0.00311866529737596 0 }
+            <Binormal> { -0.00311866529737596 0.999995136951557 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.20445620518752 0.204915717799496 0
+          <UV> {
+            0.0520771816372871 0.569106757640839
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -1.10250041134696 -0.00133542049497199 0
+          <UV> {
+            0.203655168414116 0.425812929868698
+            <Tangent> { 0.999999999999893 4.61891766104466e-07 0 }
+            <Binormal> { -4.61891766104466e-07 0.999999999999893 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -1.07741572667203 0.204915717799496 0
+          <UV> {
+            0.2409488260746 0.569106757640839
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> { 1 0 2 3 <Ref> { rLowarmShape.verts.vpool12 } }
+      }
+    }
+    <Group> lLowarm {
+      <VertexPool> lLowarmShape.verts.vpool13 {
+        <Vertex> 0 {
+          -0.721315249904192 0.204915717799496 0
+          <UV> {
+            0.770365536212921 0.569106757640839
+            <Tangent> { 0.999999999999941 -3.42831322322118e-07 0 }
+            <Binormal> { 3.42831322322118e-07 0.999999999999941 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.696771730254656 0.00101663240936621 0
+          <UV> {
+            0.806852579116821 0.427447080612183
+            <Tangent> { 0.999994335090735 0.00336597481249857 0 }
+            <Binormal> { -0.00336597481249857 0.999994335090735 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.596191851753223 0.204915717799496 0
+          <UV> {
+            0.956385552883148 0.569106817245483
+            <Tangent> { 0.999999999999765 -6.85662311350649e-07 0 }
+            <Binormal> { 6.85662311350649e-07 0.999999999999765 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.570333743469231 0.00174960616409068 0
+          <UV> {
+            0.994829952716827 0.427956283092499
+            <Tangent> { 0.999999999999924 3.8908485492569e-07 0 }
+            <Binormal> { -3.8908485492569e-07 0.999999999999924 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> { 3 2 0 1 <Ref> { lLowarmShape.verts.vpool13 } }
+      }
+    }
+    <Group> rShoulder {
+      <VertexPool> rShoulderShape.verts.vpool14 {
+        <Vertex> 0 {
+          -1.10693049759749 0.528684102921737 0
+          <UV> {
+            0.197068676352501 0.794046103954315
+            <Tangent> { 0.999999999998894 -1.48758971358048e-06 0 }
+            <Binormal> { 1.48758971358048e-06 0.999999999998894 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.05347465666148 0.348269518249974 0
+          <UV> {
+            0.27654230594635 0.66870242357254
+            <Tangent> { 0.999976967868575 -0.0067870267696241 0 }
+            <Binormal> { 0.0067870267696241 0.999976967868575 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.9899789985949 0.573125717358678 0
+          <UV> {
+            0.370941162109375 0.824922204017639
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.904000642284124 0.35017368278012 0
+          <UV> {
+            0.498765975236893 0.670025289058685
+            <Tangent> { 0.999999999999926 3.86069653748657e-07 0 }
+            <Binormal> { -3.86069653748657e-07 0.999999999999926 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.901926646370504 0.573125717358678 0
+          <UV> {
+            0.501849114894867 0.824922204017639
+            <Tangent> { 0.999999999999659 8.25785549778186e-07 0 }
+            <Binormal> { -8.25785549778186e-07 0.999999999999659 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -1.05520931428197 0.354124481348141 0
+          <UV> {
+            0.273963153362274 0.672770202159882
+            <Tangent> { 0.977014565188173 -0.213172557826201 0 }
+            <Binormal> { 0.213172557826201 0.977014565188173 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> { 2 0 5 1 3 4 <Ref> { rShoulderShape.verts.vpool14 } }
+      }
+    }
+    <Group> lShoulder {
+      <VertexPool> lShoulderShape.verts.vpool15 {
+        <Vertex> 0 {
+          -0.904000642284124 0.35017368278012 0
+          <UV> {
+            0.498765975236893 0.670025289058685
+            <Tangent> { 0.999999999999926 3.86069653748657e-07 0 }
+            <Binormal> { -3.86069653748657e-07 0.999999999999926 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.901926646370504 0.573125717358678 0
+          <UV> {
+            0.501849114894867 0.824922204017639
+            <Tangent> { 0.999999999999659 8.25785549778186e-07 0 }
+            <Binormal> { -8.25785549778186e-07 0.999999999999659 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.798034662814745 0.573125717358678 0
+          <UV> {
+            0.656305551528931 0.82492208480835
+            <Tangent> { 0.999999999999659 8.25793447804308e-07 0 }
+            <Binormal> { -8.25793447804308e-07 0.999999999999659 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.741859232968346 0.352239164135519 0
+          <UV> {
+            0.739822387695312 0.671460270881653
+            <Tangent> { 0.999928289283563 0.0119756540718302 0 }
+            <Binormal> { -0.0119756540718302 0.999928289283562 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.734870261553785 0.352328176616009 0
+          <UV> {
+            0.750213146209717 0.67152214050293
+            <Tangent> { 0.939690029182578 0.342027263613365 0 }
+            <Binormal> { -0.342027263613364 0.939690029182578 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.690433150220078 0.527010812401827 0
+          <UV> {
+            0.81627756357193 0.792883574962616
+            <Tangent> { 1 2.28531051221294e-08 0 }
+            <Binormal> { -2.28531051221294e-08 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> { 5 2 1 0 3 4 <Ref> { lShoulderShape.verts.vpool15 } }
+      }
+    }
+    <Group> face {
+      <VertexPool> faceShape.verts.vpool16 {
+        <Vertex> 0 {
+          -1.02736404398398 0.573125627287865 0
+          <UV> {
+            0.315360248088837 0.824922204017639
+            <Tangent> { 0.999999999997098 2.40927385636364e-06 0 }
+            <Binormal> { -2.40927385636364e-06 0.999999999997098 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.9899789985949 0.573125717358678 0
+          <UV> {
+            0.370941162109375 0.824922204017639
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.971364386490856 0.825125476391962 0
+          <UV> {
+            0.398615956306458 1
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.823631932671235 0.825125476391962 0
+          <UV> {
+            0.618250608444214 1
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 4 {
+          -0.798034662814745 0.573125717358678 0
+          <UV> {
+            0.656305551528931 0.82492208480835
+            <Tangent> { 0.999999999999659 8.25793447804308e-07 0 }
+            <Binormal> { -8.25793447804308e-07 0.999999999999659 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 5 {
+          -0.772747520041333 0.573125717358678 0
+          <UV> {
+            0.693900465965271 0.82492208480835
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 6 {
+          -0.901926646370504 0.573125717358678 0
+          <UV> {
+            0.501849114894867 0.824922204017639
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> { 2 0 1 6 4 5 3 <Ref> { faceShape.verts.vpool16 } }
+      }
+    }
+    <Group> lLowleg {
+      <VertexPool> lLowlegShape.verts.vpool17 {
+        <Vertex> 0 {
+          -0.912251420117861 -0.536782633592875 0
+          <UV> {
+            0.486499726772308 0.0538088083267212
+            <Tangent> { 1 -2.62746201350901e-08 0 }
+            <Binormal> { 2.62746201350901e-08 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -0.910202763034862 -0.31654922886683 0
+          <UV> {
+            0.489545404911041 0.206816852092743
+            <Tangent> { 0.999999999999997 -7.57816451322727e-08 0 }
+            <Binormal> { 7.57816451322727e-08 0.999999999999997 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.772912096167124 -0.536089403584182 0
+          <UV> {
+            0.693656146526337 0.054290447384119
+            <Tangent> { 0.999999296027169 -0.00118656865217786 0 }
+            <Binormal> { 0.00118656865217786 0.999999296027169 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.768690024037738 -0.31654922886683 0
+          <UV> {
+            0.69993269443512 0.206816866993904
+            <Tangent> { 0.999999999999989 -1.51563099090777e-07 0 }
+            <Binormal> { 1.51563099090777e-07 0.999999999999989 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> { 3 1 0 2 <Ref> { lLowlegShape.verts.vpool17 } }
+      }
+    }
+    <Group> rLowleg {
+      <VertexPool> rLowlegShape.verts.vpool18 {
+        <Vertex> 0 {
+          -1.04736690411382 -0.31654922886683 0
+          <UV> {
+            0.28562268614769 0.206816852092743
+            <Tangent> { 1 0 0 }
+            <Binormal> { 0 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 1 {
+          -1.0428591177282 -0.537432449469924 0
+          <UV> {
+            0.29232457280159 0.0533573552966118
+            <Tangent> { 0.999999999999995 1.00686349747303e-07 0 }
+            <Binormal> { -1.00686349747303e-07 0.999999999999995 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 2 {
+          -0.912251420117861 -0.536782633592875 0
+          <UV> {
+            0.486499726772308 0.0538088083267212
+            <Tangent> { 1 -2.62746201350901e-08 0 }
+            <Binormal> { 2.62746201350901e-08 1 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+        <Vertex> 3 {
+          -0.910202763034862 -0.31654922886683 0
+          <UV> {
+            0.489545404911041 0.206816852092743
+            <Tangent> { 0.999999999999997 -7.57816451322727e-08 0 }
+            <Binormal> { 7.57816451322727e-08 0.999999999999997 0 }
+          }
+          <Normal> { 0 0 1 }
+          <RGBA> { 1 1 1 1 }
+        }
+      }
+      <Polygon> {
+        <TRef> { robot_hole1SG }
+        <VertexRef> { 3 0 1 2 <Ref> { rLowlegShape.verts.vpool18 } }
+      }
+    }
+    <Group> transform2 {
+    }
+  }
+  <Group> pipe_frame {
+    <VertexPool> pipe_frameShape.verts {
+      <Vertex> 0 {
+        -1.84568888202013 -1.44380496847868 0.0119657703663593
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        -1.84568888202013 1.53549744999138 0.0119657703663593
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        1.43307271521299 -1.44380496847868 0.0119657703663593
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        1.43307271521299 1.53549744999138 0.0119657703663593
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { lambert3SG }
+      <VertexRef> { 0 2 3 1 <Ref> { pipe_frameShape.verts } }
+    }
+  }
+  <Group> base {
+    <VertexPool> baseShape.verts {
+      <Vertex> 0 {
+        -1.73571751354524 -1.27728942939099 -0.00769268208738353
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        -1.73571751354524 1.03888897745798 -0.00769268208738353
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        1.32352454280661 -1.27728942939099 -0.00769268208738353
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        1.32352454280661 1.03888897745798 -0.00769268208738353
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { lambert6SG }
+      <VertexRef> { 0 2 3 1 <Ref> { baseShape.verts } }
+    }
+  }
+  <Group> page1 {
+    <VertexPool> page1Shape.verts {
+      <Vertex> 0 {
+        1.13544702987911 -1.36626614112365 -0.0179486555495389
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        1.13544702987911 1.11383295736386 -0.0179486555495389
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        1.77898771276782 -1.36626614112365 -0.0179486555495389
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        1.77898771276782 1.11383295736386 -0.0179486555495389
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { lambert5SG }
+      <VertexRef> { 0 2 3 1 <Ref> { page1Shape.verts } }
+    }
+  }
+  <Group> tab1 {
+    <VertexPool> tabShape1.verts {
+      <Vertex> 0 {
+        1.52252942253209 0.4379575630927 -0.0390335277812592
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        1.52252942253209 1.08472981071699 -0.0390335277812592
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        1.71459114253 0.4379575630927 -0.0390335277812592
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        1.71459114253 1.08472981071699 -0.0390335277812592
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { lambert14SG }
+      <VertexRef> { 0 2 3 1 <Ref> { tabShape1.verts } }
+    }
+  }
+  <Group> page2 {
+    <VertexPool> page2Shape.verts {
+      <Vertex> 0 {
+        1.13544702987911 -1.36626614112365 -0.0258340180887253
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        1.13544702987911 1.11383295736386 -0.0258340180887253
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        1.77898771276782 -1.36626614112365 -0.0258340180887253
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        1.77898771276782 1.11383295736386 -0.0258340180887253
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { tab_law1SG }
+      <VertexRef> { 0 2 3 1 <Ref> { page2Shape.verts } }
+    }
+  }
+  <Group> tab2 {
+    <VertexPool> tabShape2.verts {
+      <Vertex> 0 {
+        1.52252942253209 -0.171359174190433 -0.0390335277812592
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        1.52252942253209 0.410735848671432 -0.0390335277812592
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        1.71459114253 -0.171359174190433 -0.0390335277812592
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        1.71459114253 0.410735848671432 -0.0390335277812592
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { lambert15SG }
+      <VertexRef> { 0 2 3 1 <Ref> { tabShape2.verts } }
+    }
+  }
+  <Group> page3 {
+    <VertexPool> page3Shape.verts {
+      <Vertex> 0 {
+        1.13544702987911 -1.36626614112365 -0.0258340180887253
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        1.13544702987911 1.11383295736386 -0.0258340180887253
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        1.77898771276782 -1.36626614112365 -0.0258340180887253
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        1.77898771276782 1.11383295736386 -0.0258340180887253
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { lambert16SG }
+      <VertexRef> { 0 2 3 1 <Ref> { page3Shape.verts } }
+    }
+  }
+  <Group> tab3 {
+    <VertexPool> tabShape3.verts {
+      <Vertex> 0 {
+        1.52258264401064 -0.764136360092218 -0.0468402333375113
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        1.52258264401064 -0.193769695809116 -0.0468402333375107
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        1.71154564782525 -0.764136360092218 -0.0468402333375113
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        1.71154564782525 -0.193769695809116 -0.0468402333375107
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { lambert13SG }
+      <VertexRef> { 0 2 3 1 <Ref> { tabShape3.verts } }
+    }
+  }
+  <Group> page4 {
+    <VertexPool> page4Shape.verts {
+      <Vertex> 0 {
+        1.13544702987911 -1.36626614112365 -0.0258340180887253
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        1.13544702987911 1.11383295736386 -0.0258340180887253
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        1.77898771276782 -1.36626614112365 -0.0258340180887253
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        1.77898771276782 1.11383295736386 -0.0258340180887253
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { tab_boss1SG }
+      <VertexRef> { 0 2 3 1 <Ref> { page4Shape.verts } }
+    }
+  }
+  <Group> tab4 {
+    <VertexPool> tabShape4.verts {
+      <Vertex> 0 {
+        1.46160568192148 -1.300023682229 -0.0468402333375113
+        <UV> {
+          0 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        1.46160568192148 -0.799368499136051 -0.0468402333375107
+        <UV> {
+          0 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        1.71497801202242 -1.300023682229 -0.0468402333375113
+        <UV> {
+          1 0
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        1.71497801202242 -0.799368499136051 -0.0468402333375107
+        <UV> {
+          1 1
+          <Tangent> { 1 0 0 }
+          <Binormal> { 0 1 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { lambert17SG }
+      <VertexRef> { 0 2 3 1 <Ref> { tabShape4.verts } }
+    }
+  }
+  <Group> text_stock_option_progress {
+    <VertexPool> text_stock_option_progressShape.verts {
+      <Vertex> 0 {
+        -0.0916784252135493 0.381320448904203 0.0210705985542297
+        <UV> {
+          0 0.0240180063992739
+          <Tangent> { 0.999541954427383 -0.030263531510502 0 }
+          <Binormal> { 0.030263531510502 0.999541954427383 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 1 {
+        -0.0916784252135493 0.645541722984528 0.0210705985542297
+        <UV> {
+          0 0.965307414531708
+          <Tangent> { 0.999814437210494 -0.0192637261572805 0 }
+          <Binormal> { 0.0192637261572805 0.999814437210494 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 2 {
+        0.996932910715959 0.381320448904203 0.0210705985542297
+        <UV> {
+          1 0.141439288854599
+          <Tangent> { 0.999497422992611 -0.0317001803012201 0 }
+          <Binormal> { 0.0317001803012201 0.999497422992611 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+      <Vertex> 3 {
+        0.996932910715959 0.645541722984528 0.0210705985542297
+        <UV> {
+          0.997331321239471 1.04002952575684
+          <Tangent> { 0.999796388602647 -0.0201787347746417 0 }
+          <Binormal> { 0.0201787347746417 0.999796388602647 0 }
+        }
+        <Normal> { 0 0 1 }
+        <RGBA> { 1 1 1 1 }
+      }
+    }
+    <Polygon> {
+      <TRef> { lambert21SG }
+      <VertexRef> { 0 2 3 1 <Ref> { text_stock_option_progressShape.verts } }
+    }
+  }
+}
+<Group> transform3 {
+  <Group> transform3_orientConstraint1 {
+  }
+}
