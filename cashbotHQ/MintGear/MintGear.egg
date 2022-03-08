@@ -4,14 +4,14 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o MintGear.egg MintGear.mb"
 }
 <Texture> "textures:textures1:textures:CashBotTankCar_v2_s3:CashBotTankCar_v2_s1_lambert102SG" {
-  "../CBTankerEnd.png"
+  "CBTankerEnd.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "textures:textures1:textures:CashBotLocomotive_v2_s3:lambert81SG" {
-  "../LocomotiveDetail1.png"
+  "LocomotiveDetail1.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

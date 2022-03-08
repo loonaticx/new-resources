@@ -4,35 +4,35 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o ZONE31a.egg ZONE31a.mb"
 }
 <Texture> "textures:textures1:textures:MidVault_v2_s2:lambert53SG" {
-  "../RollUpDoors.png"
+  "RollUpDoors.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "textures:textures1:textures:CashBotLocomotive_v2_s3:file197SG" {
-  "../LocomotiveLight1.png"
+  "LocomotiveLight1.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "textures:textures1:textures:CashBotLocomotive_v2_s3:LMtopFix:lambert101SG" {
-  "../LocomotiveSide5.png"
+  "LocomotiveSide5.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "textures:textures1:ZONE04aT:textures:CashBotLocomotive_v2_s3:LMtopFix:lambert101SG" {
-  "../LocomotiveSide5.png"
+  "LocomotiveSide5.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> CementFloorWarm_GoodStairs_lambert14SG {
-  "../CementFloorx4Warm.png"
+  "CementFloorx4Warm.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

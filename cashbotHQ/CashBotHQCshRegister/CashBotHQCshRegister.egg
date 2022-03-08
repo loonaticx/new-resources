@@ -4,56 +4,56 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o CashBotHQCshRegister.egg CashBotHQCshRegister.mb"
 }
 <Texture> lambert5SG {
-  "../CashBotRegister4.png"
+  "CashBotRegister4.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> lambert4SG {
-  "../CashBotRegister3.png"
+  "CashBotRegister3.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> lambert3SG {
-  "../CashBotRegister2.png"
+  "CashBotRegister2.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> lambert2SG {
-  "../CashBotRegister1.png"
+  "CashBotRegister1.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> blinn1SG {
-  "../CBRoundEnd.png"
+  "CBRoundEnd.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> arch_reducePloy4_cleanup_lambert42SG {
-  "../square_drop_shadow.png"
+  "square_drop_shadow.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "CashBotSafe_v1_s1:lambert3SG" {
-  "../CBSafe2.png"
+  "CBSafe2.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "CashBotSafe_v1_s1:lambert2SG" {
-  "../CBSafe1c.png"
+  "CBSafe1c.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

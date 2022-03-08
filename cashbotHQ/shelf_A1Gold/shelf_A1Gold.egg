@@ -4,49 +4,49 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o shelf_A1Gold.egg shelf_A1Gold.mb"
 }
 <Texture> __WAREHOUSE_newfixes_v1s2___WAREHOUSE_finalfixesv1s2___WAREHOUSE_lowerpoly_v1s2_shortShelf_v1s7_lambert16SG {
-  "../square_drop_shadow.png"
+  "square_drop_shadow.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> __WAREHOUSE_newfixes_v1s2_WareHouseT_shortShelf_v1s7_lambert4SG {
-  "../shortShelf3Rust.png"
+  "shortShelf3Rust.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> __WAREHOUSE_newfixes_v1s2_WareHouseT_shortShelf_v1s7_lambert3SG {
-  "../tallShelfShelf3Rust.png"
+  "tallShelfShelf3Rust.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "GoldBarStack_v_s1:lambert4SG" {
-  "../GoldBarNumbers.png"
+  "GoldBarNumbers.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "GoldBarStack_v_s1:lambert3SG" {
-  "../GoldLogo.png"
+  "GoldLogo.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "GoldBarStack_v_s1:lambert2SG" {
-  "../GoldBar2.png"
+  "GoldBar2.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "GoldBarStack_v_s1:SquareShadow:arch_reducePloy4_cleanup_lambert42SG" {
-  "../square_drop_shadow.png"
+  "square_drop_shadow.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

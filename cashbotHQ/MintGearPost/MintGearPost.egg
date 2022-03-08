@@ -4,7 +4,7 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o MintGearPost.egg MintGearPost.mb"
 }
 <Texture> "textures:textures1:textures:CashBotFlatCar_v2_s2:CashBotFlatCar_v2_s1_CashBotFlatCar_v1_s2_lambert81SG" {
-  "../LocomotiveDetail1.png"
+  "LocomotiveDetail1.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

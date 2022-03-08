@@ -4,49 +4,49 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o boiler_B1.egg boiler_B1.mb"
 }
 <Texture> pasted__lambert105SG {
-  "../ShadowCircle.png"
+  "ShadowCircle.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> bigBoiler_v1s5_lambert8SG {
-  "../bbPipeCap.png"
+  "bbPipeCap.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> bigBoiler_v1s5_lambert7SG {
-  "../bbTallTop.png"
+  "bbTallTop.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> bigBoiler_v1s5_lambert6SG {
-  "../bbShortTop.png"
+  "bbShortTop.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> bigBoiler_v1s5_lambert5SG {
-  "../bbShortBot3.png"
+  "bbShortBot3.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> bigBoiler_v1s5_lambert4SG {
-  "../bbShortMid.png"
+  "bbShortMid.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> bigBoiler_v1s5_lambert3SG {
-  "../bbPipe1.png"
+  "bbPipe1.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

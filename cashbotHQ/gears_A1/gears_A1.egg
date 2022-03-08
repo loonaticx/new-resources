@@ -4,21 +4,21 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o gears_A1.egg gears_A1.mb"
 }
 <Texture> __WAREHOUSE_newfixes_v1s2___WAREHOUSE_finalfixesv1s5_Gears_v2s2_GearCapJointSG {
-  "../GearCapJoint.png"
+  "GearCapJoint.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> __WAREHOUSE_newfixes_v1s2___WAREHOUSE_finalfixesv1s5_Gears_v2s2_GearCap2SG {
-  "../GearCap2.png"
+  "GearCap2.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "RoundShadow:lambert105SG" {
-  "../ShadowCircle.png"
+  "ShadowCircle.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

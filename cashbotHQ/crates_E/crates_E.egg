@@ -4,14 +4,14 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o crates_E.egg crates_E.mb"
 }
 <Texture> "GoodMetalBox:crates_A_v1s1:CBMetalCrate_v1_s2:__WAREHOUSE_newfixes_v1s2___WAREHOUSE_finalfixesv1s5_WareHouseT_lambert54SG" {
-  "../CBMetalCrate.png"
+  "CBMetalCrate.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "GoodMetalBox:crates_A_v1s1:CBMetalCrate_v1_s2:SquareShadow:arch_reducePloy4_cleanup_lambert42SG" {
-  "../square_drop_shadow.png"
+  "square_drop_shadow.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

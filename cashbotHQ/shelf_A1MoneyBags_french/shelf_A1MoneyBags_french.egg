@@ -4,35 +4,35 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o shelf_A1MoneyBags_french.egg shelf_A1MoneyBags_french.mb"
 }
 <Texture> __WAREHOUSE_newfixes_v1s2___WAREHOUSE_finalfixesv1s2___WAREHOUSE_lowerpoly_v1s2_shortShelf_v1s7_lambert16SG {
-  "../square_drop_shadow.png"
+  "square_drop_shadow.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> __WAREHOUSE_newfixes_v1s2_WareHouseT_shortShelf_v1s7_lambert4SG {
-  "../shortShelf3Rust.png"
+  "shortShelf3Rust.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> __WAREHOUSE_newfixes_v1s2_WareHouseT_shortShelf_v1s7_lambert3SG {
-  "../tallShelfShelf3Rust.png"
+  "tallShelfShelf3Rust.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "MoneyBag_v1_s4:lambert2SG" {
-  "../CBMoneyBags1aEuro.png"
+  "CBMoneyBags1aEuro.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "MoneyBag_v1_s4:RoundShadow:lambert105SG" {
-  "../ShadowCircle.png"
+  "ShadowCircle.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

@@ -4,35 +4,35 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o pipes_A2.egg pipes_A2.mb"
 }
 <Texture> grad_CrossBeamGradSG {
-  "../CrossBeamGrad.png"
+  "CrossBeamGrad.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> SquareShadow_lambert42SG {
-  "../square_drop_shadow.png"
+  "square_drop_shadow.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> Entrance_1T_AHv1s2_lambert3SG {
-  "../CrossBeamTop.png"
+  "CrossBeamTop.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> CrossBeamsOneTest_CrossBeamQuarter2SG1 {
-  "../CrossBeamQuarter2.png"
+  "CrossBeamQuarter2.png"
   <Scalar> wrapu { clamp }
   <Scalar> wrapv { clamp }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> CrossBeamQuarterSG {
-  "../CrossBeamQuarter.png"
+  "CrossBeamQuarter.png"
   <Scalar> wrapu { clamp }
   <Scalar> wrapv { clamp }
   <Scalar> minfilter { linear_mipmap_linear }

@@ -4,21 +4,21 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o DoubleCoinStack_french.egg DoubleCoinStack_french.mb"
 }
 <Texture> "shelf_A1MoneyBags_v1s1:MoneyBag_v1_s4:lambert2SG" {
-  "../CBMoneyBags1aEuro.png"
+  "CBMoneyBags1aEuro.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "SquareShadow:arch_reducePloy4_cleanup_lambert42SG" {
-  "../square_drop_shadow.png"
+  "square_drop_shadow.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "MoneyStackPallet_v1_s3:lambert11SG" {
-  "../Pallet2.png"
+  "Pallet2.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

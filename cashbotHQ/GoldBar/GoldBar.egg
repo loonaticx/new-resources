@@ -4,28 +4,28 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o GoldBar.egg GoldBar.mb"
 }
 <Texture> lambert4SG {
-  "../GoldBarNumbers.png"
+  "GoldBarNumbers.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> lambert3SG {
-  "../GoldLogo.png"
+  "GoldLogo.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> lambert2SG {
-  "../GoldBar2.png"
+  "GoldBar2.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "SquareShadow:arch_reducePloy4_cleanup_lambert42SG" {
-  "../square_drop_shadow.png"
+  "square_drop_shadow.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

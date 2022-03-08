@@ -4,28 +4,28 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o DoubleGoldStack_french.egg DoubleGoldStack_french.mb"
 }
 <Texture> lambert149SG {
-  "../GoldBar2LogoEuro.png"
+  "GoldBar2LogoEuro.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "SquareShadow:arch_reducePloy4_cleanup_lambert42SG" {
-  "../square_drop_shadow.png"
+  "square_drop_shadow.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "MoneyStackPallet_v1_s3:lambert11SG" {
-  "../Pallet2.png"
+  "Pallet2.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "GoldBarStack_v_s1:lambert2SG" {
-  "../GoldBar2.png"
+  "GoldBar2.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

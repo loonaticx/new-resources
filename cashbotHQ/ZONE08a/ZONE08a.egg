@@ -4,56 +4,56 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o ZONE08a.egg ZONE08a.mb"
 }
 <Texture> "textures:textures1:lambert15SG" {
-  "../PaintedWall.png"
+  "PaintedWall.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "textures:textures1:ZONE04aT:textures:MidVault_v2_s2:lambert52SG" {
-  "../CFOCeiling2.png"
+  "CFOCeiling2.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "textures:textures1:ZONE04aT:textures:CashBotLocomotive_v2_s3:LMtopFix:lambert101SG" {
-  "../LocomotiveSide5.png"
+  "LocomotiveSide5.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "textures:lambert15SG" {
-  "../PaintedWall.png"
+  "PaintedWall.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> file54SG {
-  "../WallCementLightEdge.png"
+  "WallCementLightEdge.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "LongLights:textures1:MidVault_v2_s2:lambert53SG" {
-  "../RollUpDoors.png"
+  "RollUpDoors.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "LongLights:textures1:EndVault_v2_s3:CBElevator:lambert139SG" {
-  "../CBStationLightTubes.png"
+  "CBStationLightTubes.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> BoilerRoomT_lambert14SG {
-  "../CementFloorx4.png"
+  "CementFloorx4.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

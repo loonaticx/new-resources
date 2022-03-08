@@ -4,28 +4,28 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o ZONE03a.egg ZONE03a.mb"
 }
 <Texture> "textures:lambert77SG" {
-  "../CashBotTrainStationWall2.png"
+  "CashBotTrainStationWall2.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "textures:MidVault_v2_s2:lambert52SG" {
-  "../CFOCeiling2.png"
+  "CFOCeiling2.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "textures:CashBotLocomotive_v2_s3:file197SG" {
-  "../LocomotiveLight1.png"
+  "LocomotiveLight1.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> BoilerRoomT_lambert14SG {
-  "../CementFloorx4.png"
+  "CementFloorx4.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

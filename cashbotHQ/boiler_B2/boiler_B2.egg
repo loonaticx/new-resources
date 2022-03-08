@@ -4,14 +4,14 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o boiler_B2.egg boiler_B2.mb"
 }
 <Texture> pasted__pasted__lambert105SG {
-  "../ShadowCircle.png"
+  "ShadowCircle.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> bigBoiler_v1s5_lambert3SG {
-  "../bbPipe1.png"
+  "bbPipe1.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

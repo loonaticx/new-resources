@@ -4,35 +4,35 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o MoneyStackPallet.egg MoneyStackPallet.mb"
 }
 <Texture> lambert9SG {
-  "../CBMoneyStackPalletSide3.png"
+  "CBMoneyStackPalletSide3.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> lambert8SG {
-  "../CBWrapperBill.png"
+  "CBWrapperBill.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> lambert11SG {
-  "../Pallet1.png"
+  "Pallet1.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> lambert10SG {
-  "../CBMoneyStackPalletSide2.png"
+  "CBMoneyStackPalletSide2.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "SquareShadow1:arch_reducePloy4_cleanup_lambert42SG" {
-  "../square_drop_shadow.png"
+  "square_drop_shadow.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

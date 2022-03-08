@@ -4,7 +4,7 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o DoorFrame.egg DoorFrame.mb"
 }
 <Texture> "textures:textures1:textures:EndVault_v2_s3:lambert57SG" {
-  "../CBWallVault.png"
+  "CBWallVault.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

@@ -4,42 +4,42 @@
   "maya2egg_client -uo ft -tbnall -nv 60 -o boiler_A1_english.egg boiler_A1_english.mb"
 }
 <Texture> boiler_A_lambert8SG {
-  "../BoilerBox1.png"
+  "BoilerBox1.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> boiler_A_lambert7SG {
-  "../boiler_top2.png"
+  "boiler_top2.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> boiler_A_lambert6SG {
-  "../BoilerDial3.png"
+  "BoilerDial3.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> boiler_A_lambert5SG {
-  "../BoilerDial1.png"
+  "BoilerDial1.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> boiler_A_lambert4SG {
-  "../boiler1.png"
+  "boiler1.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
   <Scalar> magfilter { linear }
 }
 <Texture> "RoundShadow:lambert105SG" {
-  "../ShadowCircle.png"
+  "ShadowCircle.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }
