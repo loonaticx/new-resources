@@ -3,3 +3,17 @@
 *.psd
 estate/out/*
 estate\out\*
+.vscode
+.mayaSwatches
+screenshot*
+Layer *
+*.mb
+*.ma
+.history
+.idea
+
+# just for now
+*.bat
+*.txa
+out/*
+output_dynamic/*
