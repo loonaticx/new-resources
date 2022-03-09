@@ -11,9 +11,16 @@ Layer *
 *.ma
 .history
 .idea
+*- Copy.*
 
 # just for now
 *.bat
 *.txa
 out/*
-output_dynamic/*
+*output_dynamic/*
+*.obj
+*.fbx
+*.dae
+*.bam
+*palette*
+*.old

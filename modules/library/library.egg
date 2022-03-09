@@ -4,7 +4,7 @@
   "flt2egg -tbnall -nv 60 -o library.egg library.flt"
 }
 <Texture> 8 {
-  "flag.png"
+  "flag_1.png"
   <Scalar> wrap { repeat }
   <Scalar> minfilter { linear }
   <Scalar> magfilter { linear }
