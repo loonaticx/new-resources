@@ -1,0 +1,31 @@
+v 1 0 0
+v 1 0 6
+v -5 0 6
+v -5 0 0
+v -6 0 4
+v -6 0 0
+v 2 0 0
+v 2 0 4
+v -6 0 5
+v 2 0 5
+vt 1.00034582614899 -0.00496959872543812
+vt 0.993263602256775 0.997633039951324
+vt -0.0102738831192255 1.00269079208374
+vt -0.00319165573455393 8.81259547895752e-05
+vt 1 0
+vt 1 1
+vt 0 1
+vt 0 0
+vn 0 -1 0
+g prop_drums drums g1
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g prop_drums_collisions drums g1
+f 5//1 6//1 7//1 8//1
+g prop_cello cello g1
+f 1/5/1 2/6/1 3/7/1 4/8/1
+g prop_cello_collisions cello g1
+f 9//1 6//1 7//1 10//1
+g prop_trumpet trumpet g1
+f 1/5/1 2/6/1 3/7/1 4/8/1
+g prop_trumpet_collisions trumpet g1
+f 9//1 6//1 7//1 10//1

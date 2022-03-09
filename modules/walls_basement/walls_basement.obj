@@ -1,0 +1,33 @@
+v 1 0 0
+v 1 0 1
+v 0 0 1
+v 0 0 0
+v 1 0 -2
+v 1 0 2
+v 0 0 2
+v 0 0 -2
+vt 1 0
+vt 1 1
+vt 0 1
+vt 0 0
+vn 0 -1 0
+g wall_basement_brick_ur wall_basement_brick 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_basement_brick_ul wall_basement_brick 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_basement_brick_dr wall_basement_brick 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_basement_brick_dl wall_basement_brick 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_basement_rock_ur wall_basement_rock 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_basement_rock_ul wall_basement_rock 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_basement_rock_dr wall_basement_rock 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_basement_rock_dl wall_basement_rock 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g o157 wall_collide 1x1walls
+f 5//1 6//1 7//1 8//1
+g o165 wall_camera_collide 1x1walls
+f 1//1 2//1 3//1 4//1

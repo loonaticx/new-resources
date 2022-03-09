@@ -1,0 +1,93 @@
+v 1.00000001490116 0 0
+v 1.00000001490116 0 0.25000000372529
+v 0 0 0.25000000372529
+v 0 0 0
+v 0 0 -0.150000002235174
+v 1.00000001490116 0 -0.150000002235174
+v 1.00000001490116 0 0.100000001490116
+v 0 0 0.100000001490116
+v 0 0 -0.100000001490116
+v 1.00000001490116 0 -0.100000001490116
+v 1.00000001490116 0 0.0888141168477254
+v 0 0 0.0888141168477254
+v 1.00000001490116 0 0.200000002980232
+v 0 0 0.200000002980232
+v 0 0 -0.200000002980232
+v 1.00000001490116 0 -0.200000002980232
+v 1.00000001490116 0 0.150000002235174
+v 0 0 0.150000002235174
+vt 1 0.375
+vt 1 1
+vt 0 1
+vt 0 0.375
+vt 0 0
+vt 1 0
+vt 1 0.5
+vt 0 0.5
+vt 1 0.62810355424881
+vt 0 0.62810355424881
+vn 0 -1 0
+g cornice_stone_ur_nd cornice_stone_ur cornice_stone cornices
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g cornice_stone_ur_d cornice_stone_ur cornice_stone cornices
+f 4/4/1 5/5/1 6/6/1 1/1/1
+g cornice_stone_ul_nd cornice_stone_ul cornice_stone cornices
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g cornice_stone_ul_d cornice_stone_ul cornice_stone cornices
+f 4/1/1 5/6/1 6/5/1 1/4/1
+g cornice_brick_ur_nd cornice_brick_ur cornice_brick cornices
+f 1/7/1 7/2/1 8/3/1 4/8/1
+g cornice_brick_ur_d cornice_brick_ur cornice_brick cornices
+f 4/8/1 9/5/1 10/6/1 1/7/1
+g cornice_brick_ul_nd cornice_brick_ul cornice_brick cornices
+f 1/8/1 7/3/1 8/2/1 4/7/1
+g cornice_brick_ul_d cornice_brick_ul cornice_brick cornices
+f 4/7/1 9/6/1 10/5/1 1/8/1
+g cornice_dental_ur_nd cornice_dental_ur cornice_dental cornices
+f 1/9/1 11/2/1 12/3/1 4/10/1
+g cornice_dental_ur_d cornice_dental_ur cornice_dental cornices
+f 4/10/1 5/5/1 6/6/1 1/9/1
+g cornice_dental_ul_nd cornice_dental_ul cornice_dental cornices
+f 1/10/1 11/3/1 12/2/1 4/9/1
+g cornice_dental_ul_d cornice_dental_ul cornice_dental cornices
+f 4/9/1 5/6/1 6/5/1 1/10/1
+g cornice_shingles_ur_nd cornice_shingles_ur cornice_shingles cornices
+f 1/7/1 13/2/1 14/3/1 4/8/1
+g cornice_shingles_ur_d cornice_shingles_ur cornice_shingles cornices
+f 4/8/1 15/5/1 16/6/1 1/7/1
+g cornice_shingles_ul_nd cornice_shingles_ul cornice_shingles cornices
+f 1/8/1 13/3/1 14/2/1 4/7/1
+g cornice_shingles_ul_d cornice_shingles_ul cornice_shingles cornices
+f 4/7/1 15/6/1 16/5/1 1/8/1
+g cornice_marble_ur_nd cornice_marble_ur cornice_marble cornices
+f 1/7/1 17/2/1 18/3/1 4/8/1
+g cornice_marble_ur_d cornice_marble_ur cornice_marble cornices
+f 4/8/1 5/5/1 6/6/1 1/7/1
+g cornice_marble_ul_nd cornice_marble_ul cornice_marble cornices
+f 1/8/1 17/3/1 18/2/1 4/7/1
+g cornice_marble_ul_d cornice_marble_ul cornice_marble cornices
+f 4/7/1 5/6/1 6/5/1 1/8/1
+g cornice_horizontal_ur_nd cornice_horizontal_ur cornice_horizontal cornices
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g cornice_horizontal_ur_d cornice_horizontal_ur cornice_horizontal cornices
+f 4/4/1 5/5/1 6/6/1 1/1/1
+g cornice_horizontal_ul_nd cornice_horizontal_ul cornice_horizontal cornices
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g cornice_horizontal_ul_d cornice_horizontal_ul cornice_horizontal cornices
+f 4/1/1 5/6/1 6/5/1 1/4/1
+g cornice_ice_ur_nd cornice_ice_ur cornice_ice cornices
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g cornice_ice_ur_d cornice_ice_ur cornice_ice cornices
+f 4/4/1 5/5/1 6/6/1 1/1/1
+g cornice_ice_ul_nd cornice_ice_ul cornice_ice cornices
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g cornice_ice_ul_d cornice_ice_ul cornice_ice cornices
+f 4/1/1 5/6/1 6/5/1 1/4/1
+g cornice_curved_ur_nd cornice_curved_ur cornice_curved cornices
+f 1/7/1 7/2/1 8/3/1 4/8/1
+g cornice_curved_ur_d cornice_curved_ur cornice_curved cornices
+f 4/8/1 9/5/1 10/6/1 1/7/1
+g cornice_curved_ul_nd cornice_curved_ul cornice_curved cornices
+f 1/8/1 7/3/1 8/2/1 4/7/1
+g cornice_curved_ul_d cornice_curved_ul cornice_curved cornices
+f 4/7/1 9/6/1 10/5/1 1/8/1

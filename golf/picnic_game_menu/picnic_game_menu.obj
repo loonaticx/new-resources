@@ -1,0 +1,27 @@
+v -0.984251968503937 0 -0.984251968503937
+v 0.984251968503937 0 -0.984251968503937
+v 0.984251968503937 0 0.984251968503937
+v -0.984251968503937 0 0.984251968503937
+vt 0 0
+vt 1 0
+vt 1 1
+vt 0 1
+vn 0 -1 0
+g checkersBtnUp Btn1
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g checkersBtnHi Btn1
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g checkersBtnDn Btn1
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g regular_checkersBtnUp Btn2
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g regular_checkersBtnHi Btn2
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g regular_checkersBtnDn Btn2
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g findfourBtnUp Btn3
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g findfourBtnHi Btn3
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g findfourBtnDn Btn3
+f 1/1/1 2/2/1 3/3/1 4/4/1

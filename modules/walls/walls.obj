@@ -1,0 +1,173 @@
+v 1 0 0
+v 1 0 1
+v 0 0 1
+v 0 0 0
+v 1 0 -2
+v 1 0 2
+v 0 0 2
+v 0 0 -2
+v 1 0 -0.1
+v 0 0 -0.1
+vt 1 0
+vt 1 1
+vt 0 1
+vt 0 0
+vn 0 -1 0
+g wall_lg_brick_ur wall_lg_brick 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_lg_brick_ul wall_lg_brick 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_lg_brick_dr wall_lg_brick 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_lg_brick_dl wall_lg_brick 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_lg_rock_ur wall_lg_rock 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_lg_rock_ul wall_lg_rock 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_lg_rock_dr wall_lg_rock 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_lg_rock_dl wall_lg_rock 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_md_blank_ur wall_md_blank 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_md_blank_ul wall_md_blank 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_md_blank_dr wall_md_blank 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_md_blank_dl wall_md_blank 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_md_board_ur wall_md_board 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_md_board_ul wall_md_board 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_md_board_dr wall_md_board 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_md_board_dl wall_md_board 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_md_bricks_ur wall_md_bricks 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_md_bricks_ul wall_md_bricks 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_md_bricks_dr wall_md_bricks 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_md_bricks_dl wall_md_bricks 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_md_dental_ur wall_md_dental 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_md_dental_ul wall_md_dental 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_md_dental_dr wall_md_dental 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_md_dental_dl wall_md_dental 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_md_pillars_ur wall_md_pillars 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_md_pillars_ul wall_md_pillars 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_md_pillars_dr wall_md_pillars 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_md_pillars_dl wall_md_pillars 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_sm_brick_blue_ur wall_sm_brick_blue 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_sm_brick_blue_ul wall_sm_brick_blue 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_sm_brick_blue_dr wall_sm_brick_blue 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_sm_brick_blue_dl wall_sm_brick_blue 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_sm_brick_pink_ur wall_sm_brick_pink 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_sm_brick_pink_ul wall_sm_brick_pink 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_sm_brick_pink_dr wall_sm_brick_pink 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_sm_brick_pink_dl wall_sm_brick_pink 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_sm_brick_ur wall_sm_brick 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_sm_brick_ul wall_sm_brick 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_sm_brick_dr wall_sm_brick 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_sm_brick_dl wall_sm_brick 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_sm_cement_ur wall_sm_cement 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_sm_cement_ul wall_sm_cement 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_sm_cement_dr wall_sm_cement 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_sm_cement_dl wall_sm_cement 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_sm_wood_ur wall_sm_wood 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_sm_wood_ul wall_sm_wood 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_sm_wood_dr wall_sm_wood 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_sm_wood_dl wall_sm_wood 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_stone_fence_ur wall_stone_fence 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_stone_fence_ul wall_stone_fence 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_woodflower_fence_ur wall_woodflower_fence 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_woodflower_fence_ul wall_woodflower_fence 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_bricks_red_ur wall_bricks_red 1x1walls
+f 1//1 2//1 3//1 4//1
+g wall_bricks_red_ul wall_bricks_red 1x1walls
+f 1//1 2//1 3//1 4//1
+g wall_bricks_red_dr wall_bricks_red 1x1walls
+f 1//1 2//1 3//1 4//1
+g wall_bricks_red_dl wall_bricks_red 1x1walls
+f 1//1 2//1 3//1 4//1
+g wall_bricks_ur wall_bricks 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_bricks_ul wall_bricks 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_bricks_dr wall_bricks 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_bricks_dl wall_bricks 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_fence_wood_ur wall_fence_wood 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_fence_wood_ul wall_fence_wood 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_fence_wood_dr wall_fence_wood 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_fence_wood_dl wall_fence_wood 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_fence_wood_ur_1 wall_fence_wood_1 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_fence_wood_ul_1 wall_fence_wood_1 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_fence_wood_dr_1 wall_fence_wood_1 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_fence_wood_dl_1 wall_fence_wood_1 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_fence_wood_ur_2 wall_fence_wood_2 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_fence_wood_ul_2 wall_fence_wood_2 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_fence_wood_dr_2 wall_fence_wood_2 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_fence_wood_dl_2 wall_fence_wood_2 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_sm_cement_blue_ur wall_sm_cement_blue 1x1walls
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g wall_sm_cement_blue_ul wall_sm_cement_blue 1x1walls
+f 1/4/1 2/3/1 3/2/1 4/1/1
+g wall_sm_cement_blue_dr wall_sm_cement_blue 1x1walls
+f 1/2/1 2/1/1 3/4/1 4/3/1
+g wall_sm_cement_blue_dl wall_sm_cement_blue 1x1walls
+f 1/3/1 2/4/1 3/1/1 4/2/1
+g wall_collide 1x1walls
+f 5//1 6//1 7//1 8//1
+g wall_camera_collide 1x1walls
+f 1//1 2//1 3//1 4//1
+g wall_camera_barrier 1x1walls
+f 9//1 2//1 3//1 10//1

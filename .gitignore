@@ -18,7 +18,7 @@ Layer *
 *.txa
 out/*
 *output_dynamic/*
-*.obj
+
 *.fbx
 *.dae
 *.bam

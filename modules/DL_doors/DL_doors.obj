@@ -1,0 +1,13 @@
+v -4.5 0 9
+v -4.5 0 0
+v 4.5 0 0
+v 4.5 0 9
+vt 0 1
+vt 0 0
+vt 1 0
+vt 1 1
+vn 0 -1 0
+g door_double_curvedDL_ur door_double_roundDL newdoors
+f 1/1/1 2/2/1 3/3/1 4/4/1
+g door_double_curvedDL_ul door_double_roundDL newdoors
+f 1/4/1 2/3/1 3/2/1 4/1/1
