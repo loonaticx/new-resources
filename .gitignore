@@ -12,6 +12,8 @@ Layer *
 .history
 .idea
 *- Copy.*
+bin
+*.py
 
 # just for now
 *.bat
