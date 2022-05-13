@@ -7,7 +7,7 @@ estate\out\*
 .mayaSwatches
 screenshot*
 Layer *
-*.mb
+
 *.ma
 .history
 .idea
